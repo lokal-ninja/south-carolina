@@ -1,0 +1,4 @@
+---
+title: "Edible Arrangements"
+url: /greenville/edible-arrangements/
+---
