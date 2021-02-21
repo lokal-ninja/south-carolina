@@ -1,12 +1,11 @@
-id: 67194362
-type: way
-shop: supermarket
-latitude: 34.7340001
-longitude: -82.2834358
-postcode: "29680"
+id: 3140255842
+type: node
+latitude: 34.806837800000004
+longitude: -82.229301
+postcode: ""
 city: Simpsonville
-street: "West Georgia Road"
-housenumber: 1004
+street: "Woodruff Road"
+housenumber: 2607
 phone: ""
 opening_hours: ""
 website: ""
