@@ -1,5 +1,5 @@
 ---
 title: "Circle Cuts"
 url: /barnwell/circle-cuts/
-shop: hairdresser
+shop: Friseur
 ---

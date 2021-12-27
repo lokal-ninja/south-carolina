@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /indian-land/aldi-2/
-shop: supermarket
+shop: Supermarkt
 ---

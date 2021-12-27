@@ -1,5 +1,5 @@
 ---
 title: "Bowers School Supply"
 url: /easley/bowers-school-supply/
-shop: copyshop
+shop: Kopieren
 ---

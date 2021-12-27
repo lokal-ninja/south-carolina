@@ -1,6 +1,6 @@
 ---
 title: Garden City
 url: /garden-city/
-latitude: 
-longitude: 
+latitude: 33.587
+longitude: -79.011
 ---

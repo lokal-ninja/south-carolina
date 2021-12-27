@@ -1,6 +1,6 @@
 ---
 title: Berea
 url: /berea/
-latitude: 34.885395100000004
-longitude: -82.4559571
+latitude: 34.905
+longitude: -82.461
 ---

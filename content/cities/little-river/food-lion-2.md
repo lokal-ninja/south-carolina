@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
 url: /little-river/food-lion-2/
-shop: supermarket
+shop: Supermarkt
 ---

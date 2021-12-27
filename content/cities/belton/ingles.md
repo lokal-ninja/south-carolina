@@ -1,5 +1,5 @@
 ---
 title: "Ingle's"
 url: /belton/ingles/
-shop: supermarket
+shop: Supermarkt
 ---

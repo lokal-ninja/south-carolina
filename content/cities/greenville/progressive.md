@@ -1,5 +1,5 @@
 ---
 title: "Progressive"
 url: /greenville/progressive/
-shop: shop
+shop: Allgemein
 ---

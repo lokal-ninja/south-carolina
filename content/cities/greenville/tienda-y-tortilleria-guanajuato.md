@@ -1,5 +1,5 @@
 ---
 title: "Tienda y Tortilleria Guanajuato"
 url: /greenville/tienda-y-tortilleria-guanajuato/
-shop: convenience
+shop: Lebensmittel
 ---

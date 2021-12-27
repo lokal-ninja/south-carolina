@@ -1,6 +1,6 @@
 ---
 title: Lake Wylie
 url: /lake-wylie/
-latitude: 
-longitude: 
+latitude: 35.135
+longitude: -81.082
 ---

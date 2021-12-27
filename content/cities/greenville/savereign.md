@@ -1,5 +1,5 @@
 ---
 title: "Savereign"
 url: /greenville/savereign/
-shop: garden centre
+shop: Garten-Center
 ---

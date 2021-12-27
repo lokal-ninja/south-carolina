@@ -1,5 +1,5 @@
 ---
 title: "BankSouth Mortgage"
 url: /seneca/banksouth-mortgage/
-shop: pawnbroker
+shop: Leiher
 ---

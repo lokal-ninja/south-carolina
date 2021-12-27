@@ -1,6 +1,6 @@
 ---
 title: Tega Cay
 url: /tega-cay/
-latitude: 35.024312
-longitude: -81.02785460000001
+latitude: 35.048
+longitude: -80.992
 ---

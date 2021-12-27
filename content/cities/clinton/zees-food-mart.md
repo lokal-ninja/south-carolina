@@ -1,5 +1,5 @@
 ---
 title: "Zee's Food Mart"
 url: /clinton/zees-food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

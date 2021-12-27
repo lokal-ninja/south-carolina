@@ -1,5 +1,5 @@
 ---
 title: "Classy Nails"
 url: /greenville/classy-nails/
-shop: beauty
+shop: Kosmetik
 ---

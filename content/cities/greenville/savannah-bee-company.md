@@ -1,5 +1,5 @@
 ---
 title: "Savannah Bee Company"
 url: /greenville/savannah-bee-company/
-shop: apiary
+shop: Imkerei
 ---

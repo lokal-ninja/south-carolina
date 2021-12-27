@@ -1,5 +1,5 @@
 ---
 title: "Avon Here"
 url: /woodruff/avon-here/
-shop: perfumery
+shop: Parfümerie
 ---

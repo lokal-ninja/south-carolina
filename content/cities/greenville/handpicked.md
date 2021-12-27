@@ -1,5 +1,5 @@
 ---
 title: "Handpicked"
 url: /greenville/handpicked/
-shop: jewelry
+shop: Schmuck
 ---

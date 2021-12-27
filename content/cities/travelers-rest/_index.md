@@ -1,6 +1,6 @@
 ---
 title: Travelers Rest
 url: /travelers-rest/
-latitude: 34.9676167
-longitude: -82.44345480000001
+latitude: 34.962
+longitude: -82.441
 ---

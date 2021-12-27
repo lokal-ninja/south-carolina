@@ -1,5 +1,5 @@
 ---
 title: "Hamrick's"
 url: /easley/hamricks/
-shop: clothes
+shop: Kleidung
 ---

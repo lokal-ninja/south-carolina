@@ -1,5 +1,5 @@
 ---
 title: "Greenville Mattress Company"
 url: /greenville/greenville-mattress-company/
-shop: shop
+shop: Allgemein
 ---

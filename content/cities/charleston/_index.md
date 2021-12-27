@@ -1,6 +1,6 @@
 ---
 title: Charleston
 url: /charleston/
-latitude: 32.8152646
-longitude: -79.79968140000001
+latitude: 32.792
+longitude: -79.94
 ---

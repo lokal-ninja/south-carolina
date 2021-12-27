@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /greer/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

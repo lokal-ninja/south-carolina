@@ -1,6 +1,6 @@
 ---
 title: Gadsden
 url: /gadsden/
-latitude: 33.845709400000004
-longitude: -80.7659223
+latitude: 33.846
+longitude: -80.764
 ---

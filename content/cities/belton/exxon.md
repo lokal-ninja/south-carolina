@@ -1,5 +1,5 @@
 ---
 title: "Exxon"
 url: /belton/exxon/
-shop: convenience
+shop: Lebensmittel
 ---

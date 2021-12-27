@@ -1,5 +1,5 @@
 ---
 title: "Right Touch"
 url: /clinton/right-touch/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spinx"
 url: /duncan/spinx/
-shop: convenience
+shop: Lebensmittel
 ---

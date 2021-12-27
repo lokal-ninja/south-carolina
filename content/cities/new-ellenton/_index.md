@@ -1,6 +1,6 @@
 ---
 title: New Ellenton
 url: /new-ellenton/
-latitude: 33.421531
-longitude: -81.6856654
+latitude: 33.427
+longitude: -81.687
 ---

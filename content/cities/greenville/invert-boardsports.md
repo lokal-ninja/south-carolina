@@ -1,5 +1,5 @@
 ---
 title: "Invert Boardsports"
 url: /greenville/invert-boardsports/
-shop: sports
+shop: Sport
 ---

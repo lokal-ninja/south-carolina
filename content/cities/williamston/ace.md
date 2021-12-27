@@ -1,5 +1,5 @@
 ---
 title: "Ace"
 url: /williamston/ace/
-shop: hardware
+shop: Eisenwaren
 ---

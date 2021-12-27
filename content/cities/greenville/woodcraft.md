@@ -1,5 +1,5 @@
 ---
 title: "Woodcraft"
 url: /greenville/woodcraft/
-shop: craft
+shop: Basteln
 ---

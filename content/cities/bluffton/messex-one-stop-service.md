@@ -1,5 +1,5 @@
 ---
 title: "Messex One Stop Service"
 url: /bluffton/messex-one-stop-service/
-shop: convenience
+shop: Lebensmittel
 ---

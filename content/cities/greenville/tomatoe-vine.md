@@ -1,5 +1,5 @@
 ---
 title: "Tomatoe Vine"
 url: /greenville/tomatoe-vine/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

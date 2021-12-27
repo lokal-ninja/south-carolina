@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /spartanburg/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

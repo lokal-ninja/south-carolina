@@ -1,5 +1,5 @@
 ---
 title: "Melange"
 url: /greenville/melange/
-shop: art
+shop: Kunst
 ---

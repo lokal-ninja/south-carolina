@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /greenwood/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

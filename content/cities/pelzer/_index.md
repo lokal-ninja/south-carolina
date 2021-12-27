@@ -1,6 +1,6 @@
 ---
 title: Pelzer
 url: /pelzer/
-latitude: 34.6423372
-longitude: -82.4559598
+latitude: 34.673
+longitude: -82.398
 ---

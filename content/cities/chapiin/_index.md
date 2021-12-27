@@ -1,6 +1,6 @@
 ---
 title: Chapiin
 url: /chapiin/
-latitude: 
-longitude: 
+latitude: 34.164
+longitude: -81.352
 ---

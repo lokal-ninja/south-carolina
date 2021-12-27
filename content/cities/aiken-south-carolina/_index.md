@@ -1,6 +1,6 @@
 ---
 title: Aiken, South Carolina
 url: /aiken-south-carolina/
-latitude: 
-longitude: 
+latitude: 33.557
+longitude: -81.707
 ---

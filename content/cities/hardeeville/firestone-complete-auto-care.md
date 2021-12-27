@@ -1,5 +1,5 @@
 ---
 title: "Firestone Complete Auto Care"
 url: /hardeeville/firestone-complete-auto-care/
-shop: car repair
+shop: Autowerkstatt
 ---

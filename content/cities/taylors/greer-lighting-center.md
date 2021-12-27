@@ -1,5 +1,5 @@
 ---
 title: "Greer Lighting Center"
 url: /taylors/greer-lighting-center/
-shop: houseware
+shop: Haushaltsartikel
 ---

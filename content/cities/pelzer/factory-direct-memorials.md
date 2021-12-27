@@ -1,5 +1,5 @@
 ---
 title: "Factory Direct Memorials"
 url: /pelzer/factory-direct-memorials/
-shop: shop
+shop: Allgemein
 ---

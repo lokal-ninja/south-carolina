@@ -1,5 +1,5 @@
 ---
 title: "LaRue"
 url: /simpsonville/larue/
-shop: clothes
+shop: Kleidung
 ---

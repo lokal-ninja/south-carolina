@@ -1,6 +1,6 @@
 ---
 title: Little River
 url: /little-river/
-latitude: 33.8727006
-longitude: -78.6232583
+latitude: 33.895
+longitude: -78.593
 ---

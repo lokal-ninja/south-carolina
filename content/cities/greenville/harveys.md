@@ -1,5 +1,5 @@
 ---
 title: "Harvey's"
 url: /greenville/harveys/
-shop: convenience
+shop: Lebensmittel
 ---

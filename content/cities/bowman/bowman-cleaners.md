@@ -1,5 +1,5 @@
 ---
 title: "Bowman Cleaners"
 url: /bowman/bowman-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

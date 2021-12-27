@@ -1,5 +1,5 @@
 ---
 title: "Kerneltime"
 url: /moore/kerneltime/
-shop: confectionery
+shop: Süßwaren
 ---

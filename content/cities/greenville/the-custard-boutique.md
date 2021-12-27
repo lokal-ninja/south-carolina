@@ -1,5 +1,5 @@
 ---
 title: "The Custard Boutique"
 url: /greenville/the-custard-boutique/
-shop: clothes
+shop: Kleidung
 ---

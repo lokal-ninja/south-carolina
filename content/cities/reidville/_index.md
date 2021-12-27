@@ -1,6 +1,6 @@
 ---
 title: Reidville
 url: /reidville/
-latitude: 34.8628986
-longitude: -82.11427470000001
+latitude: 34.867
+longitude: -82.115
 ---

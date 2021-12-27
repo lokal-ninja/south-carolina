@@ -1,6 +1,6 @@
 ---
 title: Pickens
 url: /pickens/
-latitude: 34.8882592
-longitude: -82.7193824
+latitude: 34.883
+longitude: -82.708
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pacolet
 url: /pacolet/
-latitude: 34.8990182
-longitude: -81.76176790000001
+latitude: 34.897
+longitude: -81.764
 ---

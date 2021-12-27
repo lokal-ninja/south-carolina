@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /aiken/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

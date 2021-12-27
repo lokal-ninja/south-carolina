@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /aiken/gamestop/
-shop: video games
+shop: Videospiele
 ---

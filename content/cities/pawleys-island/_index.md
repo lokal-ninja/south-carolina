@@ -1,6 +1,6 @@
 ---
 title: pawleys island
 url: /pawleys-island/
-latitude: 
-longitude: 
+latitude: 33.43
+longitude: -79.143
 ---

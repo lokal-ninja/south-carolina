@@ -1,5 +1,5 @@
 ---
 title: "Fantasyland"
 url: /santee/fantasyland/
-shop: erotic
+shop: Erotik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bintime"
 url: /mauldin/bintime/
-shop: charity
+shop: Gebrauchtwaren
 ---

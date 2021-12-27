@@ -1,5 +1,5 @@
 ---
 title: "Times"
 url: /lake-wylie/times/
-shop: convenience
+shop: Lebensmittel
 ---

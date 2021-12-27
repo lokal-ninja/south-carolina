@@ -1,5 +1,5 @@
 ---
 title: "Bevello"
 url: /charleston/bevello/
-shop: clothes
+shop: Kleidung
 ---

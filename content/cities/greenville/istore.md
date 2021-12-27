@@ -1,5 +1,5 @@
 ---
 title: "iStore"
 url: /greenville/istore/
-shop: computer
+shop: Computer
 ---

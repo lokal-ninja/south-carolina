@@ -1,5 +1,5 @@
 ---
 title: "Persnickety"
 url: /laurens/persnickety/
-shop: clothes
+shop: Kleidung
 ---

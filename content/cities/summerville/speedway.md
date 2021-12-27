@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /summerville/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

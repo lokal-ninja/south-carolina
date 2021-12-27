@@ -1,5 +1,5 @@
 ---
 title: "Hollywood Nails"
 url: /duncan/hollywood-nails/
-shop: beauty
+shop: Kosmetik
 ---

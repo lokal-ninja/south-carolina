@@ -1,6 +1,6 @@
 ---
 title: Surfside Beach
 url: /surfside-beach/
-latitude: 33.6060031
-longitude: -78.9730887
+latitude: 33.605
+longitude: -78.972
 ---

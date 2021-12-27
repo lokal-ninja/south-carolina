@@ -1,5 +1,5 @@
 ---
 title: "Community Credit"
 url: /greenville/community-credit/
-shop: pawnbroker
+shop: Leiher
 ---

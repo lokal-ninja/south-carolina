@@ -1,6 +1,6 @@
 ---
 title: Donalds
 url: /donalds/
-latitude: 34.377059100000004
-longitude: -82.3473448
+latitude: 34.377
+longitude: -82.347
 ---

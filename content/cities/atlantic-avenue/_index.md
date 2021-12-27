@@ -1,6 +1,6 @@
 ---
 title: Atlantic Avenue
 url: /atlantic-avenue/
-latitude: 
-longitude: 
+latitude: 33.584
+longitude: -79.01
 ---

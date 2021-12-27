@@ -1,6 +1,6 @@
 ---
 title: Waterloo
 url: /waterloo/
-latitude: 34.3515126
-longitude: -82.0592766
+latitude: 34.356
+longitude: -82.056
 ---

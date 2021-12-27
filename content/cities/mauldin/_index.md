@@ -1,6 +1,6 @@
 ---
 title: Mauldin
 url: /mauldin/
-latitude: 34.77873
-longitude: -82.310119
+latitude: 34.79
+longitude: -82.314
 ---

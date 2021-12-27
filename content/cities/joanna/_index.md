@@ -1,6 +1,6 @@
 ---
 title: Joanna
 url: /joanna/
-latitude: 34.4148532
-longitude: -81.81121750000001
+latitude: 34.417
+longitude: -81.813
 ---

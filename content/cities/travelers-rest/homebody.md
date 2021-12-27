@@ -1,5 +1,5 @@
 ---
 title: "Homebody"
 url: /travelers-rest/homebody/
-shop: antiques
+shop: Antiquitäten
 ---

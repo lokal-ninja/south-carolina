@@ -1,5 +1,5 @@
 ---
 title: "Hair Designs"
 url: /woodruff/hair-designs/
-shop: hairdresser
+shop: Friseur
 ---

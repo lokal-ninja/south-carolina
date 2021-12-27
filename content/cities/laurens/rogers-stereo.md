@@ -1,5 +1,5 @@
 ---
 title: "Rogers Stereo"
 url: /laurens/rogers-stereo/
-shop: hifi
+shop: Hifi
 ---

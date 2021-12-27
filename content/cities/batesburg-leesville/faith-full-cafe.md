@@ -1,5 +1,5 @@
 ---
 title: "Faith-Full Cafe"
 url: /batesburg-leesville/faith-full-cafe/
-shop: coffee
+shop: Kaffee
 ---

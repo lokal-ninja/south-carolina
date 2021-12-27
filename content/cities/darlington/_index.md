@@ -1,6 +1,6 @@
 ---
 title: Darlington
 url: /darlington/
-latitude: 34.360933100000004
-longitude: -79.94385720000001
+latitude: 34.285
+longitude: -79.855
 ---

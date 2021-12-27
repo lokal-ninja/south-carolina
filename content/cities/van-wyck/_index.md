@@ -1,6 +1,6 @@
 ---
 title: Van Wyck
 url: /van-wyck/
-latitude: 34.8584802
-longitude: -80.8459054
+latitude: 34.858
+longitude: -80.846
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /greenwood/publix/
-shop: supermarket
+shop: Supermarkt
 ---

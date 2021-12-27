@@ -1,6 +1,6 @@
 ---
 title: Loris
 url: /loris/
-latitude: 34.0562812
-longitude: -78.8903044
+latitude: 34.066
+longitude: -78.881
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ingles"
 url: /landrum/ingles/
-shop: supermarket
+shop: Supermarkt
 ---

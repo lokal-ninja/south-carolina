@@ -1,5 +1,5 @@
 ---
 title: "Mae's"
 url: /batesburg-leesville/maes/
-shop: clothes
+shop: Kleidung
 ---

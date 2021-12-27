@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /goose-creek/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

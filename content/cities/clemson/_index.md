@@ -1,6 +1,6 @@
 ---
 title: Clemson
 url: /clemson/
-latitude: 34.685074900000004
-longitude: -82.8364111
+latitude: 34.684
+longitude: -82.837
 ---

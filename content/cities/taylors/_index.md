@@ -1,6 +1,6 @@
 ---
 title: Taylors
 url: /taylors/
-latitude: 34.9203946
-longitude: -82.29622690000001
+latitude: 34.902
+longitude: -82.338
 ---

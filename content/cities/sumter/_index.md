@@ -1,6 +1,6 @@
 ---
 title: Sumter
 url: /sumter/
-latitude: 33.899882600000005
-longitude: -80.32370320000001
+latitude: 33.92
+longitude: -80.341
 ---

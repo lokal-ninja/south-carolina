@@ -1,6 +1,6 @@
 ---
 title: Chapin
 url: /chapin/
-latitude: 34.1659795
-longitude: -81.34982120000001
+latitude: 34.14
+longitude: -81.322
 ---

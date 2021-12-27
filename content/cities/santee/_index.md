@@ -1,6 +1,6 @@
 ---
 title: Santee
 url: /santee/
-latitude: 33.4751634
-longitude: -80.4864764
+latitude: 33.462
+longitude: -80.495
 ---
