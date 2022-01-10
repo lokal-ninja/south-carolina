@@ -1,5 +1,5 @@
 ---
 title: "North Hills Automotive"
 url: /greenville/north-hills-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

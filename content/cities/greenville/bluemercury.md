@@ -1,5 +1,5 @@
 ---
 title: "bluemercury"
 url: /greenville/bluemercury/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cato Juniors"
 url: /greenville/cato-juniors/
-shop: Kleidung
+shop: clothes
 ---

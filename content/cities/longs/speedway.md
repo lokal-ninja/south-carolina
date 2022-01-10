@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /longs/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

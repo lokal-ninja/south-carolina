@@ -1,5 +1,5 @@
 ---
 title: "Poppington's Popcorn"
 url: /greenville/poppingtons-popcorn/
-shop: Süßwaren
+shop: confectionery
 ---

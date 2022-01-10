@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /berea/citgo/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /pickens/ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

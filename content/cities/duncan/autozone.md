@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /duncan/autozone/
-shop: Autoteile
+shop: car parts
 ---

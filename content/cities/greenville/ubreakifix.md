@@ -1,5 +1,5 @@
 ---
 title: "uBreakIFix"
 url: /greenville/ubreakifix/
-shop: Elektronik
+shop: electronics
 ---

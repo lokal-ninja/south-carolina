@@ -1,5 +1,5 @@
 ---
 title: "Young Fashions"
 url: /seneca/young-fashions/
-shop: Kleidung
+shop: clothes
 ---

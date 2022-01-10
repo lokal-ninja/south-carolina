@@ -1,5 +1,5 @@
 ---
 title: "Brown-Oglesby Funeral Home"
 url: /seneca/brown-oglesby-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

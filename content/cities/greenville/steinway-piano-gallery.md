@@ -1,5 +1,5 @@
 ---
 title: "Steinway Piano Gallery"
 url: /greenville/steinway-piano-gallery/
-shop: Allgemein
+shop: shop
 ---

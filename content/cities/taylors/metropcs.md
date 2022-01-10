@@ -1,5 +1,5 @@
 ---
 title: "MetroPCS"
 url: /taylors/metropcs/
-shop: Handy
+shop: mobile phone
 ---

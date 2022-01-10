@@ -1,5 +1,5 @@
 ---
 title: "LV Nails"
 url: /columbia/lv-nails/
-shop: Kosmetik
+shop: beauty
 ---

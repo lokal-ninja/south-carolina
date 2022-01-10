@@ -1,5 +1,5 @@
 ---
 title: "Professional Dry Cleaners"
 url: /greer/professional-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

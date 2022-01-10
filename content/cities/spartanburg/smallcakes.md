@@ -1,5 +1,5 @@
 ---
 title: "Smallcakes"
 url: /spartanburg/smallcakes/
-shop: Konditorei
+shop: pastry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "World Finance"
 url: /barnwell/world-finance/
-shop: Leiher
+shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Yellow Butterfly"
 url: /woodruff/the-yellow-butterfly/
-shop: Raumausstattung
+shop: interior decoration
 ---

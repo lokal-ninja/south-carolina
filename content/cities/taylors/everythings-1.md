@@ -1,5 +1,5 @@
 ---
 title: "Everything's $1"
 url: /taylors/everythings-1/
-shop: Kramladen
+shop: variety store
 ---

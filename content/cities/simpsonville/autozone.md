@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /simpsonville/autozone/
-shop: Autoteile
+shop: car parts
 ---

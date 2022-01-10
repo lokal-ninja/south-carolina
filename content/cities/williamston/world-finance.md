@@ -1,5 +1,5 @@
 ---
 title: "World Finance"
 url: /williamston/world-finance/
-shop: Leiher
+shop: pawnbroker
 ---

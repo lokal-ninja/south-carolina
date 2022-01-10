@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /simpsonville/hallmark/
-shop: Andenken
+shop: gift
 ---

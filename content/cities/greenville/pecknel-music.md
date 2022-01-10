@@ -1,5 +1,5 @@
 ---
 title: "Pecknel Music"
 url: /greenville/pecknel-music/
-shop: Instrumente
+shop: musical instrument
 ---

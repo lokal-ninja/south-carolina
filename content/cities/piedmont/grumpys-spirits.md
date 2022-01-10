@@ -1,5 +1,5 @@
 ---
 title: "Grumpy's Spirits"
 url: /piedmont/grumpys-spirits/
-shop: Spirituosen
+shop: alcohol
 ---

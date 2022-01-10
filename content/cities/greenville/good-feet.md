@@ -1,5 +1,5 @@
 ---
 title: "Good Feet"
 url: /greenville/good-feet/
-shop: Sanitätshaus
+shop: medical supply
 ---

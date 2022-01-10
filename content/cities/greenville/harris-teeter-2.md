@@ -1,5 +1,5 @@
 ---
 title: "Harris Teeter"
 url: /greenville/harris-teeter-2/
-shop: Supermarkt
+shop: supermarket
 ---

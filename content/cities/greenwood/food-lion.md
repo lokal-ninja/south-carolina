@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
 url: /greenwood/food-lion/
-shop: Supermarkt
+shop: supermarket
 ---

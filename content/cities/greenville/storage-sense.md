@@ -1,5 +1,5 @@
 ---
 title: "Storage Sense"
 url: /greenville/storage-sense/
-shop: Mieten
+shop: storage rental
 ---

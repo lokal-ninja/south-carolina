@@ -1,5 +1,5 @@
 ---
 title: "Beltone"
 url: /greenville/beltone/
-shop: Hörgeräte
+shop: hearing aids
 ---

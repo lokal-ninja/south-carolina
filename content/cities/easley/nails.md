@@ -1,5 +1,5 @@
 ---
 title: "Nails"
 url: /easley/nails/
-shop: Kosmetik
+shop: beauty
 ---

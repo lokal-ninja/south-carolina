@@ -1,5 +1,5 @@
 ---
 title: "Polished"
 url: /greenville/polished/
-shop: Kosmetik
+shop: beauty
 ---

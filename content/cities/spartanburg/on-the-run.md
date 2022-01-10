@@ -1,5 +1,5 @@
 ---
 title: "On the Run"
 url: /spartanburg/on-the-run/
-shop: Lebensmittel
+shop: convenience
 ---

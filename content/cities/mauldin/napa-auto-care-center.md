@@ -1,5 +1,5 @@
 ---
 title: "NAPA Auto Care Center"
 url: /mauldin/napa-auto-care-center/
-shop: Autowerkstatt
+shop: car repair
 ---

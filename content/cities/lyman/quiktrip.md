@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /lyman/quiktrip/
-shop: Lebensmittel
+shop: convenience
 ---

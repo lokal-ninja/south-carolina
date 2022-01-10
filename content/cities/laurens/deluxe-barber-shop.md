@@ -1,5 +1,5 @@
 ---
 title: "Deluxe Barber Shop"
 url: /laurens/deluxe-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

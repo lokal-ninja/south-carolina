@@ -1,5 +1,5 @@
 ---
 title: "Garrision Opticians"
 url: /greenville/garrision-opticians/
-shop: Optiker
+shop: optician
 ---

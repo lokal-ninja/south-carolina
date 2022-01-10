@@ -1,5 +1,5 @@
 ---
 title: "Jobst"
 url: /simpsonville/jobst/
-shop: Kleidung
+shop: clothes
 ---

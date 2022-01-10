@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /honea-path/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

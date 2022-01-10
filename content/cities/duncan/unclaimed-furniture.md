@@ -1,5 +1,5 @@
 ---
 title: "Unclaimed Furniture"
 url: /duncan/unclaimed-furniture/
-shop: Möbel
+shop: furniture
 ---

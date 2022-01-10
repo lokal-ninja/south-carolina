@@ -1,5 +1,5 @@
 ---
 title: "Young Fashions"
 url: /clinton/young-fashions/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Price's Automotive, LLC."
 url: /summerville/prices-automotive-llc/
-shop: Autowerkstatt
+shop: car repair
 ---

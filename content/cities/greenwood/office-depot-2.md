@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /greenwood/office-depot-2/
-shop: Schreibwaren
+shop: office supplies
 ---

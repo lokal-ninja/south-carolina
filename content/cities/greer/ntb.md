@@ -1,5 +1,5 @@
 ---
 title: "NTB"
 url: /greer/ntb/
-shop: Autowerkstatt
+shop: car repair
 ---

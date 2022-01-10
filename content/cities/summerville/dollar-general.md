@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /summerville/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

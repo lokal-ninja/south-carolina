@@ -1,5 +1,5 @@
 ---
 title: "Focal Point"
 url: /greenville/focal-point/
-shop: Friseur
+shop: hairdresser
 ---

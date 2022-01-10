@@ -1,5 +1,5 @@
 ---
 title: "Mr Mattress, Inc"
 url: /greenville/mr-mattress-inc/
-shop: Möbel
+shop: furniture
 ---

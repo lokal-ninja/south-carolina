@@ -1,5 +1,5 @@
 ---
 title: "Vacuums Select"
 url: /greenville/vacuums-select/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

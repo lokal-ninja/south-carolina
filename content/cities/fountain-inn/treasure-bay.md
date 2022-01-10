@@ -1,5 +1,5 @@
 ---
 title: "Treasure Bay"
 url: /fountain-inn/treasure-bay/
-shop: Andenken
+shop: gift
 ---

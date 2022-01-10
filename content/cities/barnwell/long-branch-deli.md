@@ -1,5 +1,5 @@
 ---
 title: "Long Branch Deli"
 url: /barnwell/long-branch-deli/
-shop: Feinkost
+shop: deli
 ---

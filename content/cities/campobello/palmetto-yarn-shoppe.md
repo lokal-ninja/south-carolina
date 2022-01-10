@@ -1,5 +1,5 @@
 ---
 title: "Palmetto Yarn Shoppe"
 url: /campobello/palmetto-yarn-shoppe/
-shop: Nähzubehör
+shop: sewing
 ---

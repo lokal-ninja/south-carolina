@@ -1,5 +1,5 @@
 ---
 title: "Catherines Plus Sizes"
 url: /greenville/catherines-plus-sizes/
-shop: Kleidung
+shop: clothes
 ---

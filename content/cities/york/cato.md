@@ -1,5 +1,5 @@
 ---
 title: "Cato"
 url: /york/cato/
-shop: Kleidung
+shop: clothes
 ---

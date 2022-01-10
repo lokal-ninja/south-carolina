@@ -1,5 +1,5 @@
 ---
 title: "Young Fashions"
 url: /laurens/young-fashions/
-shop: Kleidung
+shop: clothes
 ---

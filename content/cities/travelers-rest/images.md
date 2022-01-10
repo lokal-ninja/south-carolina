@@ -1,5 +1,5 @@
 ---
 title: "Images"
 url: /travelers-rest/images/
-shop: Foto
+shop: photo
 ---

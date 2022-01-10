@@ -1,5 +1,5 @@
 ---
 title: "Aerus"
 url: /greenville/aerus/
-shop: Allgemein
+shop: shop
 ---

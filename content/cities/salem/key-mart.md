@@ -1,5 +1,5 @@
 ---
 title: "Key Mart"
 url: /salem/key-mart/
-shop: Lebensmittel
+shop: convenience
 ---

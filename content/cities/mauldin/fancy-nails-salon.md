@@ -1,5 +1,5 @@
 ---
 title: "Fancy Nails Salon"
 url: /mauldin/fancy-nails-salon/
-shop: Kosmetik
+shop: beauty
 ---

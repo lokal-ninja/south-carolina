@@ -1,5 +1,5 @@
 ---
 title: "Bishops Cuts / Color"
 url: /simpsonville/bishops-cuts-color/
-shop: Friseur
+shop: hairdresser
 ---

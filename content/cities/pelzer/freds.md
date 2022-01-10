@@ -1,5 +1,5 @@
 ---
 title: "Fred's"
 url: /pelzer/freds/
-shop: Kramladen
+shop: variety store
 ---

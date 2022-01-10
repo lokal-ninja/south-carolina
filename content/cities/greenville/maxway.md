@@ -1,5 +1,5 @@
 ---
 title: "Maxway"
 url: /greenville/maxway/
-shop: Kramladen
+shop: variety store
 ---

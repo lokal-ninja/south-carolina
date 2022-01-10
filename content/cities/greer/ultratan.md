@@ -1,5 +1,5 @@
 ---
 title: "Ultratan"
 url: /greer/ultratan/
-shop: Kosmetik
+shop: beauty
 ---

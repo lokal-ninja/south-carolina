@@ -1,6 +1,6 @@
 ---
 title: Camden
 url: /camden/
-latitude: 34.25
-longitude: -80.65
+latitude: 34.224
+longitude: -80.6
 ---

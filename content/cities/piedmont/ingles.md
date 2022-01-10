@@ -1,5 +1,5 @@
 ---
 title: "Ingles"
 url: /piedmont/ingles/
-shop: Supermarkt
+shop: supermarket
 ---

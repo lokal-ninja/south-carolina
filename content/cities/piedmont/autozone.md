@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /piedmont/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EPIC Center"
 url: /charleston/epic-center/
-shop: Einkaufszentrum
+shop: mall
 ---

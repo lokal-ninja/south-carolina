@@ -1,5 +1,5 @@
 ---
 title: "Apothecare Pharmacy"
 url: /batesburg-leesville/apothecare-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Groom Room"
 url: /williamston/the-groom-room/
-shop: Tiere
+shop: pet
 ---

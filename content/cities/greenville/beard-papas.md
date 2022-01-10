@@ -1,5 +1,5 @@
 ---
 title: "Beard Papa's"
 url: /greenville/beard-papas/
-shop: Konditorei
+shop: pastry
 ---

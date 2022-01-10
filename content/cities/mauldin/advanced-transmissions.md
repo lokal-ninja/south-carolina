@@ -1,5 +1,5 @@
 ---
 title: "Advanced Transmissions"
 url: /mauldin/advanced-transmissions/
-shop: Autowerkstatt
+shop: car repair
 ---

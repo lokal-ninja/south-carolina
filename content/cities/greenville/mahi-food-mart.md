@@ -1,5 +1,5 @@
 ---
 title: "Mahi Food Mart"
 url: /greenville/mahi-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

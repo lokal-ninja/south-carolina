@@ -1,5 +1,5 @@
 ---
 title: "Lendmark"
 url: /easley/lendmark/
-shop: Leiher
+shop: pawnbroker
 ---

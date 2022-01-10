@@ -1,5 +1,5 @@
 ---
 title: "American Freight"
 url: /greenville/american-freight/
-shop: Möbel
+shop: furniture
 ---

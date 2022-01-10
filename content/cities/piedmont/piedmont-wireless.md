@@ -1,5 +1,5 @@
 ---
 title: "Piedmont Wireless"
 url: /piedmont/piedmont-wireless/
-shop: Handy
+shop: mobile phone
 ---

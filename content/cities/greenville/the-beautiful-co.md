@@ -1,5 +1,5 @@
 ---
 title: "The Beautiful Co."
 url: /greenville/the-beautiful-co/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Batteries Plus Bulbs"
 url: /greenville/batteries-plus-bulbs/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kellys Karpent"
 url: /duncan/kellys-karpent/
-shop: Teppiche
+shop: carpet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /lexington/dollar-general-2/
-shop: Kramladen
+shop: variety store
 ---

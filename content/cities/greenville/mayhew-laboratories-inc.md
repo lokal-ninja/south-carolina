@@ -1,5 +1,5 @@
 ---
 title: "Mayhew Laboratories Inc"
 url: /greenville/mayhew-laboratories-inc/
-shop: Wäscherei
+shop: laundry
 ---

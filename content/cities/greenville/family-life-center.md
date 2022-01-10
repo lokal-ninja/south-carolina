@@ -1,5 +1,5 @@
 ---
 title: "Family Life Center"
 url: /greenville/family-life-center/
-shop: Schreibwaren
+shop: office supplies
 ---

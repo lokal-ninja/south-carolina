@@ -1,5 +1,5 @@
 ---
 title: "Seven Sense International"
 url: /columbia/seven-sense-international/
-shop: Tabak
+shop: tobacco
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lavish Looks Salon"
 url: /simpsonville/lavish-looks-salon/
-shop: Friseur
+shop: hairdresser
 ---

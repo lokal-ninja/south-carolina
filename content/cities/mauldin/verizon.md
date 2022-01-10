@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /mauldin/verizon/
-shop: Handy
+shop: mobile phone
 ---

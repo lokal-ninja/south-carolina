@@ -1,5 +1,5 @@
 ---
 title: "Horizon Records"
 url: /greenville/horizon-records/
-shop: Musik
+shop: music
 ---

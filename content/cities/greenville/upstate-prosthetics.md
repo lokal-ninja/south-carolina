@@ -1,5 +1,5 @@
 ---
 title: "Upstate Prosthetics"
 url: /greenville/upstate-prosthetics/
-shop: Allgemein
+shop: shop
 ---

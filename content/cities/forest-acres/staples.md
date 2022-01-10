@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /forest-acres/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

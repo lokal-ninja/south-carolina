@@ -1,5 +1,5 @@
 ---
 title: "Brad's Discount Tire"
 url: /mauldin/brads-discount-tire/
-shop: Reifen
+shop: tyres
 ---

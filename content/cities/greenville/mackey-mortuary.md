@@ -1,5 +1,5 @@
 ---
 title: "Mackey Mortuary"
 url: /greenville/mackey-mortuary/
-shop: Bestattungen
+shop: funeral directors
 ---

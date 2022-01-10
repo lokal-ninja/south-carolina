@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /duncan/verizon/
-shop: Handy
+shop: mobile phone
 ---

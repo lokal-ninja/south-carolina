@@ -1,5 +1,5 @@
 ---
 title: "Frame Warehouse"
 url: /greenville/frame-warehouse/
-shop: Rahmen
+shop: frame
 ---

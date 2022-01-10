@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /spartanburg/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

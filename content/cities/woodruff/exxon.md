@@ -1,5 +1,5 @@
 ---
 title: "Exxon"
 url: /woodruff/exxon/
-shop: Lebensmittel
+shop: convenience
 ---

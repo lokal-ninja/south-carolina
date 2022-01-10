@@ -1,5 +1,5 @@
 ---
 title: "Palmetto Proper"
 url: /greenville/palmetto-proper/
-shop: Andenken
+shop: gift
 ---

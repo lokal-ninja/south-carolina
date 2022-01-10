@@ -1,5 +1,5 @@
 ---
 title: "Roses"
 url: /woodruff/roses/
-shop: Kramladen
+shop: variety store
 ---

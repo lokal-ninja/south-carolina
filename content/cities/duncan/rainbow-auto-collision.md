@@ -1,5 +1,5 @@
 ---
 title: "Rainbow Auto Collision"
 url: /duncan/rainbow-auto-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

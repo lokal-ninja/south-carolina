@@ -1,5 +1,5 @@
 ---
 title: "Sophia's Alterations"
 url: /easley/sophias-alterations/
-shop: Schneiderei
+shop: tailor
 ---

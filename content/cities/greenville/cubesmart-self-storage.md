@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart Self Storage"
 url: /greenville/cubesmart-self-storage/
-shop: Mieten
+shop: storage rental
 ---

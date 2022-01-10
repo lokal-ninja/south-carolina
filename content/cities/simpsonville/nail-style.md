@@ -1,5 +1,5 @@
 ---
 title: "Nail Style"
 url: /simpsonville/nail-style/
-shop: Kosmetik
+shop: beauty
 ---

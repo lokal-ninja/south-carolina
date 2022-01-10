@@ -1,5 +1,5 @@
 ---
 title: "Reid's"
 url: /greenville/reids/
-shop: Lebensmittel
+shop: convenience
 ---

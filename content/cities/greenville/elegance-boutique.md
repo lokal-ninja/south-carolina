@@ -1,5 +1,5 @@
 ---
 title: "Elegance Boutique"
 url: /greenville/elegance-boutique/
-shop: Kleidung
+shop: clothes
 ---

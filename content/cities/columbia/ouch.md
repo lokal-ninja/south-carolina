@@ -1,5 +1,5 @@
 ---
 title: "Ouch!"
 url: /columbia/ouch/
-shop: Tattoo
+shop: tattoo
 ---

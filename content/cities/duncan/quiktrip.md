@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /duncan/quiktrip/
-shop: Lebensmittel
+shop: convenience
 ---

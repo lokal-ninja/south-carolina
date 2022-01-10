@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /seneca/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cato Juniors"
 url: /laurens/cato-juniors/
-shop: Kleidung
+shop: clothes
 ---

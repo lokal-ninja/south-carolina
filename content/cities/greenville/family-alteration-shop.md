@@ -1,5 +1,5 @@
 ---
 title: "Family Alteration Shop"
 url: /greenville/family-alteration-shop/
-shop: Schneiderei
+shop: tailor
 ---

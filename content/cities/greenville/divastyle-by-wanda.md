@@ -1,5 +1,5 @@
 ---
 title: "Divastyle by Wanda"
 url: /greenville/divastyle-by-wanda/
-shop: Friseur
+shop: hairdresser
 ---

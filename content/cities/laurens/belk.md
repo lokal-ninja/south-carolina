@@ -1,5 +1,5 @@
 ---
 title: "Belk"
 url: /laurens/belk/
-shop: Warenhaus
+shop: department store
 ---

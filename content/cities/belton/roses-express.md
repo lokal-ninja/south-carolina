@@ -1,5 +1,5 @@
 ---
 title: "Roses Express"
 url: /belton/roses-express/
-shop: Kramladen
+shop: variety store
 ---

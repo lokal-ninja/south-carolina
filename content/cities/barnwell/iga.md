@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /barnwell/iga/
-shop: Supermarkt
+shop: supermarket
 ---

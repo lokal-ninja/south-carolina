@@ -1,5 +1,5 @@
 ---
 title: "Belk"
 url: /simpsonville/belk/
-shop: Warenhaus
+shop: department store
 ---

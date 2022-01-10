@@ -1,5 +1,5 @@
 ---
 title: "Riverside Garage and Tire"
 url: /laurens/riverside-garage-and-tire/
-shop: Autowerkstatt
+shop: car repair
 ---

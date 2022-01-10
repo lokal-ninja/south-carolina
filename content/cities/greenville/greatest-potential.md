@@ -1,5 +1,5 @@
 ---
 title: "Greatest Potential"
 url: /greenville/greatest-potential/
-shop: Friseur
+shop: hairdresser
 ---

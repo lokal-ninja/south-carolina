@@ -1,5 +1,5 @@
 ---
 title: "Dahlia"
 url: /greenville/dahlia/
-shop: Blumen
+shop: florist
 ---

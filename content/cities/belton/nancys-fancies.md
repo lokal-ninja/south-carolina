@@ -1,5 +1,5 @@
 ---
 title: "Nancy's Fancies"
 url: /belton/nancys-fancies/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "American Pawn Exchange"
 url: /taylors/american-pawn-exchange/
-shop: Leiher
+shop: pawnbroker
 ---

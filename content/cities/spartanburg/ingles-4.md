@@ -1,5 +1,5 @@
 ---
 title: "Ingles"
 url: /spartanburg/ingles-4/
-shop: Supermarkt
+shop: supermarket
 ---

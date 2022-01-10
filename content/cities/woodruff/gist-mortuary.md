@@ -1,5 +1,5 @@
 ---
 title: "Gist Mortuary"
 url: /woodruff/gist-mortuary/
-shop: Bestattungen
+shop: funeral directors
 ---

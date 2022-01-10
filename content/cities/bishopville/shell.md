@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /bishopville/shell/
-shop: Lebensmittel
+shop: convenience
 ---

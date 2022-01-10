@@ -1,5 +1,5 @@
 ---
 title: "Labor Ready"
 url: /greenville/labor-ready/
-shop: Allgemein
+shop: shop
 ---

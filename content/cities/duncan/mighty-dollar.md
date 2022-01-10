@@ -1,5 +1,5 @@
 ---
 title: "Mighty Dollar"
 url: /duncan/mighty-dollar/
-shop: Kramladen
+shop: variety store
 ---

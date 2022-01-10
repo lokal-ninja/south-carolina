@@ -1,5 +1,5 @@
 ---
 title: "Deal Mart"
 url: /greenville/deal-mart/
-shop: Supermarkt
+shop: supermarket
 ---

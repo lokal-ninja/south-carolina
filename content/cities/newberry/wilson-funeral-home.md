@@ -1,5 +1,5 @@
 ---
 title: "Wilson Funeral Home"
 url: /newberry/wilson-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /boiling-springs/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

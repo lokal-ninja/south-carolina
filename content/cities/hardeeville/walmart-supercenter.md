@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /hardeeville/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

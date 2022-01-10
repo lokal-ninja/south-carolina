@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /north-myrtle-beach/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /mauldin/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

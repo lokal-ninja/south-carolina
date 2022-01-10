@@ -1,5 +1,5 @@
 ---
 title: "The Uptown Collection"
 url: /laurens/the-uptown-collection/
-shop: Antiquitäten
+shop: antiques
 ---

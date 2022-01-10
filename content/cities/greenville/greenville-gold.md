@@ -1,5 +1,5 @@
 ---
 title: "Greenville Gold"
 url: /greenville/greenville-gold/
-shop: Schmuck
+shop: jewelry
 ---

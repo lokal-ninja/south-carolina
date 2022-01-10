@@ -1,5 +1,5 @@
 ---
 title: "Whatever"
 url: /greenville/whatever-2/
-shop: Tattoo
+shop: tattoo
 ---

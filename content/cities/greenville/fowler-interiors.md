@@ -1,5 +1,5 @@
 ---
 title: "Fowler Interiors"
 url: /greenville/fowler-interiors/
-shop: Allgemein
+shop: shop
 ---

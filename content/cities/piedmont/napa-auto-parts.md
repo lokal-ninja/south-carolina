@@ -1,5 +1,5 @@
 ---
 title: "NAPA Auto Parts"
 url: /piedmont/napa-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

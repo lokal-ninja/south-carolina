@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
 url: /fountain-inn/food-lion/
-shop: Supermarkt
+shop: supermarket
 ---

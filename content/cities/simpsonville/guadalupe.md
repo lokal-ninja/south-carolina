@@ -1,5 +1,5 @@
 ---
 title: "Guadalupe"
 url: /simpsonville/guadalupe/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eggers Funeral Home"
 url: /chesnee/eggers-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

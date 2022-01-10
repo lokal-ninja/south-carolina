@@ -1,5 +1,5 @@
 ---
 title: "Roosters"
 url: /greenville/roosters/
-shop: Friseur
+shop: hairdresser
 ---

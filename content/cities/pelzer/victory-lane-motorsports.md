@@ -1,5 +1,5 @@
 ---
 title: "Victory Lane Motorsports"
 url: /pelzer/victory-lane-motorsports/
-shop: Autoteile
+shop: car parts
 ---
