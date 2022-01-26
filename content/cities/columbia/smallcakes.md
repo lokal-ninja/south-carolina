@@ -1,5 +1,5 @@
 ---
-title: "SmallCakes"
+title: "Smallcakes"
 url: /columbia/smallcakes/
 shop: pastry
 ---
