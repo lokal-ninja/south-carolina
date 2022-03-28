@@ -1,5 +1,5 @@
 ---
-title: "O'Hara's Bakery  Cafe"
+title: "O'Hara's Bakery Cafe"
 url: /lexington/oharas-bakery-cafe/
 shop: bakery
 ---
