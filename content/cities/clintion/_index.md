@@ -1,6 +1,6 @@
 ---
 title: Clintion
 url: /clintion/
-latitude: 34.496
-longitude: -81.847
+latitude: 34.495
+longitude: -81.845
 ---
