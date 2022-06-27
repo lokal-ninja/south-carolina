@@ -1,5 +1,5 @@
 ---
 title: "Vampire Penguin"
-url: /powdersville/vampire-penguin/
+url: /piedmont/vampire-penguin/
 shop: confectionery
 ---
