@@ -1,6 +1,6 @@
 ---
 title: Indian Land
 url: /indian-land/
-latitude: 35.012
-longitude: -80.849
+latitude: 34.952
+longitude: -80.85
 ---
