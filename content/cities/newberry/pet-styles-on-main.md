@@ -1,5 +1,5 @@
 ---
-title: "PET STYLES ON MAIN"
+title: "Pet Styles on Main"
 url: /newberry/pet-styles-on-main/
 shop: pet
 ---
