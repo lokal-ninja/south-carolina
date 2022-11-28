@@ -1,6 +1,6 @@
 ---
 title: Yemassee
 url: /yemassee/
-latitude: 32.706
-longitude: -80.871
+latitude: 32.633
+longitude: -80.877
 ---
