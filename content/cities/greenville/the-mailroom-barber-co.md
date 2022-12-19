@@ -1,5 +1,5 @@
 ---
 title: "The Mailroom Barber Co"
-url: /taylors/the-mailroom-barber-co/
+url: /greenville/the-mailroom-barber-co/
 shop: hairdresser
 ---
