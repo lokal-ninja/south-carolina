@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /columbia/firestone/
-shop: tyres
+shop: car repair
 ---

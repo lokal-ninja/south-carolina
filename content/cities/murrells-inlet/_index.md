@@ -1,6 +1,6 @@
 ---
 title: Murrells Inlet
 url: /murrells-inlet/
-latitude: 33.556
-longitude: -79.045
+latitude: 33.549
+longitude: -79.048
 ---

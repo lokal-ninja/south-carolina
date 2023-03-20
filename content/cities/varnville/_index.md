@@ -1,6 +1,6 @@
 ---
 title: Varnville
 url: /varnville/
-latitude: 32.843
-longitude: -81.071
+latitude: 32.849
+longitude: -81.08
 ---
