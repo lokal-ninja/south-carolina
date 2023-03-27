@@ -1,6 +1,6 @@
 ---
 title: Hardeeville
 url: /hardeeville/
-latitude: 32.311
-longitude: -80.978
+latitude: 32.285
+longitude: -81.083
 ---
