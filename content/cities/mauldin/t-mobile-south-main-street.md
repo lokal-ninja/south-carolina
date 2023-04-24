@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
-url: /easley/t-mobile/
+url: /mauldin/t-mobile/
 shop: mobile phone
 ---
