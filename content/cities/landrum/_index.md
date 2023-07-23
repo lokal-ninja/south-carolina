@@ -1,6 +1,6 @@
 ---
 title: Landrum
 url: /landrum/
-latitude: 35.18
-longitude: -82.16
+latitude: 35.173
+longitude: -82.19
 ---
