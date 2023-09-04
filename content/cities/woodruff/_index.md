@@ -1,6 +1,6 @@
 ---
 title: Woodruff
 url: /woodruff/
-latitude: 34.737
-longitude: -82.033
+latitude: 34.753
+longitude: -82.046
 ---
