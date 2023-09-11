@@ -1,5 +1,5 @@
 ---
-title: "Li'l Cricket"
+title: "Lil Cricket"
 url: /greer/lil-cricket/
 shop: convenience
 ---

@@ -1,6 +1,6 @@
 ---
 title: Goose Creek
 url: /goose-creek/
-latitude: 32.969
-longitude: -80.011
+latitude: 33.034
+longitude: -80.064
 ---
