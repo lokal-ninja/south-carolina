@@ -1,5 +1,5 @@
 ---
 title: "Walmart Neighborhood Market"
-url: /myrtle-beach/walmart-neighborhood-market/
+url: /myrtle-beach/walmart-neighborhood-market-walton-drive/
 shop: supermarket
 ---

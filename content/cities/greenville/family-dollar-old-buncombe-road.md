@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
-url: /greenville/family-dollar/
+url: /greenville/family-dollar-old-buncombe-road/
 shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ultratan"
-url: /greenville/ultratan/
+url: /greenville/ultratan-north-pleasantburg-drive/
 shop: beauty
 ---

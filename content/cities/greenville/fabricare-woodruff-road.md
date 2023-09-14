@@ -1,5 +1,5 @@
 ---
 title: "Fabricare"
-url: /greenville/fabricare/
+url: /greenville/fabricare-woodruff-road/
 shop: laundry
 ---

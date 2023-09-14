@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
-url: /greenville/lowes/
+url: /greenville/lowes-poinsett-highway/
 shop: doityourself
 ---

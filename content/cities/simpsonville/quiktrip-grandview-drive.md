@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /simpsonville/quiktrip/
+url: /simpsonville/quiktrip-grandview-drive/
 shop: convenience
 ---

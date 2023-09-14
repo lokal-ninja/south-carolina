@@ -1,5 +1,5 @@
 ---
 title: "Talbots"
-url: /greenville/talbots/
+url: /greenville/talbots-augusta-street/
 shop: clothes
 ---

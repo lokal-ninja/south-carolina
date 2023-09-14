@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /columbia/verizon/
+url: /columbia/verizon-two-notch-road/
 shop: mobile phone
 ---

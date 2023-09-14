@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /spartanburg/quiktrip/
+url: /spartanburg/quiktrip-west-main-street/
 shop: convenience
 ---

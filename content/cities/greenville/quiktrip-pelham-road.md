@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /greenville/quiktrip/
+url: /greenville/quiktrip-pelham-road/
 shop: convenience
 ---

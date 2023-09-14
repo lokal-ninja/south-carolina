@@ -1,5 +1,5 @@
 ---
 title: "Enmarket"
-url: /batesburg-leesville/enmarket/
+url: /batesburg-leesville/enmarket-west-columbia-avenue/
 shop: convenience
 ---

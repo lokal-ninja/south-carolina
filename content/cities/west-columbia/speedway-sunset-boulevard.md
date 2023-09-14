@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /west-columbia/speedway/
+url: /west-columbia/speedway-sunset-boulevard/
 shop: convenience
 ---

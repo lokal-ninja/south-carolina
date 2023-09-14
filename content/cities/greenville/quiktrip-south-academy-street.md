@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /greenville/quiktrip/
+url: /greenville/quiktrip-south-academy-street/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
-url: /beaufort/food-lion/
+url: /beaufort/food-lion-shanklin-road/
 shop: supermarket
 ---

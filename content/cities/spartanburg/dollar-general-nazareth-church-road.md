@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /spartanburg/dollar-general/
+url: /spartanburg/dollar-general-nazareth-church-road/
 shop: variety store
 ---

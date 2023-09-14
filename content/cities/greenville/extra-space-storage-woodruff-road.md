@@ -1,5 +1,5 @@
 ---
 title: "Extra Space Storage"
-url: /greenville/extra-space-storage/
+url: /greenville/extra-space-storage-woodruff-road/
 shop: storage rental
 ---

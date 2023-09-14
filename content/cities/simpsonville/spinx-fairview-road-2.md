@@ -1,5 +1,5 @@
 ---
 title: "Spinx"
-url: /simpsonville/spinx/
+url: /simpsonville/spinx-fairview-road-2/
 shop: convenience
 ---

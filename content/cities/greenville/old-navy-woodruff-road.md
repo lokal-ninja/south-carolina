@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
-url: /greenville/old-navy/
+url: /greenville/old-navy-woodruff-road/
 shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Publix"
-url: /columbia/publix/
+url: /columbia/publix-hard-scrabble-road/
 shop: supermarket
 ---

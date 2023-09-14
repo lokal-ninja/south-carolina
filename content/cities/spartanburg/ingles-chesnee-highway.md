@@ -1,5 +1,5 @@
 ---
 title: "Ingles"
-url: /spartanburg/ingles/
+url: /spartanburg/ingles-chesnee-highway/
 shop: supermarket
 ---

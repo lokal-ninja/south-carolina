@@ -1,5 +1,5 @@
 ---
 title: "Spinx"
-url: /greer/spinx/
+url: /greer/spinx-hudson-road/
 shop: convenience
 ---

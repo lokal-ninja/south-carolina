@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /anderson/aldi/
+url: /anderson/aldi-highway-28-bypass/
 shop: supermarket
 ---

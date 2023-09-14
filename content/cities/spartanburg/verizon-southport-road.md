@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /spartanburg/verizon/
+url: /spartanburg/verizon-southport-road/
 shop: mobile phone
 ---

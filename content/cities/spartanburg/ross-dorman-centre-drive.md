@@ -1,5 +1,5 @@
 ---
 title: "Ross"
-url: /spartanburg/ross/
+url: /spartanburg/ross-dorman-centre-drive/
 shop: department store
 ---

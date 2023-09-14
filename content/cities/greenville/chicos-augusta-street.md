@@ -1,5 +1,5 @@
 ---
 title: "Chico's"
-url: /greenville/chicos/
+url: /greenville/chicos-augusta-street/
 shop: clothes
 ---

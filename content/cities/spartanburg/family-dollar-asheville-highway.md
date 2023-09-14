@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
-url: /spartanburg/family-dollar/
+url: /spartanburg/family-dollar-asheville-highway/
 shop: variety store
 ---

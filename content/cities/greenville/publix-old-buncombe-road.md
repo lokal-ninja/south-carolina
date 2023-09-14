@@ -1,5 +1,5 @@
 ---
 title: "Publix"
-url: /greenville/publix/
+url: /greenville/publix-old-buncombe-road/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
-url: /columbia/michaels/
+url: /columbia/michaels-harbison-boulevard/
 shop: craft
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ingles"
-url: /spartanburg/ingles/
+url: /spartanburg/ingles-warren-h-abernathy-highway/
 shop: supermarket
 ---

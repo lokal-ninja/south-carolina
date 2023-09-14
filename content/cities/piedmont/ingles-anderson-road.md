@@ -1,5 +1,5 @@
 ---
 title: "Ingles"
-url: /piedmont/ingles/
+url: /piedmont/ingles-anderson-road/
 shop: supermarket
 ---

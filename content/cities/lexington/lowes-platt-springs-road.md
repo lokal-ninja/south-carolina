@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
-url: /lexington/lowes/
+url: /lexington/lowes-platt-springs-road/
 shop: doityourself
 ---

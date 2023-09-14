@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
-url: /greenville/great-clips/
+url: /greenville/great-clips-augusta-street/
 shop: hairdresser
 ---

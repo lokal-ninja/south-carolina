@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
-url: /greenville/t-mobile/
+url: /greenville/t-mobile-poinsett-highway/
 shop: mobile phone
 ---

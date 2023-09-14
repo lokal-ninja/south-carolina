@@ -1,5 +1,5 @@
 ---
 title: "Nothing Bundt Cakes"
-url: /columbia/nothing-bundt-cakes/
+url: /columbia/nothing-bundt-cakes-fashion-drive/
 shop: pastry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sherwin Williams"
-url: /greenville/sherwin-williams/
+url: /greenville/sherwin-williams-south-pleasantburg-drive/
 shop: paint
 ---

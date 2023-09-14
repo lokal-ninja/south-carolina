@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /conway/speedway/
+url: /conway/speedway-main-street/
 shop: convenience
 ---

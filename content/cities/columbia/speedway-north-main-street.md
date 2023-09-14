@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /columbia/speedway/
+url: /columbia/speedway-north-main-street/
 shop: convenience
 ---

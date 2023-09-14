@@ -1,5 +1,5 @@
 ---
 title: "GNC"
-url: /greenville/gnc/
+url: /greenville/gnc-verdae-boulevard/
 shop: nutrition supplements
 ---

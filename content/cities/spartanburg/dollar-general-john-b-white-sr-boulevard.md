@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /spartanburg/dollar-general/
+url: /spartanburg/dollar-general-john-b-white-sr-boulevard/
 shop: variety store
 ---

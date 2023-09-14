@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
-url: /spartanburg/supercuts/
+url: /spartanburg/supercuts-dorman-commerce-drive/
 shop: hairdresser
 ---

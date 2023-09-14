@@ -1,5 +1,5 @@
 ---
 title: "Pet Supermarket"
-url: /greenville/pet-supermarket/
+url: /greenville/pet-supermarket-augusta-street/
 shop: pet
 ---

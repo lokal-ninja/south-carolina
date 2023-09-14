@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /greenville/verizon/
+url: /greenville/verizon-augusta-street/
 shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mix Salon Studios"
-url: /greenville/mix-salon-studios/
+url: /greenville/mix-salon-studios-pelham-road/
 shop: hairdresser
 ---

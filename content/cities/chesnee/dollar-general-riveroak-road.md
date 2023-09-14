@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /chesnee/dollar-general/
+url: /chesnee/dollar-general-riveroak-road/
 shop: variety store
 ---

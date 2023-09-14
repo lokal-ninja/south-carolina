@@ -1,5 +1,5 @@
 ---
 title: "GNC"
-url: /greenville/gnc/
+url: /greenville/gnc-poinsett-highway/
 shop: nutrition supplements
 ---

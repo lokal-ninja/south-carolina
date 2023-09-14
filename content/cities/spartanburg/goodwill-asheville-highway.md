@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
-url: /spartanburg/goodwill/
+url: /spartanburg/goodwill-asheville-highway/
 shop: charity
 ---

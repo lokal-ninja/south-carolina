@@ -1,5 +1,5 @@
 ---
 title: "Walmart Neighborhood Market"
-url: /sumter/walmart-neighborhood-market/
+url: /sumter/walmart-neighborhood-market-bultman-drive/
 shop: supermarket
 ---

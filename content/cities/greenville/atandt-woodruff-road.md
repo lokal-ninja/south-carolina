@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /greenville/atandt/
+url: /greenville/atandt-woodruff-road/
 shop: mobile phone
 ---

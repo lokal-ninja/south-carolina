@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
-url: /greenville/sunoco/
+url: /greenville/sunoco-easley-bridge-road/
 shop: convenience
 ---

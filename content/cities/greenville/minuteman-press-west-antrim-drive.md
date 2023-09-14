@@ -1,5 +1,5 @@
 ---
 title: "Minuteman Press"
-url: /greenville/minuteman-press/
+url: /greenville/minuteman-press-west-antrim-drive/
 shop: copyshop
 ---

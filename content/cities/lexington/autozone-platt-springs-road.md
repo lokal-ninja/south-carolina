@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /lexington/autozone/
+url: /lexington/autozone-platt-springs-road/
 shop: car parts
 ---

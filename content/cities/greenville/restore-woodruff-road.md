@@ -1,5 +1,5 @@
 ---
 title: "restore"
-url: /greenville/restore/
+url: /greenville/restore-woodruff-road/
 shop: beauty
 ---

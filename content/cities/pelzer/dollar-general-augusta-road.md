@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /pelzer/dollar-general/
+url: /pelzer/dollar-general-augusta-road/
 shop: variety store
 ---

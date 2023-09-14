@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /walterboro/dollar-general/
+url: /walterboro/dollar-general-bells-highway/
 shop: variety store
 ---

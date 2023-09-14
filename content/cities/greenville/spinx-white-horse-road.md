@@ -1,5 +1,5 @@
 ---
 title: "Spinx"
-url: /greenville/spinx/
+url: /greenville/spinx-white-horse-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
-url: /greenville/gamestop/
+url: /greenville/gamestop-verdae-boulevard/
 shop: video games
 ---
