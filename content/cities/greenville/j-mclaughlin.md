@@ -1,5 +1,5 @@
 ---
-title: "J.McLaughlin"
+title: "J. McLaughlin"
 url: /greenville/j-mclaughlin/
 shop: clothes
 ---
