@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
-url: /columbia/lowes-two-notch-road-2/
+url: /columbia/lowes-harbison-boulevard/
 shop: doityourself
 ---

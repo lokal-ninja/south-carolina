@@ -1,6 +1,6 @@
 ---
 title: Myrtle Beach
 url: /myrtle-beach/
-latitude: 33.686
-longitude: -78.98
+latitude: 33.642
+longitude: -78.949
 ---
