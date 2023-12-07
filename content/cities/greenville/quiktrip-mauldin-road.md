@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /greer/quiktrip-highway-101/
+url: /greenville/quiktrip-mauldin-road/
 shop: convenience
 ---
