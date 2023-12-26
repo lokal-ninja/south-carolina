@@ -1,5 +1,5 @@
 ---
 title: "Extra Space Storage"
-url: /greenville/extra-space-storage-laurens-road/
+url: /greenville/extra-space-storage-dunbar-street/
 shop: storage rental
 ---
