@@ -1,6 +1,6 @@
 ---
 title: Mullins
 url: /mullins/
-latitude: 34.096
-longitude: -79.321
+latitude: 34.2
+longitude: -79.25
 ---

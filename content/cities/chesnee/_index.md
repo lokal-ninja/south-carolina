@@ -1,6 +1,6 @@
 ---
 title: Chesnee
 url: /chesnee/
-latitude: 35.149
-longitude: -81.862
+latitude: 35.146
+longitude: -81.86
 ---
