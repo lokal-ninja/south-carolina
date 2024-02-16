@@ -1,6 +1,6 @@
 ---
 title: Kershaw
 url: /kershaw/
-latitude: 34.635
-longitude: -80.53
+latitude: 34.541
+longitude: -80.582
 ---

@@ -1,6 +1,6 @@
 ---
 title: Gray Court
 url: /gray-court/
-latitude: 34.618
-longitude: -82.121
+latitude: 34.522
+longitude: -82.188
 ---
