@@ -1,6 +1,6 @@
 ---
 title: Greer
 url: /greer/
-latitude: 34.851
-longitude: -82.232
+latitude: 34.937
+longitude: -82.226
 ---
