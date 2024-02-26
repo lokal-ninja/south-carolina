@@ -1,6 +1,6 @@
 ---
 title: Fountain Inn
 url: /fountain-inn/
-latitude: 34.613
-longitude: -82.236
+latitude: 34.694
+longitude: -82.2
 ---
