@@ -1,6 +1,6 @@
 ---
 title: Cowpens
 url: /cowpens/
-latitude: 35.042
-longitude: -81.819
+latitude: 35.009
+longitude: -81.81
 ---

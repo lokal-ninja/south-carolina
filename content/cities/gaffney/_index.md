@@ -1,6 +1,6 @@
 ---
 title: Gaffney
 url: /gaffney/
-latitude: 35.088
-longitude: -81.666
+latitude: 35.017
+longitude: -81.652
 ---
