@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /piedmont/quiktrip-highway-153/
+url: /piedmont/quiktrip-augusta-road/
 shop: convenience
 ---
