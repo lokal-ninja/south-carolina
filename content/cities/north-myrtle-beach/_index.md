@@ -1,6 +1,6 @@
 ---
 title: North Myrtle Beach
 url: /north-myrtle-beach/
-latitude: 33.827
-longitude: -78.68
+latitude: 33.829
+longitude: -78.643
 ---
