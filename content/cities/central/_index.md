@@ -1,6 +1,6 @@
 ---
 title: Central
 url: /central/
-latitude: 34.706
-longitude: -82.763
+latitude: 34.72
+longitude: -82.786
 ---
