@@ -1,6 +1,6 @@
 ---
 title: Honea Path
 url: /honea-path/
-latitude: 34.447
-longitude: -82.389
+latitude: 34.434
+longitude: -82.388
 ---

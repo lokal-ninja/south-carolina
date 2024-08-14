@@ -1,6 +1,6 @@
 ---
 title: Inman
 url: /inman/
-latitude: 35.04
-longitude: -82.085
+latitude: 35.047
+longitude: -82.091
 ---
