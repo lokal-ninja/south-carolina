@@ -1,6 +1,6 @@
 ---
 title: Awendaw
 url: /awendaw/
-latitude: 32.887
-longitude: -79.746
+latitude: 32.924
+longitude: -79.714
 ---

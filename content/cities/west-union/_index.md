@@ -1,6 +1,6 @@
 ---
 title: West Union
 url: /west-union/
-latitude: 34.76
-longitude: -83.043
+latitude: 34.758
+longitude: -83.048
 ---
