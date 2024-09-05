@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /pelzer/shell/
-shop: convenience
+shop: Lebensmittel
 ---

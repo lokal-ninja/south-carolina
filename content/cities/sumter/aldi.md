@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /sumter/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

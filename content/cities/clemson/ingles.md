@@ -1,5 +1,5 @@
 ---
 title: "Ingles"
 url: /clemson/ingles/
-shop: supermarket
+shop: Supermarkt
 ---

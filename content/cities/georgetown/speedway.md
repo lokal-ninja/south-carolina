@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /georgetown/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

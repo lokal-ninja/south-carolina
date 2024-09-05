@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /goose-creek/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

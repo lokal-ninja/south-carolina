@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /mauldin/publix/
-shop: supermarket
+shop: Supermarkt
 ---

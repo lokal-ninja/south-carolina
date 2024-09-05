@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /columbia/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

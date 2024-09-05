@@ -1,5 +1,5 @@
 ---
 title: "Tanpopo"
 url: /greenville/tanpopo/
-shop: convenience
+shop: Lebensmittel
 ---

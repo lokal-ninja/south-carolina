@@ -1,5 +1,5 @@
 ---
 title: "Spinx"
 url: /piedmont/spinx/
-shop: convenience
+shop: Lebensmittel
 ---

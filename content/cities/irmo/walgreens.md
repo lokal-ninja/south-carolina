@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /irmo/walgreens/
-shop: chemist
+shop: Drogerie
 ---

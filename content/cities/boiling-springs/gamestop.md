@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /boiling-springs/gamestop/
-shop: video games
+shop: Videospiele
 ---

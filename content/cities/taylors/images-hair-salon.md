@@ -1,5 +1,5 @@
 ---
 title: "Images Hair Salon"
 url: /taylors/images-hair-salon/
-shop: hairdresser
+shop: Friseur
 ---

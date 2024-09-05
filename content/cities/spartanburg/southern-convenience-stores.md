@@ -1,5 +1,5 @@
 ---
 title: "Southern Convenience Stores"
 url: /spartanburg/southern-convenience-stores/
-shop: convenience
+shop: Lebensmittel
 ---

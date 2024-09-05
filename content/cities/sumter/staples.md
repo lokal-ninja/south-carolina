@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /sumter/staples/
-shop: office supplies
+shop: Schreibwaren
 ---

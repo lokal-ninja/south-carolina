@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /lancaster/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

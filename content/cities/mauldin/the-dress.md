@@ -1,5 +1,5 @@
 ---
 title: "The Dress"
 url: /mauldin/the-dress/
-shop: clothes
+shop: Kleidung
 ---

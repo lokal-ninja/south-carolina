@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /myrtle-beach/publix-sapwood-road/
-shop: supermarket
+shop: Supermarkt
 ---

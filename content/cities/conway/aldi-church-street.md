@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /conway/aldi-church-street/
-shop: supermarket
+shop: Supermarkt
 ---

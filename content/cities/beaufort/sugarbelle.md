@@ -1,5 +1,5 @@
 ---
 title: "SugarBelle"
 url: /beaufort/sugarbelle/
-shop: clothes
+shop: Kleidung
 ---

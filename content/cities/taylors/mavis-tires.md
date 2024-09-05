@@ -1,5 +1,5 @@
 ---
 title: "Mavis Tires"
 url: /taylors/mavis-tires/
-shop: tyres
+shop: Reifen
 ---

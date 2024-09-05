@@ -1,5 +1,5 @@
 ---
 title: "Rockler"
 url: /greenville/rockler/
-shop: doityourself
+shop: Baumarkt
 ---

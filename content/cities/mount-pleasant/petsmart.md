@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /mount-pleasant/petsmart/
-shop: pet
+shop: Tiere
 ---

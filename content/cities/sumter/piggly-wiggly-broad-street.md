@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /sumter/piggly-wiggly-broad-street/
-shop: supermarket
+shop: Supermarkt
 ---

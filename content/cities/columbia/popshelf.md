@@ -1,5 +1,5 @@
 ---
 title: "pOpshelf"
 url: /columbia/popshelf/
-shop: variety store
+shop: Kramladen
 ---

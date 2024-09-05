@@ -1,5 +1,5 @@
 ---
 title: "Hamrick's"
 url: /spartanburg/hamricks/
-shop: clothes
+shop: Kleidung
 ---

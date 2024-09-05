@@ -1,5 +1,5 @@
 ---
 title: "Vape Pro"
 url: /taylors/vape-pro/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

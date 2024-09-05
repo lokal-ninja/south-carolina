@@ -1,5 +1,5 @@
 ---
 title: "The Brass Beard Barbershop"
 url: /greer/the-brass-beard-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

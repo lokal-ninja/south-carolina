@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /seneca/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

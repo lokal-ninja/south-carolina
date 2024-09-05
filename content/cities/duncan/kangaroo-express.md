@@ -1,5 +1,5 @@
 ---
 title: "Kangaroo Express"
 url: /duncan/kangaroo-express/
-shop: convenience
+shop: Lebensmittel
 ---

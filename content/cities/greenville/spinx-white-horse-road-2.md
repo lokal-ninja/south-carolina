@@ -1,5 +1,5 @@
 ---
 title: "Spinx"
 url: /greenville/spinx-white-horse-road-2/
-shop: convenience
+shop: Lebensmittel
 ---

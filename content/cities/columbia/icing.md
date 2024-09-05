@@ -1,5 +1,5 @@
 ---
 title: "Icing"
 url: /columbia/icing/
-shop: jewelry
+shop: Schmuck
 ---

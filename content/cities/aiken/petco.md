@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /aiken/petco/
-shop: pet
+shop: Tiere
 ---

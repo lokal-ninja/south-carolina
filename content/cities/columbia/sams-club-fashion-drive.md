@@ -1,5 +1,5 @@
 ---
 title: "Sam's Club"
 url: /columbia/sams-club-fashion-drive/
-shop: wholesale
+shop: Großhandel
 ---

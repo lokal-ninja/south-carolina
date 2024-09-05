@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /piedmont/great-clips/
-shop: hairdresser
+shop: Friseur
 ---

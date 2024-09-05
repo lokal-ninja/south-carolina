@@ -1,5 +1,5 @@
 ---
 title: "Loves"
 url: /piedmont/loves/
-shop: convenience
+shop: Lebensmittel
 ---

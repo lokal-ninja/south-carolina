@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /greenville/quiktrip-woodruff-road/
-shop: convenience
+shop: Lebensmittel
 ---

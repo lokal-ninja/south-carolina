@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /murrells-inlet/publix/
-shop: supermarket
+shop: Supermarkt
 ---

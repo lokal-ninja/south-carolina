@@ -1,5 +1,5 @@
 ---
 title: "Freecoat Nails"
 url: /greenville/freecoat-nails/
-shop: beauty
+shop: Kosmetik
 ---

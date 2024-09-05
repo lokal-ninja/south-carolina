@@ -1,5 +1,5 @@
 ---
 title: "iRevive"
 url: /greenville/irevive/
-shop: electronics
+shop: Elektronik
 ---

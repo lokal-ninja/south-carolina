@@ -1,5 +1,5 @@
 ---
 title: "U Relax Massage"
 url: /greenville/u-relax-massage/
-shop: beauty
+shop: Kosmetik
 ---

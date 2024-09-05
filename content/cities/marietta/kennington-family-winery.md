@@ -1,5 +1,5 @@
 ---
 title: "Kennington Family Winery"
 url: /marietta/kennington-family-winery/
-shop: wine
+shop: Wein
 ---

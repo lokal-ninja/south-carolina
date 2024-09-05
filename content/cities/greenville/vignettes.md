@@ -1,5 +1,5 @@
 ---
 title: "Vignettes"
 url: /greenville/vignettes/
-shop: gift
+shop: Andenken
 ---

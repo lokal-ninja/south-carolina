@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /aiken/staples/
-shop: office supplies
+shop: Schreibwaren
 ---

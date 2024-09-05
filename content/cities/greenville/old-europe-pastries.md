@@ -1,5 +1,5 @@
 ---
 title: "Old Europe Pastries"
 url: /greenville/old-europe-pastries/
-shop: pastry
+shop: Konditorei
 ---

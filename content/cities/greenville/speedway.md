@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /greenville/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

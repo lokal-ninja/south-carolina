@@ -1,5 +1,5 @@
 ---
 title: "Sift Gallery"
 url: /greenville/sift-gallery/
-shop: art
+shop: Kunst
 ---

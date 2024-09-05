@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /north-augusta/petsmart/
-shop: pet
+shop: Tiere
 ---

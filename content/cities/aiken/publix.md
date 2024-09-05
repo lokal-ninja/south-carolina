@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /aiken/publix/
-shop: supermarket
+shop: Supermarkt
 ---

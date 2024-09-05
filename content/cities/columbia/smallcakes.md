@@ -1,5 +1,5 @@
 ---
 title: "Smallcakes"
 url: /columbia/smallcakes/
-shop: pastry
+shop: Konditorei
 ---

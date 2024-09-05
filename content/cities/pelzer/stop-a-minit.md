@@ -1,5 +1,5 @@
 ---
 title: "Stop-A-Minit"
 url: /pelzer/stop-a-minit/
-shop: convenience
+shop: Lebensmittel
 ---

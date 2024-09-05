@@ -1,5 +1,5 @@
 ---
 title: "Avon"
 url: /woodruff/avon/
-shop: beauty
+shop: Kosmetik
 ---

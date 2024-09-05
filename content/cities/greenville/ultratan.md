@@ -1,5 +1,5 @@
 ---
 title: "Ultratan"
 url: /greenville/ultratan/
-shop: beauty
+shop: Kosmetik
 ---

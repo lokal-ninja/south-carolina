@@ -1,5 +1,5 @@
 ---
 title: "Cato"
 url: /barnwell/cato/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /summerville/lowes-dorchester-road/
-shop: doityourself
+shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alchemy West"
 url: /greenville/alchemy-west/
-shop: beauty
+shop: Kosmetik
 ---

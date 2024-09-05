@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /lake-wylie/publix/
-shop: supermarket
+shop: Supermarkt
 ---

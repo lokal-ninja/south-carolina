@@ -1,5 +1,5 @@
 ---
 title: "Modbox Storage"
 url: /piedmont/modbox-storage/
-shop: storage rental
+shop: Mieten
 ---

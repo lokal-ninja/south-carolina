@@ -1,5 +1,5 @@
 ---
-title: "ReStore"
+title: "restore"
 url: /greenville/restore/
-shop: charity
+shop: Kosmetik
 ---

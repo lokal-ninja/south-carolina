@@ -1,5 +1,5 @@
 ---
 title: "Francesca's"
 url: /myrtle-beach/francescas/
-shop: clothes
+shop: Kleidung
 ---

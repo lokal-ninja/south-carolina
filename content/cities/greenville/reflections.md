@@ -1,5 +1,5 @@
 ---
 title: "Reflections"
 url: /greenville/reflections/
-shop: hairdresser
+shop: Friseur
 ---

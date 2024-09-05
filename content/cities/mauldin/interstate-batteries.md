@@ -1,5 +1,5 @@
 ---
 title: "Interstate Batteries"
 url: /mauldin/interstate-batteries/
-shop: car parts
+shop: Autoteile
 ---

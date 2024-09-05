@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /moore/meineke/
-shop: car repair
+shop: Autowerkstatt
 ---

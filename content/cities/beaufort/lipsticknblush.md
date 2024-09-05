@@ -1,5 +1,5 @@
 ---
 title: "Lipsticknblush"
 url: /beaufort/lipsticknblush/
-shop: beauty
+shop: Kosmetik
 ---

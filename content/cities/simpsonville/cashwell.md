@@ -1,5 +1,5 @@
 ---
 title: "Cashwell"
 url: /simpsonville/cashwell/
-shop: pawnbroker
+shop: Leiher
 ---

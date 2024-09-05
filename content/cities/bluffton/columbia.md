@@ -1,5 +1,5 @@
 ---
 title: "Columbia"
 url: /bluffton/columbia/
-shop: clothes
+shop: Kleidung
 ---

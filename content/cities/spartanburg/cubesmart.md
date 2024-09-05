@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /spartanburg/cubesmart/
-shop: storage rental
+shop: Mieten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "POPS"
 url: /hilton-head-island/pops/
-shop: confectionery
+shop: Süßwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chastain's"
 url: /spartanburg/chastains/
-shop: alcohol
+shop: Spirituosen
 ---

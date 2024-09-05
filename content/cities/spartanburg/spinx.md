@@ -1,5 +1,5 @@
 ---
 title: "Spinx"
 url: /spartanburg/spinx/
-shop: convenience
+shop: Lebensmittel
 ---

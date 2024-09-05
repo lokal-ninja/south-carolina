@@ -1,5 +1,5 @@
 ---
 title: "Epona"
 url: /aiken/epona/
-shop: clothes
+shop: Kleidung
 ---

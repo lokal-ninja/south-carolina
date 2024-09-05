@@ -1,5 +1,5 @@
 ---
 title: "Exxon"
 url: /darlington/exxon/
-shop: doityourself
+shop: Baumarkt
 ---

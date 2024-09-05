@@ -1,5 +1,5 @@
 ---
 title: "Kirkland's"
 url: /spartanburg/kirklands/
-shop: interior decoration
+shop: Raumausstattung
 ---

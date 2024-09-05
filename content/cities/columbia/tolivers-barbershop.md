@@ -1,5 +1,5 @@
 ---
 title: "Toliver's Barbershop"
 url: /columbia/tolivers-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

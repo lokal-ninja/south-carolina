@@ -1,5 +1,5 @@
 ---
 title: "Companion Skateshop"
 url: /spartanburg/companion-skateshop/
-shop: sports
+shop: Sport
 ---

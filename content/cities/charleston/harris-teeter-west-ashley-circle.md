@@ -1,5 +1,5 @@
 ---
 title: "Harris Teeter"
 url: /charleston/harris-teeter-west-ashley-circle/
-shop: supermarket
+shop: Supermarkt
 ---

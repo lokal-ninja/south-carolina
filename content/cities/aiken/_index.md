@@ -1,6 +1,6 @@
 ---
 title: Aiken
 url: /aiken/
-latitude: 33.522
-longitude: -81.72
+latitude: 33.561
+longitude: -81.722
 ---

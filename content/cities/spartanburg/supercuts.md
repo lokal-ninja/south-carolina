@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /spartanburg/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

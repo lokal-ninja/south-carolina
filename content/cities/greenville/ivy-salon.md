@@ -1,5 +1,5 @@
 ---
 title: "Ivy Salon"
 url: /greenville/ivy-salon/
-shop: hairdresser
+shop: Friseur
 ---

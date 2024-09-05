@@ -1,5 +1,5 @@
 ---
 title: "Exclamark"
 url: /greenville/exclamark/
-shop: shop
+shop: Allgemein
 ---

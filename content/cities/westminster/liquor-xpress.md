@@ -1,5 +1,5 @@
 ---
 title: "Liquor Xpress"
 url: /westminster/liquor-xpress/
-shop: alcohol
+shop: Spirituosen
 ---

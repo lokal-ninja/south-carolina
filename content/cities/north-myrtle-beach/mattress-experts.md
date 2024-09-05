@@ -1,5 +1,5 @@
 ---
 title: "Mattress Experts"
 url: /north-myrtle-beach/mattress-experts/
-shop: bed
+shop: Betten
 ---

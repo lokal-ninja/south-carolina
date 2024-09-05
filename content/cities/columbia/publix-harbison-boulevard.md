@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /columbia/publix-harbison-boulevard/
-shop: supermarket
+shop: Supermarkt
 ---

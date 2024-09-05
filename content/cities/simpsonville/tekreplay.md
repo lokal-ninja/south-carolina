@@ -1,5 +1,5 @@
 ---
 title: "TekReplay"
 url: /simpsonville/tekreplay/
-shop: electronics
+shop: Elektronik
 ---

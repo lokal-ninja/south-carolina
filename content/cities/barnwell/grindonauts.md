@@ -1,5 +1,5 @@
 ---
 title: "Grindonauts"
 url: /barnwell/grindonauts/
-shop: clothes
+shop: Kleidung
 ---

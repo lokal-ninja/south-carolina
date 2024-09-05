@@ -1,5 +1,5 @@
 ---
 title: "ABC"
 url: /taylors/abc/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /gaffney/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

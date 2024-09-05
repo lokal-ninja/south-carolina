@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /myrtle-beach/petco/
-shop: pet
+shop: Tiere
 ---

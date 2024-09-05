@@ -1,5 +1,5 @@
 ---
 title: "pyramids"
 url: /hilton-head-island/pyramids/
-shop: boutique
+shop: Modehaus
 ---

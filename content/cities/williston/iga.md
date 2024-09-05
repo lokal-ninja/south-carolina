@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /williston/iga/
-shop: supermarket
+shop: Supermarkt
 ---

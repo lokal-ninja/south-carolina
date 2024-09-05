@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /easley/gnc/
-shop: nutrition supplements
+shop: Nahrungsergänzung
 ---

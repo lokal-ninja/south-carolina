@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /lyman/citgo/
-shop: convenience
+shop: Lebensmittel
 ---

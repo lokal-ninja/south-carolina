@@ -1,5 +1,5 @@
 ---
 title: "Whit-Ash Furnishings"
 url: /columbia/whit-ash-furnishings/
-shop: furniture
+shop: Möbel
 ---

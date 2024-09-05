@@ -1,5 +1,5 @@
 ---
 title: "Quiksilver"
 url: /charleston/quiksilver/
-shop: clothes
+shop: Kleidung
 ---

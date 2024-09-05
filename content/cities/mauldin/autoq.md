@@ -1,5 +1,5 @@
 ---
 title: "AutoQ"
 url: /mauldin/autoq/
-shop: car
+shop: Autohaus
 ---

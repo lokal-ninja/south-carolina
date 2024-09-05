@@ -1,5 +1,5 @@
 ---
 title: "Traditions"
 url: /lexington/traditions/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Nails Boutique"
 url: /mauldin/the-nails-boutique/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bottles"
 url: /greenville/bottles/
-shop: beverages
+shop: Getränke
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rainbow"
 url: /spartanburg/rainbow/
-shop: clothes
+shop: Kleidung
 ---

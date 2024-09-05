@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /seneca/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "West of Main"
 url: /easley/west-of-main/
-shop: hairdresser
+shop: Friseur
 ---

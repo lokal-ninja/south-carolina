@@ -1,5 +1,5 @@
 ---
 title: "Oliver Gospel Thrift Store"
 url: /columbia/oliver-gospel-thrift-store/
-shop: charity
+shop: Gebrauchtwaren
 ---

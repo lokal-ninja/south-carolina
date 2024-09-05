@@ -1,5 +1,5 @@
 ---
 title: "Edgers"
 url: /lancaster/edgers/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Elite Motor Car Store"
 url: /hampton/elite-motor-car-store/
-shop: car
+shop: Autohaus
 ---

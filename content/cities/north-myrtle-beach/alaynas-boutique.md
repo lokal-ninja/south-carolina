@@ -1,5 +1,5 @@
 ---
 title: "Alayna's Boutique"
 url: /north-myrtle-beach/alaynas-boutique/
-shop: clothes
+shop: Kleidung
 ---

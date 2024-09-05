@@ -1,5 +1,5 @@
 ---
 title: "Untangled Beauty Co"
 url: /clemson/untangled-beauty-co/
-shop: hairdresser
+shop: Friseur
 ---

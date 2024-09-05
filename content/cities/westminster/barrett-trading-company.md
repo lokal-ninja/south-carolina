@@ -1,5 +1,5 @@
 ---
 title: "Barrett Trading Company"
 url: /westminster/barrett-trading-company/
-shop: weapons
+shop: Waffen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /spartanburg/goodyear/
-shop: car repair
+shop: Autowerkstatt
 ---

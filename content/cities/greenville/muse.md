@@ -1,5 +1,5 @@
 ---
 title: "Muse"
 url: /greenville/muse/
-shop: shoes
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bombshell Hair Studio"
 url: /seneca/bombshell-hair-studio/
-shop: hairdresser
+shop: Friseur
 ---

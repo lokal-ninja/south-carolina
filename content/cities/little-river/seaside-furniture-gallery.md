@@ -1,5 +1,5 @@
 ---
 title: "Seaside Furniture Gallery"
 url: /little-river/seaside-furniture-gallery/
-shop: furniture
+shop: Möbel
 ---

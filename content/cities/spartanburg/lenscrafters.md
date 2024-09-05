@@ -1,5 +1,5 @@
 ---
 title: "LensCrafters"
 url: /spartanburg/lenscrafters/
-shop: optician
+shop: Optiker
 ---

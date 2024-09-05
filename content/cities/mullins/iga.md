@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /mullins/iga/
-shop: supermarket
+shop: Supermarkt
 ---

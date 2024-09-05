@@ -1,5 +1,5 @@
 ---
 title: "Rush Clothing Co."
 url: /batesburg-leesville/rush-clothing-co/
-shop: clothes
+shop: Kleidung
 ---

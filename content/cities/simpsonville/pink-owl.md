@@ -1,5 +1,5 @@
 ---
 title: "Pink Owl"
 url: /simpsonville/pink-owl/
-shop: clothes
+shop: Kleidung
 ---

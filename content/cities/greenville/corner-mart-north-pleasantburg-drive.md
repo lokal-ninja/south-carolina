@@ -1,5 +1,5 @@
 ---
 title: "Corner Mart"
 url: /greenville/corner-mart-north-pleasantburg-drive/
-shop: convenience
+shop: Lebensmittel
 ---

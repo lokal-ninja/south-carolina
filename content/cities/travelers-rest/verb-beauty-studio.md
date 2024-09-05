@@ -1,5 +1,5 @@
 ---
 title: "Verb Beauty Studio"
 url: /travelers-rest/verb-beauty-studio/
-shop: beauty
+shop: Kosmetik
 ---

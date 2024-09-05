@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /north-charleston/publix/
-shop: supermarket
+shop: Supermarkt
 ---
