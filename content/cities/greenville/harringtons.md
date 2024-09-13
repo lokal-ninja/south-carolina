@@ -1,5 +1,5 @@
 ---
 title: "Harringtons"
 url: /greenville/harringtons/
-shop: Kleidung
+shop: clothes
 ---

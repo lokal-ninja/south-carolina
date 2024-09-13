@@ -1,5 +1,5 @@
 ---
 title: "Roses"
 url: /denmark/roses/
-shop: Kramladen
+shop: variety store
 ---

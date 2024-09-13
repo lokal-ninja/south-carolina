@@ -1,5 +1,5 @@
 ---
 title: "Maggie's School Resale Store"
 url: /greenville/maggies-school-resale-store/
-shop: Gebrauchtwaren
+shop: charity
 ---

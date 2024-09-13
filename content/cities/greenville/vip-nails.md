@@ -1,5 +1,5 @@
 ---
 title: "Vip Nails"
 url: /greenville/vip-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Level Up"
 url: /mauldin/level-up/
-shop: Friseur
+shop: hairdresser
 ---

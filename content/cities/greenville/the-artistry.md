@@ -1,5 +1,5 @@
 ---
 title: "The Artistry"
 url: /greenville/the-artistry/
-shop: Kunst
+shop: art
 ---

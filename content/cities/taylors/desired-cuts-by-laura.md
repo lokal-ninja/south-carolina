@@ -1,5 +1,5 @@
 ---
 title: "Desired Cuts By Laura"
 url: /taylors/desired-cuts-by-laura/
-shop: Friseur
+shop: hairdresser
 ---

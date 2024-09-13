@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /columbia-harbison/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /greer/walgreens/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /sumter/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

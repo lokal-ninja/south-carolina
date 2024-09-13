@@ -1,5 +1,5 @@
 ---
 title: "Parker-White Funeral Home"
 url: /ware-shoals/parker-white-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

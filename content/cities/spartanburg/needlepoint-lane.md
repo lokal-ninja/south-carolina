@@ -1,5 +1,5 @@
 ---
 title: "Needlepoint Lane"
 url: /spartanburg/needlepoint-lane/
-shop: Nähzubehör
+shop: sewing
 ---

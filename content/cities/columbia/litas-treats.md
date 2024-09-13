@@ -1,5 +1,5 @@
 ---
 title: "Lita's Treats"
 url: /columbia/litas-treats/
-shop: Konditorei
+shop: pastry
 ---

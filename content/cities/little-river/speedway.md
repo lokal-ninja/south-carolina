@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /little-river/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

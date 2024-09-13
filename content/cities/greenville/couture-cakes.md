@@ -1,5 +1,5 @@
 ---
 title: "Couture Cakes"
 url: /greenville/couture-cakes/
-shop: Bäckerei
+shop: bakery
 ---

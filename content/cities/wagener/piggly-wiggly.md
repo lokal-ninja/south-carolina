@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /wagener/piggly-wiggly/
-shop: Supermarkt
+shop: supermarket
 ---

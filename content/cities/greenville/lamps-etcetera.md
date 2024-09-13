@@ -1,5 +1,5 @@
 ---
 title: "Lamps Etcetera"
 url: /greenville/lamps-etcetera/
-shop: Lampen
+shop: lamps
 ---

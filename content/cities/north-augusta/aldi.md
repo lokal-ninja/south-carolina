@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /north-augusta/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

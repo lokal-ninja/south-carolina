@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /spartanburg/toyota/
-shop: Autohaus
+shop: car
 ---

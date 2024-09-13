@@ -1,5 +1,5 @@
 ---
 title: "Kash n Karry"
 url: /seneca/kash-n-karry/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /spartanburg/quiktrip/
-shop: Lebensmittel
+shop: convenience
 ---

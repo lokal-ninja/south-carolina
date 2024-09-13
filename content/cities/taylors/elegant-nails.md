@@ -1,5 +1,5 @@
 ---
 title: "Elegant Nails"
 url: /taylors/elegant-nails/
-shop: Kosmetik
+shop: beauty
 ---

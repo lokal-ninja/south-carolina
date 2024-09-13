@@ -1,5 +1,5 @@
 ---
 title: "Earth Fare"
 url: /summerville/earth-fare/
-shop: Bioladen
+shop: health food
 ---

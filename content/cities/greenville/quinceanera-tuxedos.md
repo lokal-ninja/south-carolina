@@ -1,5 +1,5 @@
 ---
 title: "Quinceanera Tuxedos"
 url: /greenville/quinceanera-tuxedos/
-shop: Kleidung
+shop: clothes
 ---

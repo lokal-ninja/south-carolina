@@ -1,5 +1,5 @@
 ---
 title: "Country Cutters"
 url: /hampton/country-cutters/
-shop: Kosmetik
+shop: beauty
 ---

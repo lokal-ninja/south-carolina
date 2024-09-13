@@ -1,5 +1,5 @@
 ---
 title: "Kidsignment"
 url: /greenville/kidsignment/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Outspokin"
 url: /columbia/outspokin/
-shop: Fahrrad
+shop: bicycle
 ---

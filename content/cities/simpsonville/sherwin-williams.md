@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /simpsonville/sherwin-williams/
-shop: Farben
+shop: paint
 ---

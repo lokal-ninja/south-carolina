@@ -1,5 +1,5 @@
 ---
 title: "MAACO"
 url: /spartanburg/maaco/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Caliber Collision"
 url: /myrtle-beach/caliber-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

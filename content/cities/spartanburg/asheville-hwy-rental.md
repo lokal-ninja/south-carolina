@@ -1,5 +1,5 @@
 ---
 title: "Asheville Hwy Rental"
 url: /spartanburg/asheville-hwy-rental/
-shop: Allgemein
+shop: shop
 ---

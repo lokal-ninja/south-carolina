@@ -1,5 +1,5 @@
 ---
 title: "Wild West"
 url: /surfside-beach/wild-west/
-shop: Kleidung
+shop: clothes
 ---

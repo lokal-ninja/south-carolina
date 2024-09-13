@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /calhoun-falls/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

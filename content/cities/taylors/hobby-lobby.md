@@ -1,5 +1,5 @@
 ---
 title: "Hobby Lobby"
 url: /taylors/hobby-lobby/
-shop: Basteln
+shop: craft
 ---

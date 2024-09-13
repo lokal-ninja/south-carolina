@@ -1,5 +1,5 @@
 ---
 title: "A-GUD-BUY"
 url: /greer/a-gud-buy/
-shop: Autowerkstatt
+shop: car repair
 ---

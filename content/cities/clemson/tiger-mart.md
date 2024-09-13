@@ -1,5 +1,5 @@
 ---
 title: "Tiger Mart"
 url: /clemson/tiger-mart/
-shop: Lebensmittel
+shop: convenience
 ---

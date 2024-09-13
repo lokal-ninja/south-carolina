@@ -1,5 +1,5 @@
 ---
 title: "ABC"
 url: /batesburg-leesville/abc/
-shop: Spirituosen
+shop: alcohol
 ---

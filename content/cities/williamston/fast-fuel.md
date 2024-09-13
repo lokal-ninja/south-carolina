@@ -1,5 +1,5 @@
 ---
 title: "Fast Fuel"
 url: /williamston/fast-fuel/
-shop: Lebensmittel
+shop: convenience
 ---

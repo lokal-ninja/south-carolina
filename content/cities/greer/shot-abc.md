@@ -1,5 +1,5 @@
 ---
 title: "Shot! ABC"
 url: /greer/shot-abc/
-shop: Spirituosen
+shop: alcohol
 ---

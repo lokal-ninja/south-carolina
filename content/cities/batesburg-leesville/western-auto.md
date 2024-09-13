@@ -1,5 +1,5 @@
 ---
 title: "Western Auto"
 url: /batesburg-leesville/western-auto/
-shop: Eisenwaren
+shop: hardware
 ---

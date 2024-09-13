@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /greenville/ulta-beauty-north-pleasantburg-drive/
-shop: Kosmetik
+shop: beauty
 ---

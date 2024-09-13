@@ -1,5 +1,5 @@
 ---
 title: "Vampire Penguin"
 url: /piedmont/vampire-penguin/
-shop: Süßwaren
+shop: confectionery
 ---

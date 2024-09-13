@@ -1,5 +1,5 @@
 ---
 title: "Sista Sista"
 url: /greenville/sista-sista/
-shop: Kleidung
+shop: clothes
 ---

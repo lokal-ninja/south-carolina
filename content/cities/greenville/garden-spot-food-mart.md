@@ -1,5 +1,5 @@
 ---
 title: "Garden Spot Food Mart"
 url: /greenville/garden-spot-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

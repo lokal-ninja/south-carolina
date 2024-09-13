@@ -1,5 +1,5 @@
 ---
 title: "Ken's Galaxy"
 url: /blackville/kens-galaxy/
-shop: Supermarkt
+shop: supermarket
 ---

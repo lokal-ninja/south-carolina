@@ -1,5 +1,5 @@
 ---
 title: "Wholesale"
 url: /fountain-inn/wholesale/
-shop: Möbel
+shop: furniture
 ---

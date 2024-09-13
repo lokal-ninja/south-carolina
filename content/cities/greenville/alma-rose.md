@@ -1,5 +1,5 @@
 ---
 title: "Alma Rose"
 url: /greenville/alma-rose/
-shop: Kosmetik
+shop: beauty
 ---

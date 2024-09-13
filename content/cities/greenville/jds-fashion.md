@@ -1,5 +1,5 @@
 ---
 title: "JD's Fashion"
 url: /greenville/jds-fashion/
-shop: Kleidung
+shop: clothes
 ---

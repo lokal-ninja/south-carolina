@@ -1,5 +1,5 @@
 ---
 title: "HotSpot"
 url: /spartanburg/hotspot/
-shop: Lebensmittel
+shop: convenience
 ---

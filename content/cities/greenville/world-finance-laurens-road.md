@@ -1,5 +1,5 @@
 ---
 title: "World Finance"
 url: /greenville/world-finance-laurens-road/
-shop: Leiher
+shop: pawnbroker
 ---

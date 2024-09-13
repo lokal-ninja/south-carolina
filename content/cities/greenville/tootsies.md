@@ -1,5 +1,5 @@
 ---
 title: "Tootsies"
 url: /greenville/tootsies/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Warby Parker"
 url: /greenville/warby-parker/
-shop: Optiker
+shop: optician
 ---

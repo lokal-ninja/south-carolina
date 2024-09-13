@@ -1,5 +1,5 @@
 ---
 title: "Kirkland's"
 url: /myrtle-beach/kirklands/
-shop: Raumausstattung
+shop: interior decoration
 ---

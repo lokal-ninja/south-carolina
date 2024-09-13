@@ -1,5 +1,5 @@
 ---
 title: "Insomnia Cookies"
 url: /clemson/insomnia-cookies/
-shop: Süßwaren
+shop: confectionery
 ---

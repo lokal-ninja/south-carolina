@@ -1,5 +1,5 @@
 ---
 title: "Old Skool Outfitter"
 url: /greenville/old-skool-outfitter/
-shop: Kleidung
+shop: clothes
 ---

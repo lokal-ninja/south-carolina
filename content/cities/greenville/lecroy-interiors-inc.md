@@ -1,5 +1,5 @@
 ---
 title: "LeCroy Interiors, Inc"
 url: /greenville/lecroy-interiors-inc/
-shop: Raumausstattung
+shop: interior decoration
 ---

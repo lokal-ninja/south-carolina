@@ -1,5 +1,5 @@
 ---
 title: "Bealls Outlet"
 url: /newberry/bealls-outlet/
-shop: Kramladen
+shop: variety store
 ---

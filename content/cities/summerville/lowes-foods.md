@@ -1,5 +1,5 @@
 ---
 title: "Lowes Foods"
 url: /summerville/lowes-foods/
-shop: Supermarkt
+shop: supermarket
 ---

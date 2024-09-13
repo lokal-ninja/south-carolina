@@ -1,5 +1,5 @@
 ---
 title: "East Coast Mustangs"
 url: /greenville/east-coast-mustangs/
-shop: Autoteile
+shop: car parts
 ---

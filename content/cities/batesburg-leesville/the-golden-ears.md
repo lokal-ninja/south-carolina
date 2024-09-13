@@ -1,5 +1,5 @@
 ---
 title: "The Golden Ears"
 url: /batesburg-leesville/the-golden-ears/
-shop: Hörgeräte
+shop: hearing aids
 ---

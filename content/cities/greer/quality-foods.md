@@ -1,5 +1,5 @@
 ---
 title: "Quality Foods"
 url: /greer/quality-foods/
-shop: Supermarkt
+shop: supermarket
 ---

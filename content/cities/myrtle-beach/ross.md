@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /myrtle-beach/ross/
-shop: Warenhaus
+shop: department store
 ---

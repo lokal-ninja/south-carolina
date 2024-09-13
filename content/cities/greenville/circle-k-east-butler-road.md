@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /greenville/circle-k-east-butler-road/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm Clearance"
 url: /columbia/mattress-firm-clearance/
-shop: Betten
+shop: bed
 ---

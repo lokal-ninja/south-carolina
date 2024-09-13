@@ -1,5 +1,5 @@
 ---
 title: "Wilson Meat Processing"
 url: /westminster/wilson-meat-processing/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /greenwood/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

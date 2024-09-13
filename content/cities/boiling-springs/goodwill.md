@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /boiling-springs/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

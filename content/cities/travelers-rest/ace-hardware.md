@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /travelers-rest/ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

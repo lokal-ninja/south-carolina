@@ -1,5 +1,5 @@
 ---
 title: "emediagroup"
 url: /greenville/emediagroup/
-shop: Allgemein
+shop: shop
 ---

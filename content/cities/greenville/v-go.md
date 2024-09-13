@@ -1,5 +1,5 @@
 ---
 title: "V-GO"
 url: /greenville/v-go/
-shop: Lebensmittel
+shop: convenience
 ---

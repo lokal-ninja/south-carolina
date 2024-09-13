@@ -1,5 +1,5 @@
 ---
 title: "FedEx"
 url: /greenville/fedex-woods-lake-road/
-shop: Kopieren
+shop: copyshop
 ---

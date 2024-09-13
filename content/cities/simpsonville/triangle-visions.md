@@ -1,5 +1,5 @@
 ---
 title: "Triangle Visions"
 url: /simpsonville/triangle-visions/
-shop: Optiker
+shop: optician
 ---

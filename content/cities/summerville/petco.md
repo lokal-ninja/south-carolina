@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /summerville/petco/
-shop: Tiere
+shop: pet
 ---

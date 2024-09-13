@@ -1,5 +1,5 @@
 ---
 title: "Ingles"
 url: /seneca/ingles/
-shop: Supermarkt
+shop: supermarket
 ---

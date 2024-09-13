@@ -1,5 +1,5 @@
 ---
 title: "Pure Konfidence Boutique"
 url: /spartanburg/pure-konfidence-boutique/
-shop: Kleidung
+shop: clothes
 ---

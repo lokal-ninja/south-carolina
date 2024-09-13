@@ -1,5 +1,5 @@
 ---
 title: "King's Barber Shop"
 url: /westminster/kings-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

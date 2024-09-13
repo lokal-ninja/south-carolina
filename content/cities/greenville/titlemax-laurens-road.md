@@ -1,5 +1,5 @@
 ---
 title: "TitleMax"
 url: /greenville/titlemax-laurens-road/
-shop: Leiher
+shop: pawnbroker
 ---

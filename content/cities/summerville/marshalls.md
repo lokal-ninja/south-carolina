@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /summerville/marshalls/
-shop: Warenhaus
+shop: department store
 ---

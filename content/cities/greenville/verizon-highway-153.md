@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /greenville/verizon-highway-153/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ponsett Medical"
 url: /greenville/ponsett-medical/
-shop: Sanitätshaus
+shop: medical supply
 ---

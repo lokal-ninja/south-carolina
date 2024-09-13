@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
 url: /conway/big-lots/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /columbia/target/
-shop: Warenhaus
+shop: department store
 ---

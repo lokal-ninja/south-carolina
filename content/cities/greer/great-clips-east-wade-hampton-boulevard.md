@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /greer/great-clips-east-wade-hampton-boulevard/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bert's Automotive"
 url: /duncan/berts-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

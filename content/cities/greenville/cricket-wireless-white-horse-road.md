@@ -1,5 +1,5 @@
 ---
 title: "Cricket Wireless"
 url: /greenville/cricket-wireless-white-horse-road/
-shop: Handy
+shop: mobile phone
 ---

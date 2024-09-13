@@ -1,5 +1,5 @@
 ---
 title: "Adidas"
 url: /bluffton/adidas/
-shop: Sport
+shop: sports
 ---

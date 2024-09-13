@@ -1,5 +1,5 @@
 ---
 title: "Clayton's Hair Design"
 url: /greenville/claytons-hair-design/
-shop: Friseur
+shop: hairdresser
 ---

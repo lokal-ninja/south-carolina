@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /myrtle-beach/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

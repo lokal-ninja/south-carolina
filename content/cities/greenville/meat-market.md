@@ -1,5 +1,5 @@
 ---
 title: "Meat Market"
 url: /greenville/meat-market/
-shop: Lebensmittel
+shop: convenience
 ---

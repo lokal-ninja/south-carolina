@@ -1,5 +1,5 @@
 ---
 title: "East Lake Auto Sales"
 url: /duncan/east-lake-auto-sales/
-shop: Autohaus
+shop: car
 ---

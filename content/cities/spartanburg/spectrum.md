@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /spartanburg/spectrum/
-shop: Handy
+shop: mobile phone
 ---

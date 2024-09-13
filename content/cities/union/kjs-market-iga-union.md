@@ -1,5 +1,5 @@
 ---
 title: "KJ's Market IGA - Union"
 url: /union/kjs-market-iga-union/
-shop: Supermarkt
+shop: supermarket
 ---

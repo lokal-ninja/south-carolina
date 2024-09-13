@@ -1,5 +1,5 @@
 ---
 title: "Top Spa Nails"
 url: /simpsonville/top-spa-nails/
-shop: Kosmetik
+shop: beauty
 ---

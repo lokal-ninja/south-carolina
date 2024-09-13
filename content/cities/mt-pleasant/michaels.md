@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /mt-pleasant/michaels/
-shop: Basteln
+shop: craft
 ---

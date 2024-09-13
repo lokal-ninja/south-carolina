@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /summerville/walmart-supercenter-dorchester-road/
-shop: Supermarkt
+shop: supermarket
 ---

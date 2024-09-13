@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /spartanburg/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /conway/dollar-general-4th-avenue/
-shop: Kramladen
+shop: variety store
 ---

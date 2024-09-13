@@ -1,5 +1,5 @@
 ---
 title: "Sunbelt Rentals"
 url: /lexington/sunbelt-rentals/
-shop: Allgemein
+shop: shop
 ---

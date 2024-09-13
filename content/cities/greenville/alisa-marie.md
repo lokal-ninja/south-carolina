@@ -1,5 +1,5 @@
 ---
 title: "Alisa Marie"
 url: /greenville/alisa-marie/
-shop: Kleidung
+shop: clothes
 ---

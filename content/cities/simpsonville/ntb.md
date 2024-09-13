@@ -1,5 +1,5 @@
 ---
 title: "NTB"
 url: /simpsonville/ntb/
-shop: Autowerkstatt
+shop: car repair
 ---

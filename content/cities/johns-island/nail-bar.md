@@ -1,5 +1,5 @@
 ---
 title: "Nail Bar"
 url: /johns-island/nail-bar/
-shop: Kosmetik
+shop: beauty
 ---

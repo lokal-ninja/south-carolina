@@ -1,5 +1,5 @@
 ---
 title: "Pedego Soda City"
 url: /west-columbia/pedego-soda-city/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
 url: /columbia/food-lion-decker-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

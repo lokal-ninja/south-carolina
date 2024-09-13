@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /myrtle-beach/target/
-shop: Warenhaus
+shop: department store
 ---

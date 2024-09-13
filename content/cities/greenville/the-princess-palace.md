@@ -1,5 +1,5 @@
 ---
 title: "The Princess Palace"
 url: /greenville/the-princess-palace/
-shop: Friseur
+shop: hairdresser
 ---

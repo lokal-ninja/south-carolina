@@ -1,5 +1,5 @@
 ---
 title: "Spinx"
 url: /simpsonville/spinx-east-standing-springs-road/
-shop: Lebensmittel
+shop: convenience
 ---

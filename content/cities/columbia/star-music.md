@@ -1,5 +1,5 @@
 ---
 title: "Star Music"
 url: /columbia/star-music/
-shop: Instrumente
+shop: musical instrument
 ---

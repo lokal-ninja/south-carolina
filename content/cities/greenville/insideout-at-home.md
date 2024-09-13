@@ -1,5 +1,5 @@
 ---
 title: "InsideOut at Home"
 url: /greenville/insideout-at-home/
-shop: Raumausstattung
+shop: interior decoration
 ---

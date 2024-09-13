@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /columbia-harbison/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CarFare"
 url: /summerville/carfare/
-shop: Autohaus
+shop: car
 ---

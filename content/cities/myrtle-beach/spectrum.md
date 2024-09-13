@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /myrtle-beach/spectrum/
-shop: Handy
+shop: mobile phone
 ---

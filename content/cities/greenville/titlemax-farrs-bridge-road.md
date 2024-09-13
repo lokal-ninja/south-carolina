@@ -1,5 +1,5 @@
 ---
 title: "TitleMax"
 url: /greenville/titlemax-farrs-bridge-road/
-shop: Leiher
+shop: pawnbroker
 ---

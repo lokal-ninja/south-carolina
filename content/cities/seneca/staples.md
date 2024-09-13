@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /seneca/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

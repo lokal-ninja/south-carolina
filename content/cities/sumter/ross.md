@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /sumter/ross/
-shop: Warenhaus
+shop: department store
 ---

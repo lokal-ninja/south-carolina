@@ -1,5 +1,5 @@
 ---
 title: "Harris Teeter"
 url: /hilton-head/harris-teeter/
-shop: Supermarkt
+shop: supermarket
 ---

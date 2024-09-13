@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /turbeville/iga/
-shop: Supermarkt
+shop: supermarket
 ---

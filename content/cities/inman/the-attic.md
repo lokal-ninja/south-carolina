@@ -1,5 +1,5 @@
 ---
 title: "The Attic"
 url: /inman/the-attic/
-shop: Raumausstattung
+shop: interior decoration
 ---

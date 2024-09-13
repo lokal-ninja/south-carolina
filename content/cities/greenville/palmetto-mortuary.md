@@ -1,5 +1,5 @@
 ---
 title: "Palmetto Mortuary"
 url: /greenville/palmetto-mortuary/
-shop: Bestattungen
+shop: funeral directors
 ---

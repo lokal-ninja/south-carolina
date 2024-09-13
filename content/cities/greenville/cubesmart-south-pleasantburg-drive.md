@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /greenville/cubesmart-south-pleasantburg-drive/
-shop: Mieten
+shop: storage rental
 ---

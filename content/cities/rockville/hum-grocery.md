@@ -1,5 +1,5 @@
 ---
 title: "Hum Grocery"
 url: /rockville/hum-grocery/
-shop: Supermarkt
+shop: supermarket
 ---

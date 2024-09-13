@@ -1,5 +1,5 @@
 ---
 title: "Landrum Hardware"
 url: /landrum/landrum-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

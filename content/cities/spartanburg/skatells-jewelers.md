@@ -1,5 +1,5 @@
 ---
 title: "Skatell's Jewelers"
 url: /spartanburg/skatells-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

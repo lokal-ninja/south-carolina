@@ -1,5 +1,5 @@
 ---
 title: "Textbook Warehouse"
 url: /greenville/textbook-warehouse/
-shop: Bücher
+shop: books
 ---

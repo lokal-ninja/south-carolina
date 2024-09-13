@@ -1,5 +1,5 @@
 ---
 title: "Belk"
 url: /beaufort/belk/
-shop: Kleidung
+shop: clothes
 ---

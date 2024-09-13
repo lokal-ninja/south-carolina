@@ -1,5 +1,5 @@
 ---
 title: "Willard's Fireworks"
 url: /little-river/willards-fireworks/
-shop: Pyrotechnik
+shop: pyrotechnics
 ---

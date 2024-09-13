@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /columbia/speedway-two-notch-road/
-shop: Lebensmittel
+shop: convenience
 ---

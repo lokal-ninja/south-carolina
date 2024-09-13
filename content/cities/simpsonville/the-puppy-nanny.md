@@ -1,5 +1,5 @@
 ---
 title: "The Puppy Nanny"
 url: /simpsonville/the-puppy-nanny/
-shop: Tiere
+shop: pet
 ---

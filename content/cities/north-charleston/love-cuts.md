@@ -1,5 +1,5 @@
 ---
 title: "Love Cuts"
 url: /north-charleston/love-cuts/
-shop: Friseur
+shop: hairdresser
 ---

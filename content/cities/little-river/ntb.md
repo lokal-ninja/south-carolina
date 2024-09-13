@@ -1,5 +1,5 @@
 ---
 title: "NTB"
 url: /little-river/ntb/
-shop: Autowerkstatt
+shop: car repair
 ---

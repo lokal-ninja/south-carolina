@@ -1,5 +1,5 @@
 ---
 title: "Scout's Doughnuts"
 url: /greenville/scouts-doughnuts/
-shop: Konditorei
+shop: pastry
 ---

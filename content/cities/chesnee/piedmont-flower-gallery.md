@@ -1,5 +1,5 @@
 ---
 title: "Piedmont Flower Gallery"
 url: /chesnee/piedmont-flower-gallery/
-shop: Blumen
+shop: florist
 ---

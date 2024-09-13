@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /piedmont/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

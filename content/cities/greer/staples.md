@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /greer/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

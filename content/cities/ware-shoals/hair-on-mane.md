@@ -1,5 +1,5 @@
 ---
 title: "Hair on Mane"
 url: /ware-shoals/hair-on-mane/
-shop: Friseur
+shop: hairdresser
 ---

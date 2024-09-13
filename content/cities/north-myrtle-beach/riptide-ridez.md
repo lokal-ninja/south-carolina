@@ -1,5 +1,5 @@
 ---
 title: "Riptide Ridez"
 url: /north-myrtle-beach/riptide-ridez/
-shop: Allgemein
+shop: shop
 ---

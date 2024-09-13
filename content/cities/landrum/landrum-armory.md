@@ -1,5 +1,5 @@
 ---
 title: "Landrum Armory"
 url: /landrum/landrum-armory/
-shop: Waffen
+shop: weapons
 ---

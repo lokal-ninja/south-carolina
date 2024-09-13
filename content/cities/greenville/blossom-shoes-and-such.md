@@ -1,5 +1,5 @@
 ---
-title: "Blossom Shoes and Such"
+title: "Blossom Shoes & Such"
 url: /greenville/blossom-shoes-and-such/
-shop: Schuhe
+shop: shoes
 ---

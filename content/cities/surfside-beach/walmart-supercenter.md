@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /surfside-beach/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "True Automart"
 url: /piedmont/true-automart/
-shop: Autohaus
+shop: car
 ---

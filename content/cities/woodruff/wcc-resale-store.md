@@ -1,5 +1,5 @@
 ---
 title: "WCC Resale Store"
 url: /woodruff/wcc-resale-store/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Greenwood Mall"
 url: /greenwood/greenwood-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

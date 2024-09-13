@@ -1,5 +1,5 @@
 ---
 title: "Citi Trends"
 url: /newberry/citi-trends/
-shop: Kleidung
+shop: clothes
 ---

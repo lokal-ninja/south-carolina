@@ -1,5 +1,5 @@
 ---
 title: "Bicycle Time"
 url: /boiling-springs/bicycle-time/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DressUp"
 url: /greenville/dressup/
-shop: Kleidung
+shop: clothes
 ---

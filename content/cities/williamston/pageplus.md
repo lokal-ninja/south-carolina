@@ -1,5 +1,5 @@
 ---
 title: "pageplus"
 url: /williamston/pageplus/
-shop: Handy
+shop: mobile phone
 ---

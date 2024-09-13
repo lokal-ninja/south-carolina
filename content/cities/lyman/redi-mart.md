@@ -1,5 +1,5 @@
 ---
 title: "Redi Mart"
 url: /lyman/redi-mart/
-shop: Lebensmittel
+shop: convenience
 ---

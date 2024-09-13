@@ -1,5 +1,5 @@
 ---
 title: "Royal Hedgehogs"
 url: /greenville/royal-hedgehogs/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beach Blossoms"
 url: /myrtle-beach/beach-blossoms/
-shop: Blumen
+shop: florist
 ---

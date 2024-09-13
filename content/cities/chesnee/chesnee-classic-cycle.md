@@ -1,5 +1,5 @@
 ---
 title: "Chesnee Classic Cycle"
 url: /chesnee/chesnee-classic-cycle/
-shop: Motorrad
+shop: motorcycle
 ---

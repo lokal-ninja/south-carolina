@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /chesnee/autozone/
-shop: Autoteile
+shop: car parts
 ---

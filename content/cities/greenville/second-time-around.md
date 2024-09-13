@@ -1,5 +1,5 @@
 ---
 title: "Second Time Around"
 url: /greenville/second-time-around/
-shop: Gebrauchtwaren
+shop: charity
 ---

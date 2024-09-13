@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /greer/dollar-general-east-wade-hampton-boulevard/
-shop: Kramladen
+shop: variety store
 ---

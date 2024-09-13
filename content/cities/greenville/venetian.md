@@ -1,5 +1,5 @@
 ---
 title: "Venetian"
 url: /greenville/venetian/
-shop: Kosmetik
+shop: beauty
 ---

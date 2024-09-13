@@ -1,5 +1,5 @@
 ---
 title: "Aiken Dry Goods"
 url: /aiken/aiken-dry-goods/
-shop: Kleidung
+shop: clothes
 ---

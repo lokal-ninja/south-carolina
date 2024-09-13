@@ -1,5 +1,5 @@
 ---
 title: "Nail Garden - Summerville"
 url: /summerville/nail-garden-summerville/
-shop: Kosmetik
+shop: beauty
 ---

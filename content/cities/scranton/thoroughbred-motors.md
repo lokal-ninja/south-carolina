@@ -1,5 +1,5 @@
 ---
 title: "Thoroughbred Motors"
 url: /scranton/thoroughbred-motors/
-shop: Autohaus
+shop: car
 ---

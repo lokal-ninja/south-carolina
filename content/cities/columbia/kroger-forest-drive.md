@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /columbia/kroger-forest-drive/
-shop: Supermarkt
+shop: supermarket
 ---

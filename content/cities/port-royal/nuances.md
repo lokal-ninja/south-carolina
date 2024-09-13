@@ -1,5 +1,5 @@
 ---
 title: "Nuances"
 url: /port-royal/nuances/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nail Envy"
 url: /greenville/nail-envy/
-shop: Kosmetik
+shop: beauty
 ---

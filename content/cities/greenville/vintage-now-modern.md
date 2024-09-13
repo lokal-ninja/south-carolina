@@ -1,5 +1,5 @@
 ---
 title: "Vintage Now Modern"
 url: /greenville/vintage-now-modern/
-shop: Raumausstattung
+shop: interior decoration
 ---

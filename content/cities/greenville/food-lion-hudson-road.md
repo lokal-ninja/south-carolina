@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
 url: /greenville/food-lion-hudson-road/
-shop: Supermarkt
+shop: supermarket
 ---

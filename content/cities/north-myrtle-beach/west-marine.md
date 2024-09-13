@@ -1,5 +1,5 @@
 ---
 title: "West Marine"
 url: /north-myrtle-beach/west-marine/
-shop: Boot
+shop: boat
 ---

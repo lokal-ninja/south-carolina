@@ -1,5 +1,5 @@
 ---
 title: "Wigglebutts Groom'n"
 url: /spartanburg/wigglebutts-groomn/
-shop: Tiersalon
+shop: pet grooming
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spinx"
 url: /landrum/spinx/
-shop: Lebensmittel
+shop: convenience
 ---

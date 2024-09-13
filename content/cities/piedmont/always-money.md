@@ -1,5 +1,5 @@
 ---
 title: "Always Money"
 url: /piedmont/always-money/
-shop: Leiher
+shop: pawnbroker
 ---

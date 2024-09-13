@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /columbia/shell/
-shop: Lebensmittel
+shop: convenience
 ---

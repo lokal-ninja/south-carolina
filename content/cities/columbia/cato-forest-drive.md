@@ -1,5 +1,5 @@
 ---
 title: "Cato"
 url: /columbia/cato-forest-drive/
-shop: Kleidung
+shop: clothes
 ---

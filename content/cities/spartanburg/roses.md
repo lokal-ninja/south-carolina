@@ -1,5 +1,5 @@
 ---
 title: "Roses"
 url: /spartanburg/roses/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /surfside-beach/piggly-wiggly/
-shop: Supermarkt
+shop: supermarket
 ---

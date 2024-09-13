@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /boiling-springs/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

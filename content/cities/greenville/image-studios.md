@@ -1,5 +1,5 @@
 ---
 title: "Image Studios"
 url: /greenville/image-studios/
-shop: Friseur
+shop: hairdresser
 ---

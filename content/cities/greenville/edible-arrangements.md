@@ -1,5 +1,5 @@
 ---
 title: "Edible Arrangements"
 url: /greenville/edible-arrangements/
-shop: Andenken
+shop: gift
 ---

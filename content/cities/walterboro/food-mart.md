@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /walterboro/food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

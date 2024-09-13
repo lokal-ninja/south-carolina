@@ -1,5 +1,5 @@
 ---
 title: "Midway Auto Parts"
 url: /greer/midway-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

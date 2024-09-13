@@ -1,5 +1,5 @@
 ---
 title: "Zike"
 url: /greenville/zike/
-shop: Fahrrad
+shop: bicycle
 ---

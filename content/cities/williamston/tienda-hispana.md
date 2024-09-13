@@ -1,5 +1,5 @@
 ---
 title: "Tienda Hispana"
 url: /williamston/tienda-hispana/
-shop: Kramladen
+shop: variety store
 ---

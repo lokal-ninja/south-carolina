@@ -1,5 +1,5 @@
 ---
 title: "VGo"
 url: /donalds/vgo/
-shop: Lebensmittel
+shop: convenience
 ---

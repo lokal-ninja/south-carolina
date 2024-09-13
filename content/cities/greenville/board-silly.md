@@ -1,5 +1,5 @@
 ---
 title: "Board Silly"
 url: /greenville/board-silly/
-shop: Spiele
+shop: games
 ---

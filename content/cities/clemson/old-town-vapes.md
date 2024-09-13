@@ -1,5 +1,5 @@
 ---
 title: "Old Town Vapes"
 url: /clemson/old-town-vapes/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

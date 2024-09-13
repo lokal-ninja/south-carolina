@@ -1,5 +1,5 @@
 ---
 title: "Sav-Way"
 url: /williamston/sav-way/
-shop: Lebensmittel
+shop: convenience
 ---

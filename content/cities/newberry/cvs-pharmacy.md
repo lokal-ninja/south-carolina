@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /newberry/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

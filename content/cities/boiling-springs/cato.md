@@ -1,5 +1,5 @@
 ---
 title: "Cato"
 url: /boiling-springs/cato/
-shop: Kleidung
+shop: clothes
 ---

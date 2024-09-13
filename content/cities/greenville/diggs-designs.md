@@ -1,5 +1,5 @@
 ---
 title: "Diggs Designs"
 url: /greenville/diggs-designs/
-shop: Raumausstattung
+shop: interior decoration
 ---

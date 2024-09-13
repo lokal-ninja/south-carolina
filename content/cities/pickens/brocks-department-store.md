@@ -1,5 +1,5 @@
 ---
 title: "Brock's Department Store"
 url: /pickens/brocks-department-store/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sesqui Tire Center"
 url: /columbia/sesqui-tire-center/
-shop: Reifen
+shop: tyres
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /columbia/ulta-beauty-cross-hill-road/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NAPA"
 url: /ware-shoals/napa/
-shop: Autoteile
+shop: car parts
 ---

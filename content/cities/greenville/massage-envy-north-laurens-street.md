@@ -1,5 +1,5 @@
 ---
 title: "Massage Envy"
 url: /greenville/massage-envy-north-laurens-street/
-shop: Massage
+shop: massage
 ---

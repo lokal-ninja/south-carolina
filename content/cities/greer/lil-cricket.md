@@ -1,5 +1,5 @@
 ---
 title: "Lil Cricket"
 url: /greer/lil-cricket/
-shop: Lebensmittel
+shop: convenience
 ---

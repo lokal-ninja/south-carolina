@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /travelers-rest/dollar-general-locust-hill-road/
-shop: Kramladen
+shop: variety store
 ---

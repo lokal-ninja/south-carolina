@@ -1,5 +1,5 @@
 ---
 title: "Block and Barley"
 url: /greenville/block-and-barley/
-shop: Metzgerei
+shop: butcher
 ---

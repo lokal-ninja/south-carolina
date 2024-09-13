@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /piedmont/shell/
-shop: Lebensmittel
+shop: convenience
 ---

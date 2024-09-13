@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /rock-hill/walmart-supercenter-dave-lyle-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

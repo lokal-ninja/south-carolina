@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /boiling-springs/target/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CompuStation"
 url: /lexington/compustation/
-shop: Computer
+shop: computer
 ---

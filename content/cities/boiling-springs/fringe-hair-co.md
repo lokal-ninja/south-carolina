@@ -1,5 +1,5 @@
 ---
 title: "Fringe Hair Co."
 url: /boiling-springs/fringe-hair-co/
-shop: Friseur
+shop: hairdresser
 ---

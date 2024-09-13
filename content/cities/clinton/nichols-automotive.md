@@ -1,5 +1,5 @@
 ---
 title: "Nichols Automotive"
 url: /clinton/nichols-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

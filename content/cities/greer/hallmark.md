@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /greer/hallmark/
-shop: Andenken
+shop: gift
 ---

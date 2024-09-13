@@ -1,5 +1,5 @@
 ---
 title: "Blanton Building Supplies"
 url: /loris/blanton-building-supplies/
-shop: Eisenwaren
+shop: hardware
 ---

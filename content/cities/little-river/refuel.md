@@ -1,5 +1,5 @@
 ---
 title: "Refuel"
 url: /little-river/refuel/
-shop: Lebensmittel
+shop: convenience
 ---

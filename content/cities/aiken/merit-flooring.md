@@ -1,5 +1,5 @@
 ---
 title: "Merit Flooring"
 url: /aiken/merit-flooring/
-shop: Raumausstattung
+shop: interior decoration
 ---

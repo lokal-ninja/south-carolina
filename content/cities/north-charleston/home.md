@@ -1,5 +1,5 @@
 ---
 title: "Home"
 url: /north-charleston/home/
-shop: Kramladen
+shop: variety store
 ---

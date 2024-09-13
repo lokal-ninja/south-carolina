@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /turbeville/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

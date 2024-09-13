@@ -1,5 +1,5 @@
 ---
 title: "Reggie's Unique Cuts"
 url: /spartanburg/reggies-unique-cuts/
-shop: Friseur
+shop: hairdresser
 ---

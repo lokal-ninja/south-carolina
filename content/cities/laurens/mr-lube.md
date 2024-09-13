@@ -1,5 +1,5 @@
 ---
 title: "Mr. Lube"
 url: /laurens/mr-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

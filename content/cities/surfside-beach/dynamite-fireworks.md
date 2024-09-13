@@ -1,5 +1,5 @@
 ---
 title: "Dynamite Fireworks"
 url: /surfside-beach/dynamite-fireworks/
-shop: Allgemein
+shop: shop
 ---

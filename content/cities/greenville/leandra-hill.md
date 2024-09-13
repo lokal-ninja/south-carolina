@@ -1,5 +1,5 @@
 ---
 title: "Leandra Hill"
 url: /greenville/leandra-hill/
-shop: Schmuck
+shop: jewelry
 ---

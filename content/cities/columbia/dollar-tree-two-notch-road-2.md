@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /columbia/dollar-tree-two-notch-road-2/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "International Hair Design"
 url: /greenville/international-hair-design/
-shop: Friseur
+shop: hairdresser
 ---

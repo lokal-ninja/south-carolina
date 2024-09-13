@@ -1,5 +1,5 @@
 ---
 title: "Sunflower"
 url: /greenville/sunflower/
-shop: Bäckerei
+shop: bakery
 ---

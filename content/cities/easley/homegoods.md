@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /easley/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

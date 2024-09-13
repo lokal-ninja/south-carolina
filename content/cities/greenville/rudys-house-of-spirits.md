@@ -1,5 +1,5 @@
 ---
 title: "Rudy's House of Spirits"
 url: /greenville/rudys-house-of-spirits/
-shop: Spirituosen
+shop: alcohol
 ---

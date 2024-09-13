@@ -1,5 +1,5 @@
 ---
 title: "Brooks Office Equipment"
 url: /greenville/brooks-office-equipment/
-shop: Schreibwaren
+shop: office supplies
 ---

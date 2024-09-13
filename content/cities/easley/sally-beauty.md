@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /easley/sally-beauty/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

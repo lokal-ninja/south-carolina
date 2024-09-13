@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /myrtle-beach/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

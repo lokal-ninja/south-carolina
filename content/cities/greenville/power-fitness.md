@@ -1,5 +1,5 @@
 ---
 title: "Power Fitness"
 url: /greenville/power-fitness/
-shop: Sport
+shop: sports
 ---

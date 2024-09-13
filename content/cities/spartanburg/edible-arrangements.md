@@ -1,5 +1,5 @@
 ---
 title: "Edible Arrangements"
 url: /spartanburg/edible-arrangements/
-shop: Andenken
+shop: gift
 ---

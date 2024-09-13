@@ -1,5 +1,5 @@
 ---
 title: "Joel Wilkinson Art"
 url: /greenville/joel-wilkinson-art/
-shop: Kunst
+shop: art
 ---

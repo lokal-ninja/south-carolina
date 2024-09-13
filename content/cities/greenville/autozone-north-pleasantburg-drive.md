@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /greenville/autozone-north-pleasantburg-drive/
-shop: Autoteile
+shop: car parts
 ---

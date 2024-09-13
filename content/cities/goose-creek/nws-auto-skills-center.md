@@ -1,5 +1,5 @@
 ---
 title: "NWS Auto Skills Center"
 url: /goose-creek/nws-auto-skills-center/
-shop: Autowerkstatt
+shop: car repair
 ---

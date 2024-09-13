@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
 url: /moncks-corner/big-lots/
-shop: Warenhaus
+shop: department store
 ---

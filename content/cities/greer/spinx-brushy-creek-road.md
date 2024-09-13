@@ -1,5 +1,5 @@
 ---
 title: "Spinx"
 url: /greer/spinx-brushy-creek-road/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ultratan"
 url: /greenville/ultratan-pelham-road/
-shop: Kosmetik
+shop: beauty
 ---

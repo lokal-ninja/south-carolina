@@ -1,5 +1,5 @@
 ---
 title: "Chic MD Boutique"
 url: /greenville/chic-md-boutique/
-shop: Kosmetik
+shop: beauty
 ---

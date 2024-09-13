@@ -1,5 +1,5 @@
 ---
 title: "Spinx"
 url: /easley/spinx/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
 url: /simpsonville/food-lion-woodruff-road/
-shop: Supermarkt
+shop: supermarket
 ---

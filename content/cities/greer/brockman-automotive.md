@@ -1,5 +1,5 @@
 ---
 title: "Brockman Automotive"
 url: /greer/brockman-automotive/
-shop: Autohaus
+shop: car
 ---

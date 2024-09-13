@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /columbia/burlington-fashion-drive/
-shop: Warenhaus
+shop: department store
 ---

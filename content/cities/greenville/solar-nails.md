@@ -1,5 +1,5 @@
 ---
 title: "Solar Nails"
 url: /greenville/solar-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stress Away"
 url: /greenville/stress-away/
-shop: Massage
+shop: massage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
 url: /simpsonville/advance-auto-parts-southeast-main-street/
-shop: Autoteile
+shop: car parts
 ---

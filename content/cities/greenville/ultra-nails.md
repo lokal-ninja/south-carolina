@@ -1,5 +1,5 @@
 ---
 title: "Ultra Nails"
 url: /greenville/ultra-nails/
-shop: Kosmetik
+shop: beauty
 ---

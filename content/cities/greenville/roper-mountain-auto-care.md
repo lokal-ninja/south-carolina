@@ -1,5 +1,5 @@
 ---
 title: "Roper Mountain Auto Care"
 url: /greenville/roper-mountain-auto-care/
-shop: Autowerkstatt
+shop: car repair
 ---

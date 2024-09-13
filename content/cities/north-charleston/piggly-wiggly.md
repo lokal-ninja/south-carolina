@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /north-charleston/piggly-wiggly/
-shop: Supermarkt
+shop: supermarket
 ---

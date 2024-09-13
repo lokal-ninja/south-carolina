@@ -1,5 +1,5 @@
 ---
 title: "Studio East"
 url: /greer/studio-east/
-shop: Friseur
+shop: hairdresser
 ---

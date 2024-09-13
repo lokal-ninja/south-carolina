@@ -1,5 +1,5 @@
 ---
 title: "Vintage Vainglories"
 url: /columbia/vintage-vainglories/
-shop: Raumausstattung
+shop: interior decoration
 ---

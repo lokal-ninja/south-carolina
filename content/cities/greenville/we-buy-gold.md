@@ -1,5 +1,5 @@
 ---
 title: "We Buy Gold"
 url: /greenville/we-buy-gold/
-shop: Schmuck
+shop: jewelry
 ---

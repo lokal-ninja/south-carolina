@@ -1,5 +1,5 @@
 ---
 title: "Alpine Ski Center"
 url: /greenville/alpine-ski-center/
-shop: Outdoor
+shop: outdoor
 ---

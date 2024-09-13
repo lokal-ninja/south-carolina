@@ -1,5 +1,5 @@
 ---
 title: "Beauty Mart"
 url: /spartanburg/beauty-mart/
-shop: Kosmetik
+shop: beauty
 ---

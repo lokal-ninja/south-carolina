@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
 url: /pawleys-island/food-lion-willbrook-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

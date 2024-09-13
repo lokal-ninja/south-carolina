@@ -1,5 +1,5 @@
 ---
 title: "Cregger Company"
 url: /myrtle-beach/cregger-company/
-shop: Elektrisch
+shop: electrical
 ---

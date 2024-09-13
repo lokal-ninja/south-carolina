@@ -1,5 +1,5 @@
 ---
 title: "Gateway Supply Co."
 url: /spartanburg/gateway-supply-co/
-shop: Allgemein
+shop: shop
 ---

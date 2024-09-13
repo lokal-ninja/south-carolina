@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /rock-hill/autozone/
-shop: Autoteile
+shop: car parts
 ---

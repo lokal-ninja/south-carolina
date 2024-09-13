@@ -1,5 +1,5 @@
 ---
 title: "The Nested Fig Garden"
 url: /greenville/the-nested-fig-garden/
-shop: Blumen
+shop: florist
 ---

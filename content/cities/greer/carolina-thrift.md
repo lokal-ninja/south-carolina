@@ -1,5 +1,5 @@
 ---
 title: "Carolina Thrift"
 url: /greer/carolina-thrift/
-shop: Gebrauchtwaren
+shop: charity
 ---

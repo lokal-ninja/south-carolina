@@ -1,5 +1,5 @@
 ---
 title: "Hobo Joe's Fireworks"
 url: /walterboro/hobo-joes-fireworks/
-shop: Pyrotechnik
+shop: pyrotechnics
 ---

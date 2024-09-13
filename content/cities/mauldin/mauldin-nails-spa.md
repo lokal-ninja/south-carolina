@@ -1,5 +1,5 @@
 ---
 title: "Mauldin Nails Spa"
 url: /mauldin/mauldin-nails-spa/
-shop: Kosmetik
+shop: beauty
 ---

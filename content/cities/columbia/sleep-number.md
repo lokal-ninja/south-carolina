@@ -1,5 +1,5 @@
 ---
 title: "Sleep Number"
 url: /columbia/sleep-number/
-shop: Betten
+shop: bed
 ---

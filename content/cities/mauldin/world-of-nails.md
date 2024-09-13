@@ -1,5 +1,5 @@
 ---
 title: "World of Nails"
 url: /mauldin/world-of-nails/
-shop: Kosmetik
+shop: beauty
 ---

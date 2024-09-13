@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /spartanburg/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

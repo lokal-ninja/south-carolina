@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
 url: /myrtle-beach/food-lion/
-shop: Supermarkt
+shop: supermarket
 ---

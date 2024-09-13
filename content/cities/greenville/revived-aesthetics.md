@@ -1,5 +1,5 @@
 ---
 title: "Revived Aesthetics"
 url: /greenville/revived-aesthetics/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Dixie Tire and Automotive"
+title: "Dixie Tire & Automotive"
 url: /spartanburg/dixie-tire-and-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

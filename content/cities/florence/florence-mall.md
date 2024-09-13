@@ -1,5 +1,5 @@
 ---
 title: "Florence Mall"
 url: /florence/florence-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

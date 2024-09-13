@@ -1,5 +1,5 @@
 ---
 title: "Easley Self Storage"
 url: /easley/easley-self-storage/
-shop: Mieten
+shop: storage rental
 ---

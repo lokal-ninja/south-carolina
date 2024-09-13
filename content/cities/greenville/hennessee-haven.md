@@ -1,5 +1,5 @@
 ---
 title: "Hennessee Haven"
 url: /greenville/hennessee-haven/
-shop: Raumausstattung
+shop: interior decoration
 ---

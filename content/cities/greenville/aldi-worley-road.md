@@ -1,5 +1,5 @@
 ---
-title: "Aldi"
+title: "ALDI"
 url: /greenville/aldi-worley-road/
-shop: Supermarkt
+shop: supermarket
 ---

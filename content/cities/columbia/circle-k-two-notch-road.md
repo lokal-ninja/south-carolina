@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /columbia/circle-k-two-notch-road/
-shop: Supermarkt
+shop: supermarket
 ---

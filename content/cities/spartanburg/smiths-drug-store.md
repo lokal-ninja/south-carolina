@@ -1,5 +1,5 @@
 ---
 title: "Smith's Drug Store"
 url: /spartanburg/smiths-drug-store/
-shop: Drogerie
+shop: chemist
 ---

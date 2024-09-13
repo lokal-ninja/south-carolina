@@ -1,5 +1,5 @@
 ---
 title: "Effervescence YogaSpa"
 url: /port-royal/effervescence-yogaspa/
-shop: Massage
+shop: massage
 ---

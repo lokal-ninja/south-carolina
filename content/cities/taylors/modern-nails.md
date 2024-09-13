@@ -1,5 +1,5 @@
 ---
 title: "Modern Nails"
 url: /taylors/modern-nails/
-shop: Kosmetik
+shop: beauty
 ---

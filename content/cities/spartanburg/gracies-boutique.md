@@ -1,5 +1,5 @@
 ---
 title: "Gracie's Boutique"
 url: /spartanburg/gracies-boutique/
-shop: Kleidung
+shop: clothes
 ---

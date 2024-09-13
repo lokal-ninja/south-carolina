@@ -1,5 +1,5 @@
 ---
 title: "Massage Envy"
 url: /spartanburg/massage-envy/
-shop: Massage
+shop: massage
 ---

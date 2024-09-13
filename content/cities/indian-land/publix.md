@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /indian-land/publix/
-shop: Supermarkt
+shop: supermarket
 ---

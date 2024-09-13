@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /anderson/publix-clemson-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

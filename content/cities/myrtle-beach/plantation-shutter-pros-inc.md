@@ -1,5 +1,5 @@
 ---
 title: "Plantation Shutter Pros Inc."
 url: /myrtle-beach/plantation-shutter-pros-inc/
-shop: Jalousien
+shop: window blind
 ---

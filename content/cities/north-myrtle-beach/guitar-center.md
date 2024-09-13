@@ -1,5 +1,5 @@
 ---
 title: "Guitar Center"
 url: /north-myrtle-beach/guitar-center/
-shop: Instrumente
+shop: musical instrument
 ---

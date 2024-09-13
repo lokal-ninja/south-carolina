@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /charleston/publix-hopewell-drive/
-shop: Supermarkt
+shop: supermarket
 ---

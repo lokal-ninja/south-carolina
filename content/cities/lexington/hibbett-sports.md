@@ -1,5 +1,5 @@
 ---
 title: "Hibbett Sports"
 url: /lexington/hibbett-sports/
-shop: Sport
+shop: sports
 ---

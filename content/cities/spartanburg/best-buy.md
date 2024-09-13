@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /spartanburg/best-buy/
-shop: Elektronik
+shop: electronics
 ---

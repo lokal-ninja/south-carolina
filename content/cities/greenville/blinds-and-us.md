@@ -1,5 +1,5 @@
 ---
 title: "Blinds and Us"
 url: /greenville/blinds-and-us/
-shop: Gardinen
+shop: curtain
 ---

@@ -1,5 +1,5 @@
 ---
 title: "McAlister Motor Co"
 url: /easley/mcalister-motor-co/
-shop: Autohaus
+shop: car
 ---

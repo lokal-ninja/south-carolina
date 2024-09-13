@@ -1,5 +1,5 @@
 ---
 title: "Oconee Audiology"
 url: /seneca/oconee-audiology/
-shop: Hörgeräte
+shop: hearing aids
 ---

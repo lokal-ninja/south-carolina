@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /greer/great-clips/
-shop: Friseur
+shop: hairdresser
 ---

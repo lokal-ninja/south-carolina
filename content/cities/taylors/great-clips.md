@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /taylors/great-clips/
-shop: Friseur
+shop: hairdresser
 ---

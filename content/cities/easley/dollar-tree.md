@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /easley/dollar-tree/
-shop: Kramladen
+shop: variety store
 ---

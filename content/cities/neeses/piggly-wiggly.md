@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /neeses/piggly-wiggly/
-shop: Supermarkt
+shop: supermarket
 ---

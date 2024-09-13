@@ -1,5 +1,5 @@
 ---
 title: "Master's"
 url: /spartanburg/masters/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Castle Nails"
 url: /greenville/castle-nails/
-shop: Kosmetik
+shop: beauty
 ---

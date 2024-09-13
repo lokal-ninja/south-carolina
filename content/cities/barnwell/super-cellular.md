@@ -1,5 +1,5 @@
 ---
 title: "Super Cellular"
 url: /barnwell/super-cellular/
-shop: Handy
+shop: mobile phone
 ---

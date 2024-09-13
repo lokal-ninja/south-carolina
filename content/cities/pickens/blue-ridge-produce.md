@@ -1,5 +1,5 @@
 ---
 title: "Blue Ridge Produce"
 url: /pickens/blue-ridge-produce/
-shop: Lebensmittel
+shop: convenience
 ---

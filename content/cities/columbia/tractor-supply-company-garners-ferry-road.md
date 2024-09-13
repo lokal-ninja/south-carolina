@@ -1,5 +1,5 @@
 ---
 title: "Tractor Supply Company"
 url: /columbia/tractor-supply-company-garners-ferry-road/
-shop: Dorfladen
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kimbrell's Furniture"
 url: /belton/kimbrells-furniture/
-shop: Möbel
+shop: furniture
 ---

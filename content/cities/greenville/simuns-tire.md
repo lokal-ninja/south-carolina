@@ -1,5 +1,5 @@
 ---
 title: "Simuns Tire"
 url: /greenville/simuns-tire/
-shop: Autowerkstatt
+shop: car repair
 ---

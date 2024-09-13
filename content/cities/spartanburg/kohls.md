@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /spartanburg/kohls/
-shop: Warenhaus
+shop: department store
 ---

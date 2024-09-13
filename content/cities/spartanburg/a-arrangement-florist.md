@@ -1,5 +1,5 @@
 ---
 title: "A Arrangement Florist"
 url: /spartanburg/a-arrangement-florist/
-shop: Blumen
+shop: florist
 ---

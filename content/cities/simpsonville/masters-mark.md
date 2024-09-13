@@ -1,5 +1,5 @@
 ---
 title: "Master's Mark"
 url: /simpsonville/masters-mark/
-shop: Wäscherei
+shop: laundry
 ---

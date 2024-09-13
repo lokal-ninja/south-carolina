@@ -1,5 +1,5 @@
 ---
 title: "Rack Room Shoes"
 url: /seneca/rack-room-shoes/
-shop: Schuhe
+shop: shoes
 ---

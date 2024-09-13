@@ -1,5 +1,5 @@
 ---
 title: "Quik Stop"
 url: /batesburg-leesville/quik-stop/
-shop: Lebensmittel
+shop: convenience
 ---

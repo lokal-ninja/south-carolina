@@ -1,5 +1,5 @@
 ---
 title: "Mexico Lindo"
 url: /anderson/mexico-lindo/
-shop: Supermarkt
+shop: supermarket
 ---

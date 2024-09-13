@@ -1,5 +1,5 @@
 ---
 title: "lou lou"
 url: /greenville/lou-lou/
-shop: Kleidung
+shop: clothes
 ---

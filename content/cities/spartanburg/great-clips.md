@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /spartanburg/great-clips/
-shop: Friseur
+shop: hairdresser
 ---

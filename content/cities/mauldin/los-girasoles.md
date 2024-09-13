@@ -1,5 +1,5 @@
 ---
 title: "Los Girasoles"
 url: /mauldin/los-girasoles/
-shop: Lebensmittel
+shop: convenience
 ---

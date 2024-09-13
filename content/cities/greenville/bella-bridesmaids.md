@@ -1,5 +1,5 @@
 ---
 title: "Bella Bridesmaids"
 url: /greenville/bella-bridesmaids/
-shop: Kleidung
+shop: clothes
 ---

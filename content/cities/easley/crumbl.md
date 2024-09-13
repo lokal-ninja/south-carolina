@@ -1,5 +1,5 @@
 ---
 title: "Crumbl"
 url: /easley/crumbl/
-shop: Konditorei
+shop: pastry
 ---

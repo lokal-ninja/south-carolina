@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /rock-hill/kohls/
-shop: Warenhaus
+shop: department store
 ---

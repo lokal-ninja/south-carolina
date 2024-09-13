@@ -1,5 +1,5 @@
 ---
 title: "Fastenal"
 url: /columbia/fastenal/
-shop: Baustoffe
+shop: trade
 ---

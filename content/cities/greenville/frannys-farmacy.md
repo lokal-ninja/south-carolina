@@ -1,5 +1,5 @@
 ---
 title: "Franny's Farmacy"
 url: /greenville/frannys-farmacy/
-shop: Kräuter
+shop: herbalist
 ---

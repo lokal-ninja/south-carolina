@@ -1,5 +1,5 @@
 ---
 title: "Five Below"
 url: /greenville/five-below-woodruff-road/
-shop: Kramladen
+shop: variety store
 ---

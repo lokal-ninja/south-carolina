@@ -1,5 +1,5 @@
 ---
 title: "Tractor Supply Company"
 url: /lexington/tractor-supply-company-south-lake-drive/
-shop: Dorfladen
+shop: general
 ---

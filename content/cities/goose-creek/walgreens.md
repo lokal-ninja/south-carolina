@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /goose-creek/walgreens/
-shop: Drogerie
+shop: chemist
 ---

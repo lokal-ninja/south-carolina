@@ -1,5 +1,5 @@
 ---
 title: "Sweet Repeatz"
 url: /honea-path/sweet-repeatz/
-shop: Kleidung
+shop: clothes
 ---

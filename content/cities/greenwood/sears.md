@@ -1,5 +1,5 @@
 ---
 title: "Sears"
 url: /greenwood/sears/
-shop: Warenhaus
+shop: department store
 ---

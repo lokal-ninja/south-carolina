@@ -1,5 +1,5 @@
 ---
 title: "Southern Tide"
 url: /greenville/southern-tide/
-shop: Kleidung
+shop: clothes
 ---

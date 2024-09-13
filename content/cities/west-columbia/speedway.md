@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /west-columbia/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

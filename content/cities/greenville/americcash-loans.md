@@ -1,5 +1,5 @@
 ---
 title: "AmericCash Loans"
 url: /greenville/americcash-loans/
-shop: Leiher
+shop: pawnbroker
 ---

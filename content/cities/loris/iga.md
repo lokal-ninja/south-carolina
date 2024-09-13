@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /loris/iga/
-shop: Supermarkt
+shop: supermarket
 ---

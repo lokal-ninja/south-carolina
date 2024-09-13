@@ -1,5 +1,5 @@
 ---
 title: "ArtUp Studios"
 url: /greenville/artup-studios/
-shop: Kunst
+shop: art
 ---

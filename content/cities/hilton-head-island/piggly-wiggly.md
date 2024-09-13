@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /hilton-head-island/piggly-wiggly/
-shop: Supermarkt
+shop: supermarket
 ---

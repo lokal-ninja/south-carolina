@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /colub/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

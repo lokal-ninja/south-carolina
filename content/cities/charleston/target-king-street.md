@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /charleston/target-king-street/
-shop: Warenhaus
+shop: department store
 ---

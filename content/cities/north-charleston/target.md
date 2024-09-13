@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /north-charleston/target/
-shop: Warenhaus
+shop: department store
 ---

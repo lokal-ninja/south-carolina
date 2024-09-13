@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
 url: /hemingway/food-lion/
-shop: Supermarkt
+shop: supermarket
 ---

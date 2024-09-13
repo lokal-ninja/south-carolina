@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /pelzer/dollar-general-augusta-road-2/
-shop: Kramladen
+shop: variety store
 ---

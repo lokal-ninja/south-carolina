@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /simpsonville/dollar-general-silver-grove-road/
-shop: Kramladen
+shop: variety store
 ---

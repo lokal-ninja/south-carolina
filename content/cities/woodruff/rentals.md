@@ -1,5 +1,5 @@
 ---
 title: "Rentals"
 url: /woodruff/rentals/
-shop: Mieten
+shop: storage rental
 ---

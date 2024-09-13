@@ -1,5 +1,5 @@
 ---
 title: "Vann and Liv"
 url: /greenville/vann-and-liv/
-shop: Kleidung
+shop: clothes
 ---

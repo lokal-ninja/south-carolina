@@ -1,5 +1,5 @@
 ---
 title: "Spa Renew"
 url: /easley/spa-renew/
-shop: Kosmetik
+shop: beauty
 ---

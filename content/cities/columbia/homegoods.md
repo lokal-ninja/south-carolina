@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /columbia/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

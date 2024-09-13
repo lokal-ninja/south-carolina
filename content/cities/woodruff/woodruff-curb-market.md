@@ -1,5 +1,5 @@
 ---
 title: "Woodruff Curb Market"
 url: /woodruff/woodruff-curb-market/
-shop: Kramladen
+shop: variety store
 ---

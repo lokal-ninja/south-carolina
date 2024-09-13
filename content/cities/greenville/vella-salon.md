@@ -1,5 +1,5 @@
 ---
 title: "Vella Salon"
 url: /greenville/vella-salon/
-shop: Friseur
+shop: hairdresser
 ---

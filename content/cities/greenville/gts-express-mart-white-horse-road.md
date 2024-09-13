@@ -1,5 +1,5 @@
 ---
 title: "GTs Express Mart"
 url: /greenville/gts-express-mart-white-horse-road/
-shop: Lebensmittel
+shop: convenience
 ---

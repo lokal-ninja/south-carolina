@@ -1,5 +1,5 @@
 ---
 title: "The Bake Room"
 url: /greenville/the-bake-room/
-shop: Bäckerei
+shop: bakery
 ---

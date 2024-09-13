@@ -1,5 +1,5 @@
 ---
 title: "Event Rentals"
 url: /spartanburg/event-rentals/
-shop: Mieten
+shop: storage rental
 ---

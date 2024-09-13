@@ -1,5 +1,5 @@
 ---
 title: "Tri-City Auto Parts"
 url: /pelzer/tri-city-auto-parts/
-shop: Autoteile
+shop: car parts
 ---
