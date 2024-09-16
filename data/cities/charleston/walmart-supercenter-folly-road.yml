@@ -1,11 +1,11 @@
 id: 1041192760
-type: way
+type: node
 latitude: 32.72035
 longitude: -79.96689
 postcode: "29412"
 city: Charleston
-street: "Folly Road"
-housenumber: 1231
-phone: "+1 843-762-9034"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2348/charleston-sc/whats-new"
+street: Folly Road
+housenumber: "1231"
+phone: +1 843-762-9034
+opening_hours: 24/7
+website: https://www.walmart.com/store/2348/charleston-sc/whats-new

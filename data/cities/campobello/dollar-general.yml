@@ -1,11 +1,11 @@
 id: 498985983
-type: way
+type: node
 latitude: 35.11794
 longitude: -82.1569
 postcode: "29322"
 city: Campobello
-street: "Pine Street"
-housenumber: 55
+street: Pine Street
+housenumber: "55"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/sc/campobello/6596"
+website: https://www.dollargeneral.com/store-directory/sc/campobello/6596

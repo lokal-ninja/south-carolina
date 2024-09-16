@@ -1,11 +1,11 @@
 id: 253357528
-type: way
+type: node
 latitude: 35.01157
 longitude: -80.84898
 postcode: "29707"
 city: Indian Land
-street: "Charlotte Highway"
-housenumber: 10048
-phone: "+1-803-802-6666"
-opening_hours: "Mo-Su 06:00-21:00"
-website: "https://www.walmart.com/store/4237/indian-land-sc/whats-new"
+street: Charlotte Highway
+housenumber: "10048"
+phone: +1-803-802-6666
+opening_hours: Mo-Su 06:00-21:00
+website: https://www.walmart.com/store/4237/indian-land-sc/whats-new

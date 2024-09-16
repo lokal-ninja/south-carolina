@@ -1,11 +1,11 @@
 id: 1005858634
-type: way
+type: node
 latitude: 34.95388
 longitude: -82.22753
 postcode: "29651"
 city: Greer
-street: "North Main Street"
-housenumber: 910
+street: North Main Street
+housenumber: "910"
 phone: ""
 opening_hours: ""
 website: ""

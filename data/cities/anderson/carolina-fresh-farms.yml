@@ -1,11 +1,11 @@
 id: 328310815
-type: way
+type: node
 latitude: 34.59522
 longitude: -82.61688
 postcode: "29621"
 city: Anderson
-street: "North Highway 81"
-housenumber: 3620
-phone: "864-224-4500"
+street: North Highway 81
+housenumber: "3620"
+phone: 864-224-4500
 opening_hours: ""
-website: "http://www.cffanderson.com/"
+website: http://www.cffanderson.com/

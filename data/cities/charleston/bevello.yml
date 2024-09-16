@@ -1,11 +1,11 @@
 id: 346010306
-type: way
+type: node
 latitude: 32.78276
 longitude: -79.93461
 postcode: ""
 city: Charleston
-street: "King Street"
-housenumber: 285
+street: King Street
+housenumber: "285"
 phone: ""
 opening_hours: ""
 website: ""

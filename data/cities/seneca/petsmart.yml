@@ -1,11 +1,11 @@
 id: 962383762
-type: way
+type: node
 latitude: 34.69004
 longitude: -82.99042
 postcode: "29678"
 city: Seneca
-street: "Applewood Center Place"
-housenumber: 253
-phone: "+1 864-324-5043"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/sc/seneca-store2276.html"
+street: Applewood Center Place
+housenumber: "253"
+phone: +1 864-324-5043
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/sc/seneca-store2276.html

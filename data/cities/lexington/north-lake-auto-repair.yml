@@ -4,8 +4,8 @@ latitude: 33.98841
 longitude: -81.23456
 postcode: "29072"
 city: Lexington
-street: "North Lake Drive"
-housenumber: 511
-phone: "+1-803-957-2345"
+street: North Lake Drive
+housenumber: "511"
+phone: +1-803-957-2345
 opening_hours: ""
-website: "https://northlakeautorepair.net/"
+website: https://northlakeautorepair.net/

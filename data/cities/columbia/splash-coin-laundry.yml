@@ -1,11 +1,11 @@
 id: 260191496
-type: way
+type: node
 latitude: 33.9843
 longitude: -81.01416
 postcode: "29205"
 city: Columbia
-street: "Rosewood Drive"
-housenumber: 1830
+street: Rosewood Drive
+housenumber: "1830"
 phone: ""
 opening_hours: ""
 website: ""

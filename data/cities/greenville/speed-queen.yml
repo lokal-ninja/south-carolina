@@ -1,11 +1,11 @@
 id: 669570621
-type: way
+type: node
 latitude: 34.8512
 longitude: -82.45278
 postcode: "29611"
 city: Greenville
-street: "West Blue Ridge Drive"
-housenumber: 3505
+street: West Blue Ridge Drive
+housenumber: "3505"
 phone: ""
 opening_hours: ""
 website: ""

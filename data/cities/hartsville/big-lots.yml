@@ -1,11 +1,11 @@
 id: 1026729873
-type: way
+type: node
 latitude: 34.36039
 longitude: -80.06322
 postcode: "29550"
 city: Hartsville
-street: "Westfields Street"
-housenumber: 139
-phone: "+1 843-332-5424"
-opening_hours: "Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/sc/hartsville/139-westfields-street"
+street: Westfields Street
+housenumber: "139"
+phone: +1 843-332-5424
+opening_hours: Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/sc/hartsville/139-westfields-street

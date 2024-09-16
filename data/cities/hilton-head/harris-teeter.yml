@@ -1,11 +1,11 @@
 id: 730277561
-type: way
+type: node
 latitude: 32.21565
 longitude: -80.72248
 postcode: "29926"
 city: Hilton Head
-street: "Main Street"
-housenumber: 301
-phone: "+1 843-689-1333"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.harristeeter.com/stores/grocery/sc/hilton-head/main-street-village/097/00152"
+street: Main Street
+housenumber: "301"
+phone: +1 843-689-1333
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.harristeeter.com/stores/grocery/sc/hilton-head/main-street-village/097/00152

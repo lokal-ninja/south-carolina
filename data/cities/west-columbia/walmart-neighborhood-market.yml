@@ -1,11 +1,11 @@
 id: 543366068
-type: way
+type: node
 latitude: 33.94429
 longitude: -81.1691
 postcode: "29170"
 city: West Columbia
-street: "Old Barnwell Road"
-housenumber: 1019
-phone: "+1 803-821-7049"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/5291/columbia-sc/whats-new"
+street: Old Barnwell Road
+housenumber: "1019"
+phone: +1 803-821-7049
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/5291/columbia-sc/whats-new

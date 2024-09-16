@@ -1,11 +1,11 @@
 id: 357532291
-type: way
+type: node
 latitude: 34.88372
 longitude: -82.70248
 postcode: "29641"
 city: Pickens
-street: "Railroad Street"
-housenumber: 111
+street: Railroad Street
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

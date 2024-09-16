@@ -1,11 +1,11 @@
 id: 674440221
-type: way
+type: node
 latitude: 34.92136
 longitude: -81.88935
 postcode: "29302"
 city: Spartanburg
-street: "Southport Road"
-housenumber: 2189
+street: Southport Road
+housenumber: "2189"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/sc/spartanburg/2189-southport-rd"
+website: https://stores.advanceautoparts.com/sc/spartanburg/2189-southport-rd

@@ -1,11 +1,11 @@
 id: 78077877
-type: way
+type: node
 latitude: 34.82691
 longitude: -82.3988
 postcode: "29605"
 city: Greenville
-street: "Augusta Street"
-housenumber: 1720
-phone: "+1 864-977-8045"
-opening_hours: "Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 11:00-18:00"
-website: "https://www.harristeeter.com/stores/grocery/sc/greenville/lewis-plaza/097/00420"
+street: Augusta Street
+housenumber: "1720"
+phone: +1 864-977-8045
+opening_hours: Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 11:00-18:00
+website: https://www.harristeeter.com/stores/grocery/sc/greenville/lewis-plaza/097/00420

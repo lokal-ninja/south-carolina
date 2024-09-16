@@ -1,11 +1,11 @@
 id: 545333894
-type: way
+type: node
 latitude: 34.00121
 longitude: -81.21622
 postcode: "29072"
 city: Lexington
-street: "Sunset Boulevard"
-housenumber: 5438
-phone: "+1 803-821-7006"
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-19:00"
-website: "https://stores.petco.com/sc/lexington/pet-supplies-lexington-sc-2529.html"
+street: Sunset Boulevard
+housenumber: "5438"
+phone: +1 803-821-7006
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-19:00
+website: https://stores.petco.com/sc/lexington/pet-supplies-lexington-sc-2529.html

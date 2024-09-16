@@ -1,11 +1,11 @@
 id: 41937666
-type: way
+type: node
 latitude: 34.85846
 longitude: -82.38468
 postcode: "29601"
 city: Greenville
-street: "East Stone Avenue"
-housenumber: 603
+street: East Stone Avenue
+housenumber: "603"
 phone: ""
 opening_hours: ""
-website: "https://www.halfmoonoutfitters.com/"
+website: https://www.halfmoonoutfitters.com/

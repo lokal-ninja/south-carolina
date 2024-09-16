@@ -1,11 +1,11 @@
 id: 605704129
-type: way
+type: node
 latitude: 34.88531
 longitude: -82.06638
 postcode: "29369"
 city: Moore
-street: "Moore Duncan Highway"
-housenumber: 4061
-phone: "864-249-5242"
+street: Moore Duncan Highway
+housenumber: "4061"
+phone: 864-249-5242
 opening_hours: ""
-website: "https://www.meineke.com/"
+website: https://www.meineke.com/

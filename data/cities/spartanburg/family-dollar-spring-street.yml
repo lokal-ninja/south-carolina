@@ -1,11 +1,11 @@
 id: 682154216
-type: way
+type: node
 latitude: 34.96487
 longitude: -81.98847
 postcode: "29301"
 city: Spartanburg
-street: "Spring Street"
-housenumber: 440
+street: Spring Street
+housenumber: "440"
 phone: ""
 opening_hours: ""
 website: ""

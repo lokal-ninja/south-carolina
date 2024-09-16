@@ -1,11 +1,11 @@
 id: 306188100
-type: way
+type: node
 latitude: 34.84022
 longitude: -82.39653
 postcode: "29601"
 city: Greenville
-street: "Cleveland Street"
-housenumber: 93
+street: Cleveland Street
+housenumber: "93"
 phone: ""
 opening_hours: ""
-website: "https://www.maymebakerstudio.com/"
+website: https://www.maymebakerstudio.com/

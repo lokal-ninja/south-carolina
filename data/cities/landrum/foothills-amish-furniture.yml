@@ -1,11 +1,11 @@
 id: 241508058
-type: way
+type: node
 latitude: 35.17492
 longitude: -82.18871
 postcode: "29356"
 city: Landrum
-street: "East Rutherford Street"
-housenumber: 106
-phone: "+1 864-457-2400"
-opening_hours: "Mo-Sa 10:00-17:00"
-website: "https://foothillsamishfurniture.com/"
+street: East Rutherford Street
+housenumber: "106"
+phone: +1 864-457-2400
+opening_hours: Mo-Sa 10:00-17:00
+website: https://foothillsamishfurniture.com/

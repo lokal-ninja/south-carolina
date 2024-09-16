@@ -1,11 +1,11 @@
 id: 1028842278
-type: way
+type: node
 latitude: 32.37362
 longitude: -80.69252
 postcode: "29935"
 city: Port Royal
-street: "Paris Avenue"
-housenumber: 610
+street: Paris Avenue
+housenumber: "610"
 phone: ""
 opening_hours: ""
-website: "https://www.effervescenceyogaspasc.com/"
+website: https://www.effervescenceyogaspasc.com/

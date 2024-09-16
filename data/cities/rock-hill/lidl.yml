@@ -1,11 +1,11 @@
 id: 612815252
-type: way
+type: node
 latitude: 34.97857
 longitude: -80.98059
 postcode: "29730"
 city: Rock Hill
-street: "Harpers Ferry Road"
-housenumber: 1620
-phone: "+1 844-747-5435"
-opening_hours: "08:00-21:00"
+street: Harpers Ferry Road
+housenumber: "1620"
+phone: +1 844-747-5435
+opening_hours: 08:00-21:00
 website: ""

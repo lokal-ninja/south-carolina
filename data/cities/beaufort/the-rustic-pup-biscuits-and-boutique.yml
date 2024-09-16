@@ -1,11 +1,11 @@
 id: 731145114
-type: way
+type: node
 latitude: 32.43104
 longitude: -80.67225
 postcode: "29902"
 city: Beaufort
-street: "Bay Street"
-housenumber: 915
+street: Bay Street
+housenumber: "915"
 phone: ""
 opening_hours: ""
 website: ""

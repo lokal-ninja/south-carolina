@@ -1,11 +1,11 @@
 id: 674440442
-type: way
+type: node
 latitude: 34.9205
 longitude: -81.88846
 postcode: "29302"
 city: Spartanburg
-street: "Southport Road"
-housenumber: 2190
+street: Southport Road
+housenumber: "2190"
 phone: ""
 opening_hours: ""
-website: "https://locations.tccrocks.com/sc/spartanburg/2190-southport-road.html"
+website: https://locations.tccrocks.com/sc/spartanburg/2190-southport-road.html

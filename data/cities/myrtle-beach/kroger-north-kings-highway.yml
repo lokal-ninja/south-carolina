@@ -1,11 +1,11 @@
 id: 331114869
-type: way
+type: node
 latitude: 33.77741
 longitude: -78.79299
 postcode: "29572"
 city: Myrtle Beach
-street: "North Kings Highway"
-housenumber: 1
-phone: "+1 843-449-2158"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/sc/myrtle-beach/galleria-shopping-center/011/00016"
+street: North Kings Highway
+housenumber: "1"
+phone: +1 843-449-2158
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/sc/myrtle-beach/galleria-shopping-center/011/00016

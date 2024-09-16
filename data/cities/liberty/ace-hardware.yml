@@ -1,11 +1,11 @@
 id: 1137968790
-type: way
+type: node
 latitude: 34.78703
 longitude: -82.69698
-postcode: "29657-1021"
+postcode: 29657-1021
 city: Liberty
-street: "West Main Street"
-housenumber: 305
-phone: "+1 864-843-4929"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
+street: West Main Street
+housenumber: "305"
+phone: +1 864-843-4929
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
 website: ""

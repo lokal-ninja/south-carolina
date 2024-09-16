@@ -1,11 +1,11 @@
 id: 1112300961
-type: way
+type: node
 latitude: 32.87044
 longitude: -81.11467
 postcode: "29924"
 city: Hampton
-street: "Elm Street West"
-housenumber: 607
-phone: "+1-803-943-3003"
+street: Elm Street West
+housenumber: "607"
+phone: +1-803-943-3003
 opening_hours: ""
-website: "https://locations.oreillyauto.com/sc/hampton/autoparts-4715.html"
+website: https://locations.oreillyauto.com/sc/hampton/autoparts-4715.html

@@ -1,11 +1,11 @@
 id: 340138895
-type: way
+type: node
 latitude: 33.79822
 longitude: -78.7434
 postcode: "29582"
 city: North Myrtle Beach
-street: "Highway 17 South"
-housenumber: 4810
+street: Highway 17 South
+housenumber: "4810"
 phone: ""
 opening_hours: ""
-website: "https://www.ronjonsurfshop.com/"
+website: https://www.ronjonsurfshop.com/

@@ -1,11 +1,11 @@
 id: 544224892
-type: way
+type: node
 latitude: 33.97957
 longitude: -81.1009
 postcode: "29169"
 city: West Columbia
-street: "Augusta Road"
-housenumber: 2401
-phone: "+1 803-796-9144"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1183/west-columbia-sc/whats-new"
+street: Augusta Road
+housenumber: "2401"
+phone: +1 803-796-9144
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1183/west-columbia-sc/whats-new

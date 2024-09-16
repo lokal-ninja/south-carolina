@@ -1,11 +1,11 @@
 id: 991562129
-type: way
+type: node
 latitude: 34.88338
 longitude: -82.45544
 postcode: "29617"
 city: Greenville
-street: "Farrs Bridge Road"
-housenumber: 2
+street: Farrs Bridge Road
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

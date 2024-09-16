@@ -1,11 +1,11 @@
 id: 75116749
-type: way
+type: node
 latitude: 34.78171
 longitude: -82.30112
 postcode: "29662"
 city: Mauldin
-street: "East Butler Road"
-housenumber: 205
+street: East Butler Road
+housenumber: "205"
 phone: ""
 opening_hours: ""
 website: ""

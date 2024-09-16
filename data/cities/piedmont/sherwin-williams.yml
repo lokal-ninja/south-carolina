@@ -1,11 +1,11 @@
 id: 1276073288
-type: way
+type: node
 latitude: 34.78469
 longitude: -82.48383
 postcode: "29673"
 city: Piedmont
-street: "Anderson Road"
-housenumber: 11010
+street: Anderson Road
+housenumber: "11010"
 phone: ""
 opening_hours: ""
 website: ""

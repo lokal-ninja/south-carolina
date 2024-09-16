@@ -4,8 +4,8 @@ latitude: 32.78852
 longitude: -80.01584
 postcode: "29407"
 city: Charleston
-street: "Savannah Highway"
-housenumber: 1662
-phone: "+1.843.763.4125"
-opening_hours: "Mo 09:30-15:00, Tu-Fr 9:30-16:30, Sa on appointment"
-website: "https://www.ashleybakery.com/"
+street: Savannah Highway
+housenumber: "1662"
+phone: +1.843.763.4125
+opening_hours: Mo 09:30-15:00, Tu-Fr 9:30-16:30, Sa "on appointment"
+website: https://www.ashleybakery.com/

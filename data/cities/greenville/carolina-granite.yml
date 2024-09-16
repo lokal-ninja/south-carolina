@@ -1,11 +1,11 @@
 id: 265429429
-type: way
+type: node
 latitude: 34.77838
 longitude: -82.3889
 postcode: "29605"
 city: Greenville
-street: "East Fairfield Road"
-housenumber: 716
+street: East Fairfield Road
+housenumber: "716"
 phone: ""
 opening_hours: ""
-website: "https://www.carolinagranite.net/"
+website: https://www.carolinagranite.net/

@@ -1,11 +1,11 @@
 id: 848679912
-type: way
+type: node
 latitude: 34.33304
 longitude: -82.39003
 postcode: "29639"
 city: Due West
-street: "North Main Street"
-housenumber: 102
+street: North Main Street
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

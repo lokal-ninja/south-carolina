@@ -4,8 +4,8 @@ latitude: 34.85253
 longitude: -82.3979
 postcode: "29601"
 city: Greenville
-street: "North Main Street"
-housenumber: 200
+street: North Main Street
+housenumber: "200"
 phone: ""
 opening_hours: ""
-website: "https://dapperdog.com/"
+website: https://dapperdog.com/

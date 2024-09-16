@@ -1,11 +1,11 @@
 id: 697404852
-type: way
+type: node
 latitude: 35.08678
 longitude: -82.03232
 postcode: "29349"
 city: Inman
-street: "Highway 9"
-housenumber: 6700
-phone: "864-592-1580"
+street: Highway 9
+housenumber: "6700"
+phone: 864-592-1580
 opening_hours: ""
-website: "https://www.palmettostylesalon.com/"
+website: https://www.palmettostylesalon.com/

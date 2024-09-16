@@ -1,11 +1,11 @@
 id: 385065613
-type: way
+type: node
 latitude: 35.05206
 longitude: -81.98536
 postcode: "29316"
 city: Boiling Springs
-street: "Highway 9"
-housenumber: 4000
-phone: "+1 864-814-2889"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2806/boiling-springs-sc/whats-new"
+street: Highway 9
+housenumber: "4000"
+phone: +1 864-814-2889
+opening_hours: 24/7
+website: https://www.walmart.com/store/2806/boiling-springs-sc/whats-new

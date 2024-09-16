@@ -1,11 +1,11 @@
 id: 674647073
-type: way
+type: node
 latitude: 34.92725
 longitude: -81.98701
 postcode: "29301"
 city: Spartanburg
-street: "East Blackstock Road"
-housenumber: 219
+street: East Blackstock Road
+housenumber: "219"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
 website: ""

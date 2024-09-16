@@ -1,11 +1,11 @@
 id: 330981471
-type: way
+type: node
 latitude: 34.86376
 longitude: -82.4259
 postcode: "29611"
 city: Greenville
-street: "East Parker Road"
-housenumber: 224
+street: East Parker Road
+housenumber: "224"
 phone: ""
 opening_hours: ""
 website: ""

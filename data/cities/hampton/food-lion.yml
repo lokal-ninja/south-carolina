@@ -1,11 +1,11 @@
 id: 1156699205
-type: way
+type: node
 latitude: 32.88282
 longitude: -81.12912
 postcode: "29924"
 city: Hampton
-street: "Elm Street West"
-housenumber: 1373
-phone: "+1-803-943-2538"
+street: Elm Street West
+housenumber: "1373"
+phone: +1-803-943-2538
 opening_hours: ""
-website: "https://stores.foodlion.com/sc/hampton/1373-elm-street-w"
+website: https://stores.foodlion.com/sc/hampton/1373-elm-street-w

@@ -1,11 +1,11 @@
 id: 30085074
-type: way
+type: node
 latitude: 33.03319
 longitude: -80.05751
 postcode: "29445"
 city: Goose Creek
-street: "Saint James Avenue"
-housenumber: 520
-phone: "+1 843-820-1070"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "http://stores.lowes.com/lowes/cgi/site?site=2464"
+street: Saint James Avenue
+housenumber: "520"
+phone: +1 843-820-1070
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: http://stores.lowes.com/lowes/cgi/site?site=2464

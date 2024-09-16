@@ -1,11 +1,11 @@
 id: 48158282
-type: way
+type: node
 latitude: 34.84456
 longitude: -82.40289
 postcode: "29601"
 city: Greenville
-street: "South Main Street"
-housenumber: 633
+street: South Main Street
+housenumber: "633"
 phone: ""
 opening_hours: ""
-website: "https://vintagenowmodern.com/"
+website: https://vintagenowmodern.com/

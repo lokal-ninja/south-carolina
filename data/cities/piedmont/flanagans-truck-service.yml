@@ -1,11 +1,11 @@
 id: 991927528
-type: way
+type: node
 latitude: 34.70709
 longitude: -82.4485
 postcode: "29673"
 city: Piedmont
-street: "Bessie Road"
-housenumber: 254
+street: Bessie Road
+housenumber: "254"
 phone: ""
 opening_hours: ""
 website: ""

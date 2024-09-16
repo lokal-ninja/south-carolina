@@ -1,11 +1,11 @@
 id: 38457653
-type: way
+type: node
 latitude: 34.83502
 longitude: -82.29265
 postcode: "29615"
 city: Greenville
-street: "Chrome Drive"
-housenumber: 30
+street: Chrome Drive
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "https://www.h-dog.com/"
+website: https://www.h-dog.com/

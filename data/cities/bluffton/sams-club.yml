@@ -1,11 +1,11 @@
 id: 703985924
-type: way
+type: node
 latitude: 32.2588
 longitude: -80.85652
 postcode: "29910"
 city: Bluffton
-street: "Bluffton Road"
-housenumber: 14
-phone: "+1 843-837-1993"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:00-20:30; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/bluffton-sc-sams-club/6582"
+street: Bluffton Road
+housenumber: "14"
+phone: +1 843-837-1993
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:00-20:30; Su 10:00-18:00
+website: https://www.samsclub.com/club/bluffton-sc-sams-club/6582

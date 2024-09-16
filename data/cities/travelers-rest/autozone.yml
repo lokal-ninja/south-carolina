@@ -1,11 +1,11 @@
 id: 486802497
-type: way
+type: node
 latitude: 34.95912
 longitude: -82.43527
 postcode: "29690"
 city: Travelers Rest
-street: "Krieger Drive"
-housenumber: 10
+street: Krieger Drive
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/sc/travelers-rest/10-krieger-dr.html"
+website: https://www.autozone.com/locations/sc/travelers-rest/10-krieger-dr.html

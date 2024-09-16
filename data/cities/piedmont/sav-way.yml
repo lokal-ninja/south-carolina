@@ -1,11 +1,11 @@
 id: 704357004
-type: way
+type: node
 latitude: 34.70185
 longitude: -82.47756
 postcode: "29673"
 city: Piedmont
-street: "Highway 86"
-housenumber: 1004
+street: Highway 86
+housenumber: "1004"
 phone: ""
 opening_hours: ""
 website: ""

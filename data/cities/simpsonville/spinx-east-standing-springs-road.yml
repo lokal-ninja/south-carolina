@@ -1,11 +1,11 @@
 id: 740540521
-type: way
+type: node
 latitude: 34.75082
 longitude: -82.29028
 postcode: "29680"
 city: Simpsonville
-street: "East Standing Springs Road"
-housenumber: 549
+street: East Standing Springs Road
+housenumber: "549"
 phone: ""
 opening_hours: ""
 website: ""

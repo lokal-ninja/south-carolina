@@ -1,11 +1,11 @@
 id: 510027252
-type: way
+type: node
 latitude: 34.89437
 longitude: -82.43145
 postcode: "29617"
 city: Greenville
-street: "Old Buncombe Road"
-housenumber: 4102
+street: Old Buncombe Road
+housenumber: "4102"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/greenville-sc-pharmacies/4102-old-buncombe-road-greenville-sc-29617/storeid=2191"
+website: https://www.cvs.com/store-locator/greenville-sc-pharmacies/4102-old-buncombe-road-greenville-sc-29617/storeid=2191

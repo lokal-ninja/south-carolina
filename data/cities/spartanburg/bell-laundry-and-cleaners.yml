@@ -1,11 +1,11 @@
 id: 673968743
-type: way
+type: node
 latitude: 34.94485
 longitude: -81.91566
 postcode: "29302"
 city: Spartanburg
-street: "Marion Avenue"
-housenumber: 448
+street: Marion Avenue
+housenumber: "448"
 phone: "+18645838668"
 opening_hours: ""
-website: "https://bellcleaners.com/"
+website: https://bellcleaners.com/

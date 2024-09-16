@@ -1,11 +1,11 @@
 id: 386113853
-type: way
+type: node
 latitude: 34.84959
 longitude: -82.3284
 postcode: "29607"
 city: Greenville
-street: "Congaree Road"
-housenumber: 469
+street: Congaree Road
+housenumber: "469"
 phone: ""
 opening_hours: ""
 website: ""

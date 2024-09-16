@@ -1,11 +1,11 @@
 id: 1063736106
-type: way
+type: node
 latitude: 32.86703
 longitude: -81.10999
 postcode: "29924"
 city: Hampton
-street: "Elm Street West"
-housenumber: 101
-phone: "+1-803-943-2181"
+street: Elm Street West
+housenumber: "101"
+phone: +1-803-943-2181
 opening_hours: ""
 website: ""

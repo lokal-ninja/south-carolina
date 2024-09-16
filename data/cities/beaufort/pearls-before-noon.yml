@@ -1,11 +1,11 @@
 id: 1028877609
-type: way
+type: node
 latitude: 32.42866
 longitude: -80.77545
 postcode: "29906"
 city: Beaufort
-street: "Market"
-housenumber: 18
+street: Market
+housenumber: "18"
 phone: ""
 opening_hours: ""
-website: "https://www.pearlsbeforenoon.com/"
+website: https://www.pearlsbeforenoon.com/

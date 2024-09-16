@@ -1,11 +1,11 @@
 id: 646991613
-type: way
+type: node
 latitude: 34.25184
 longitude: -80.64869
 postcode: "29020"
 city: Camden
-street: "East Springdale Driv"
-housenumber: 1635
-phone: "+1 803-424-1901"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: East Springdale Driv
+housenumber: "1635"
+phone: +1 803-424-1901
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

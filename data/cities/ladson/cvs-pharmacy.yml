@@ -1,11 +1,11 @@
 id: 407820344
-type: way
+type: node
 latitude: 32.98828
 longitude: -80.10041
 postcode: "29456"
 city: Ladson
-street: "Highway 78"
-housenumber: 9625
+street: Highway 78
+housenumber: "9625"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/ladson-sc-pharmacies/9625-hwy-78-ladson-sc-29456/storeid=6958"
+website: https://www.cvs.com/store-locator/ladson-sc-pharmacies/9625-hwy-78-ladson-sc-29456/storeid=6958

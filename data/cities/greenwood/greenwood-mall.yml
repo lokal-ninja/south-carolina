@@ -1,11 +1,11 @@
 id: 760099097
-type: way
+type: node
 latitude: 34.21197
 longitude: -82.17976
 postcode: "29649"
 city: Greenwood
-street: "Bypass 72 Northwest"
-housenumber: 420
+street: Bypass 72 Northwest
+housenumber: "420"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 994104070
-type: way
+type: node
 latitude: 34.49995
 longitude: -82.01249
 postcode: "29360"
 city: Laurens
-street: "North Harper Street"
-housenumber: 200
+street: North Harper Street
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

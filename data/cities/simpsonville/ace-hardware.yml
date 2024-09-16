@@ -1,11 +1,11 @@
 id: 334446607
-type: way
+type: node
 latitude: 34.71305
 longitude: -82.25483
 postcode: "29680"
 city: Simpsonville
-street: "Ray E Talley Court"
-housenumber: 30
-phone: "+1 864-757-8312"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-17:00"
+street: Ray E Talley Court
+housenumber: "30"
+phone: +1 864-757-8312
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-17:00
 website: ""

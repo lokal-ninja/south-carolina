@@ -4,8 +4,8 @@ latitude: 33.98129
 longitude: -81.30636
 postcode: "29072"
 city: Lexington
-street: "Augusta Highway"
-housenumber: 2440
-phone: "+1 803 785 6510"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.lowesfoods.com/Store-Locator/Store-268"
+street: Augusta Highway
+housenumber: "2440"
+phone: +1 803 785 6510
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.lowesfoods.com/Store-Locator/Store-268

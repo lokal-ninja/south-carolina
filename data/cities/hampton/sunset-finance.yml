@@ -1,11 +1,11 @@
 id: 927157330
-type: way
+type: node
 latitude: 32.87794
 longitude: -81.12151
 postcode: "29924"
 city: Hampton
-street: "Elm Street West"
-housenumber: 1113
-phone: "+1-803-914-0511"
+street: Elm Street West
+housenumber: "1113"
+phone: +1-803-914-0511
 opening_hours: ""
-website: "https://sunsetfinance.net/"
+website: https://sunsetfinance.net/

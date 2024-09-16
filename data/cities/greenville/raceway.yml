@@ -1,11 +1,11 @@
 id: 250056427
-type: way
+type: node
 latitude: 34.83011
 longitude: -82.30564
 postcode: "29607"
 city: Greenville
-street: "Woodruff Road"
-housenumber: 1116
+street: Woodruff Road
+housenumber: "1116"
 phone: ""
 opening_hours: ""
 website: ""

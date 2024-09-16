@@ -1,11 +1,11 @@
 id: 1227631509
-type: way
+type: node
 latitude: 33.00845
 longitude: -80.04694
 postcode: "29445"
 city: Goose Creek
-street: "Saint James Avenue"
-housenumber: 215
-phone: "+1 843-714-6288"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/3899-goose-creek-sc"
+street: Saint James Avenue
+housenumber: "215"
+phone: +1 843-714-6288
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/3899-goose-creek-sc

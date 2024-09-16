@@ -1,11 +1,11 @@
 id: 45207661
-type: way
+type: node
 latitude: 34.84674
 longitude: -82.39864
 postcode: "29601"
 city: Greenville
-street: "East Broad Street"
-housenumber: 116
+street: East Broad Street
+housenumber: "116"
 phone: ""
 opening_hours: ""
-website: "https://www.sec4p.com/"
+website: https://www.sec4p.com/

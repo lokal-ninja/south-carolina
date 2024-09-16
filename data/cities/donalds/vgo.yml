@@ -1,11 +1,11 @@
 id: 846981998
-type: way
+type: node
 latitude: 34.37685
 longitude: -82.34672
 postcode: "29638"
 city: Donalds
-street: "South Main Street"
-housenumber: 121
+street: South Main Street
+housenumber: "121"
 phone: ""
 opening_hours: ""
 website: ""

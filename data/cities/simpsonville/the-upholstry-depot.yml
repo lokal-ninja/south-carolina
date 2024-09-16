@@ -1,11 +1,11 @@
 id: 764012179
-type: way
+type: node
 latitude: 34.74209
 longitude: -82.25736
 postcode: "29681"
 city: Simpsonville
-street: "Northeast Main Street"
-housenumber: 304
+street: Northeast Main Street
+housenumber: "304"
 phone: ""
 opening_hours: ""
-website: "http://theupholsterydepot.com/"
+website: http://theupholsterydepot.com/

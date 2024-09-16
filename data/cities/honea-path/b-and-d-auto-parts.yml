@@ -1,11 +1,11 @@
 id: 827987056
-type: way
+type: node
 latitude: 34.44688
 longitude: -82.39167
 postcode: "29654"
 city: Honea Path
-street: "N Shirley Ave"
-housenumber: 8
-phone: "+1-864-369-0591"
+street: N Shirley Ave
+housenumber: "8"
+phone: +1-864-369-0591
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 241556003
-type: way
+type: node
 latitude: 34.93756
 longitude: -82.22702
 postcode: "29651"
 city: Greer
-street: "Victoria Street"
-housenumber: 118
+street: Victoria Street
+housenumber: "118"
 phone: ""
 opening_hours: ""
 website: ""

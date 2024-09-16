@@ -1,11 +1,11 @@
 id: 1245411768
-type: way
+type: node
 latitude: 32.78695
 longitude: -79.8742
 postcode: "29464"
 city: Mount Pleasant
-street: "Royall Avenue"
-housenumber: 102
+street: Royall Avenue
+housenumber: "102"
 phone: "+18436971466"
-opening_hours: "Mo-Sa 10:00-18:30"
+opening_hours: Mo-Sa 10:00-18:30
 website: ""

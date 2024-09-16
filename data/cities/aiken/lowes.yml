@@ -1,11 +1,11 @@
 id: 541157863
-type: way
+type: node
 latitude: 33.50826
 longitude: -81.70953
 postcode: "29803"
 city: Aiken
-street: "Whiskey Road"
-housenumber: 2470
-phone: "+1 803-641-6565"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/sc-aiken/0639"
+street: Whiskey Road
+housenumber: "2470"
+phone: +1 803-641-6565
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/sc-aiken/0639

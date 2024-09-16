@@ -1,11 +1,11 @@
 id: 828258942
-type: way
+type: node
 latitude: 34.44364
 longitude: -82.39099
 postcode: "29654"
 city: Honea Path
-street: "Church Street"
-housenumber: 120
+street: Church Street
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

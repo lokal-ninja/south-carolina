@@ -1,11 +1,11 @@
 id: 223026561
-type: way
+type: node
 latitude: 34.54521
 longitude: -82.67571
 postcode: "29621"
 city: Anderson
-street: "Clemson Boulevard"
-housenumber: 3427
-phone: "+1 864-964-0820"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/anderson/sc/anderson/29621/1105"
+street: Clemson Boulevard
+housenumber: "3427"
+phone: +1 864-964-0820
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/anderson/sc/anderson/29621/1105

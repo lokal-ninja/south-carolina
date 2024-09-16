@@ -4,8 +4,8 @@ latitude: 33.03168
 longitude: -80.16311
 postcode: "29483"
 city: Summerville
-street: "North Main Street"
-housenumber: 1101
-phone: "+1 843-879-5136"
-opening_hours: "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/sc/summerville/pet-supplies-summerville-sc-1599.html"
+street: North Main Street
+housenumber: "1101"
+phone: +1 843-879-5136
+opening_hours: Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/sc/summerville/pet-supplies-summerville-sc-1599.html

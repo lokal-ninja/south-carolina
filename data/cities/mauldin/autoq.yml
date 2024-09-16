@@ -1,11 +1,11 @@
 id: 75101003
-type: way
+type: node
 latitude: 34.78322
 longitude: -82.31338
 postcode: "29662"
 city: Mauldin
-street: "Evening Way"
-housenumber: 107
+street: Evening Way
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

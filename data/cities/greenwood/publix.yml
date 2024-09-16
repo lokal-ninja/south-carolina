@@ -1,11 +1,11 @@
 id: 886820898
-type: way
+type: node
 latitude: 34.20583
 longitude: -82.18628
 postcode: "29649"
 city: Greenwood
-street: "Bypass 72 Northwest"
-housenumber: 479
-phone: "+1 864-223-8902"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1464-shops-at-publix-pavilion"
+street: Bypass 72 Northwest
+housenumber: "479"
+phone: +1 864-223-8902
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1464-shops-at-publix-pavilion

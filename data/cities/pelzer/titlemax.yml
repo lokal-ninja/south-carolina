@@ -1,11 +1,11 @@
 id: 679052970
-type: way
+type: node
 latitude: 34.64285
 longitude: -82.46592
 postcode: "29669"
 city: Pelzer
-street: "Highway 20 South"
-housenumber: 103
+street: Highway 20 South
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 562548639
-type: way
+type: node
 latitude: 34.80369
 longitude: -82.37611
 postcode: "29605"
 city: Greenville
-street: "South Pleasantburg Drive"
-housenumber: 1300
+street: South Pleasantburg Drive
+housenumber: "1300"
 phone: ""
 opening_hours: ""
 website: ""

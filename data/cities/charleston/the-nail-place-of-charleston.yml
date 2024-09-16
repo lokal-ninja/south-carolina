@@ -1,11 +1,11 @@
 id: 950293402
-type: way
+type: node
 latitude: 32.78371
 longitude: -79.94348
 postcode: "29401"
 city: Charleston
-street: "Calhoun Street"
-housenumber: 243
+street: Calhoun Street
+housenumber: "243"
 phone: ""
 opening_hours: ""
-website: "https://thenailplacechs.com/"
+website: https://thenailplacechs.com/

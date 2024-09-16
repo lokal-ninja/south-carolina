@@ -1,11 +1,11 @@
 id: 691291493
-type: way
+type: node
 latitude: 35.0009
 longitude: -81.81699
 postcode: "29330"
 city: Cowpens
-street: "South Main Street"
-housenumber: 4866
+street: South Main Street
+housenumber: "4866"
 phone: ""
 opening_hours: ""
-website: "https://candcthunder.com/"
+website: https://candcthunder.com/

@@ -4,8 +4,8 @@ latitude: 34.36627
 longitude: -80.064
 postcode: "29550"
 city: Hartsville
-street: "South 4th Street"
-housenumber: 819
-phone: "+1 843-339-2501"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "http://stores.lowes.com/lowes/cgi/site?site=2803"
+street: South 4th Street
+housenumber: "819"
+phone: +1 843-339-2501
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: http://stores.lowes.com/lowes/cgi/site?site=2803

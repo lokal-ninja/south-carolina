@@ -1,11 +1,11 @@
 id: 992320471
-type: way
+type: node
 latitude: 34.98422
 longitude: -81.21452
 postcode: "29745"
 city: York
-street: "East Liberty Street"
-housenumber: 964
+street: East Liberty Street
+housenumber: "964"
 phone: ""
 opening_hours: ""
-website: "https://stores.catofashions.com/sc/york/964-east-liberty-street"
+website: https://stores.catofashions.com/sc/york/964-east-liberty-street

@@ -1,11 +1,11 @@
 id: 677524987
-type: way
+type: node
 latitude: 32.91814
 longitude: -80.67468
 postcode: "29488"
 city: Walterboro
-street: "Bells Highway"
-housenumber: 580
-phone: "+1-843-549-7280"
+street: Bells Highway
+housenumber: "580"
+phone: +1-843-549-7280
 opening_hours: ""
-website: "https://www.autozone.com/locations/sc/walterboro/580-bells-hwy.html"
+website: https://www.autozone.com/locations/sc/walterboro/580-bells-hwy.html

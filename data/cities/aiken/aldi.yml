@@ -1,11 +1,11 @@
 id: 541157864
-type: way
+type: node
 latitude: 33.50786
 longitude: -81.70988
 postcode: "29803"
 city: Aiken
-street: "Whiskey Road"
-housenumber: 2510
-phone: "+1 844-476-1044"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/sc/aiken/2510-whiskey-road"
+street: Whiskey Road
+housenumber: "2510"
+phone: +1 844-476-1044
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/sc/aiken/2510-whiskey-road

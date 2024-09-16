@@ -1,11 +1,11 @@
 id: 653262601
-type: way
+type: node
 latitude: 32.79505
 longitude: -80.02671
 postcode: "29407"
 city: Charleston
-street: "Sam Rittenberg Boulevard"
-housenumber: 1987
-phone: "+1 843-763-4338"
+street: Sam Rittenberg Boulevard
+housenumber: "1987"
+phone: +1 843-763-4338
 opening_hours: ""
-website: "https://stores.bestbuy.com/sc/charleston/1987-sam-rittenberg-blvd-1120.html"
+website: https://stores.bestbuy.com/sc/charleston/1987-sam-rittenberg-blvd-1120.html

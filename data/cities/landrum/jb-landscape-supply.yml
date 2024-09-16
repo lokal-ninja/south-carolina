@@ -1,11 +1,11 @@
 id: 849478897
-type: way
+type: node
 latitude: 35.11498
 longitude: -82.22617
 postcode: "29356"
 city: Landrum
-street: "Highway 11"
-housenumber: 106
+street: Highway 11
+housenumber: "106"
 phone: ""
 opening_hours: ""
 website: ""

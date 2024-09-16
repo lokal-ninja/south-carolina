@@ -1,11 +1,11 @@
 id: 1100701051
-type: way
+type: node
 latitude: 34.93725
 longitude: -82.22442
 postcode: ""
 city: Greer
-street: "East Poinsett Street"
-housenumber: 214
+street: East Poinsett Street
+housenumber: "214"
 phone: ""
 opening_hours: ""
 website: ""

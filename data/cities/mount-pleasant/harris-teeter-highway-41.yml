@@ -1,11 +1,11 @@
 id: 684886972
-type: way
+type: node
 latitude: 32.89797
 longitude: -79.8222
 postcode: "29466"
 city: Mount Pleasant
-street: "Highway 41"
-housenumber: 2035
-phone: "+1 843-867-3633"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.harristeeter.com/stores/grocery/sc/mt-pleasant/rivertowne-place/097/00131"
+street: Highway 41
+housenumber: "2035"
+phone: +1 843-867-3633
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.harristeeter.com/stores/grocery/sc/mt-pleasant/rivertowne-place/097/00131

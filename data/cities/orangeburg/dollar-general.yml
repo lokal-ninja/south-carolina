@@ -1,11 +1,11 @@
 id: 1234879594
-type: way
+type: node
 latitude: 33.54732
 longitude: -80.83075
 postcode: "29118"
 city: Orangeburg
-street: "St Matthews Road"
-housenumber: 3273
+street: St Matthews Road
+housenumber: "3273"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/sc/orangeburg/13572"
+website: https://www.dollargeneral.com/store-directory/sc/orangeburg/13572

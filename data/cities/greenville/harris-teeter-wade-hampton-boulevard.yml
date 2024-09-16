@@ -1,11 +1,11 @@
 id: 809831479
-type: way
+type: node
 latitude: 34.8606
 longitude: -82.38547
 postcode: "29601"
 city: Greenville
-street: "Wade Hampton Boulevard"
-housenumber: 100
-phone: "+1 864-900-6167"
-opening_hours: "Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 11:00-18:00"
-website: "https://www.harristeeter.com/stores/grocery/sc/greenville/northpointe/097/00357"
+street: Wade Hampton Boulevard
+housenumber: "100"
+phone: +1 864-900-6167
+opening_hours: Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 11:00-18:00
+website: https://www.harristeeter.com/stores/grocery/sc/greenville/northpointe/097/00357

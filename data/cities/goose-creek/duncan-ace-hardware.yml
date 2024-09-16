@@ -1,11 +1,11 @@
 id: 30702172
-type: way
+type: node
 latitude: 32.97366
 longitude: -80.02281
 postcode: "29445"
 city: Goose Creek
-street: "Red Bank Road"
-housenumber: 925
-phone: "+1 843-572-1975"
-opening_hours: "Mo-Fr 07:30-20:30"
+street: Red Bank Road
+housenumber: "925"
+phone: +1 843-572-1975
+opening_hours: Mo-Fr 07:30-20:30
 website: ""

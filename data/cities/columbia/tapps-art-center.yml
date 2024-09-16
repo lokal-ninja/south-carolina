@@ -1,11 +1,11 @@
 id: 330002629
-type: way
+type: node
 latitude: 34.00771
 longitude: -81.03623
 postcode: ""
 city: Columbia
-street: "Main Street"
-housenumber: 1644
-phone: "+1 803-988-0013"
-opening_hours: "Tu-Sa 10:00-18:00"
-website: "https://www.tappsartscenter.com/"
+street: Main Street
+housenumber: "1644"
+phone: +1 803-988-0013
+opening_hours: Tu-Sa 10:00-18:00
+website: https://www.tappsartscenter.com/

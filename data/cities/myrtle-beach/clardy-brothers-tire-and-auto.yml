@@ -1,11 +1,11 @@
 id: 331602943
-type: way
+type: node
 latitude: 33.69167
 longitude: -79.01092
 postcode: "29588"
 city: Myrtle Beach
-street: "Leisure Ln"
-housenumber: 162
-phone: "(843) 903-1730"
+street: Leisure Ln
+housenumber: "162"
+phone: (843) 903-1730
 opening_hours: ""
 website: ""

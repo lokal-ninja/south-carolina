@@ -1,11 +1,11 @@
 id: 847333341
-type: way
+type: node
 latitude: 33.90568
 longitude: -81.54687
 postcode: "29006"
 city: Batesburg-Leesville
-street: "North Pine Street"
-housenumber: 123
+street: North Pine Street
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

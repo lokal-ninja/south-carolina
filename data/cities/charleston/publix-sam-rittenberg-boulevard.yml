@@ -1,11 +1,11 @@
 id: 245740800
-type: way
+type: node
 latitude: 32.81498
 longitude: -79.99559
-postcode: "29407-5031"
+postcode: 29407-5031
 city: Charleston
-street: "Sam Rittenberg Boulevard"
-housenumber: 1401
-phone: "+1 843-852-3350"
-opening_hours: "07:00-22:00; Mar 31 off"
-website: "https://www.publix.com/locations/472"
+street: Sam Rittenberg Boulevard
+housenumber: "1401"
+phone: +1 843-852-3350
+opening_hours: 07:00-22:00; Mar 31 off
+website: https://www.publix.com/locations/472

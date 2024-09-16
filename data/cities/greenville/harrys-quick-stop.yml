@@ -1,11 +1,11 @@
 id: 1299383062
-type: way
+type: node
 latitude: 34.8853
 longitude: -82.45591
 postcode: "29617"
 city: Greenville
-street: "Hunts Bridge Road"
-housenumber: 24
+street: Hunts Bridge Road
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

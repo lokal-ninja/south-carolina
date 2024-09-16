@@ -1,11 +1,11 @@
 id: 543955991
-type: way
+type: node
 latitude: 35.06135
 longitude: -80.99421
 postcode: "29708"
 city: Fort Mill
-street: "Stockbridge Drive"
-housenumber: 867
-phone: "+1 803-548-6610"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.harristeeter.com/stores/grocery/sc/fort-mill/stockbridge-commons/097/00475"
+street: Stockbridge Drive
+housenumber: "867"
+phone: +1 803-548-6610
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.harristeeter.com/stores/grocery/sc/fort-mill/stockbridge-commons/097/00475

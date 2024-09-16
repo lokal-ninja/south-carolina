@@ -1,11 +1,11 @@
 id: 395162446
-type: way
+type: node
 latitude: 34.04647
 longitude: -81.12672
 postcode: "29210"
 city: Columbia
-street: "Saint Andrews Road"
-housenumber: 577
-phone: "+1 803-551-0082"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/577-saint-andrews-rd-columbia-29210?number=103"
+street: Saint Andrews Road
+housenumber: "577"
+phone: +1 803-551-0082
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/577-saint-andrews-rd-columbia-29210?number=103

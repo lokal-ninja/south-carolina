@@ -1,11 +1,11 @@
 id: 927690457
-type: way
+type: node
 latitude: 34.69329
 longitude: -82.84484
 postcode: "29631"
 city: Clemson
-street: "Tiger Boulevard"
-housenumber: 931
-phone: "+1 864 654 6706"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.clemsoneye.com"
+street: Tiger Boulevard
+housenumber: "931"
+phone: +1 864 654 6706
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.clemsoneye.com

@@ -1,11 +1,11 @@
 id: 596615134
-type: way
+type: node
 latitude: 34.88393
 longitude: -82.45384
 postcode: "29617"
 city: Greenville
-street: "Cedar Lane Road"
-housenumber: 1950
+street: Cedar Lane Road
+housenumber: "1950"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/sc/greenville/5683/"
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/sc/greenville/5683/

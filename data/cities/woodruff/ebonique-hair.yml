@@ -1,11 +1,11 @@
 id: 672718843
-type: way
+type: node
 latitude: 34.73964
 longitude: -82.03775
 postcode: "29388"
 city: Woodruff
-street: "West Georgia Street"
-housenumber: 114
+street: West Georgia Street
+housenumber: "114"
 phone: ""
 opening_hours: ""
 website: ""

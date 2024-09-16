@@ -1,11 +1,11 @@
 id: 683622731
-type: way
+type: node
 latitude: 34.8413
 longitude: -81.87709
 postcode: "29374"
 city: Pauline
-street: "Highway 56"
-housenumber: 2640
+street: Highway 56
+housenumber: "2640"
 phone: ""
 opening_hours: ""
-website: "https://www.carolinafarm.net/"
+website: https://www.carolinafarm.net/

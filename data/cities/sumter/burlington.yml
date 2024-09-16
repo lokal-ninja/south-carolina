@@ -1,11 +1,11 @@
 id: 1115261665
-type: way
+type: node
 latitude: 33.95628
 longitude: -80.37865
 postcode: "29150"
 city: Sumter
-street: "Broad Street"
-housenumber: 1143
-phone: "+1 839-333-8248"
-opening_hours: "Mo-Th 08:00-23:00; Fr-Sa 09:00-23:00; Su 09:00-22:00"
-website: "https://stores.burlington.com/sc/sumter/1274"
+street: Broad Street
+housenumber: "1143"
+phone: +1 839-333-8248
+opening_hours: Mo-Th 08:00-23:00; Fr-Sa 09:00-23:00; Su 09:00-22:00
+website: https://stores.burlington.com/sc/sumter/1274

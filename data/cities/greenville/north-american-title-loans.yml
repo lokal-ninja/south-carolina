@@ -1,11 +1,11 @@
 id: 669570594
-type: way
+type: node
 latitude: 34.85538
 longitude: -82.45816
 postcode: "29611"
 city: Greenville
-street: "White Horse Road"
-housenumber: 6201
+street: White Horse Road
+housenumber: "6201"
 phone: ""
 opening_hours: ""
 website: ""

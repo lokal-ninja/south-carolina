@@ -1,11 +1,11 @@
 id: 228763185
-type: way
+type: node
 latitude: 34.71487
 longitude: -82.2556
 postcode: "29681"
 city: Simpsonville
-street: "Fairview Road"
-housenumber: 621
-phone: "+1 864-228-2179"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/sc/simpsonville-673.shtml"
+street: Fairview Road
+housenumber: "621"
+phone: +1 864-228-2179
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/sc/simpsonville-673.shtml

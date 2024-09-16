@@ -1,11 +1,11 @@
 id: 739592542
-type: way
+type: node
 latitude: 32.92578
 longitude: -81.19062
 postcode: "29911"
 city: Brunson
-street: "Railroad Avenue Southwest"
-housenumber: 103
+street: Railroad Avenue Southwest
+housenumber: "103"
 phone: ""
 opening_hours: ""
-website: "https://rectifire.com/"
+website: https://rectifire.com/

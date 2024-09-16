@@ -1,11 +1,11 @@
 id: 1304819051
-type: way
+type: node
 latitude: 34.82724
 longitude: -82.55189
 postcode: "29640"
 city: Easley
-street: "Saco Lowell Road"
-housenumber: 815
+street: Saco Lowell Road
+housenumber: "815"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 243003918
-type: way
+type: node
 latitude: 34.84855
 longitude: -82.33797
 postcode: "29607"
 city: Greenville
-street: "Woods Crossing Road"
-housenumber: 820
+street: Woods Crossing Road
+housenumber: "820"
 phone: ""
 opening_hours: ""
 website: ""

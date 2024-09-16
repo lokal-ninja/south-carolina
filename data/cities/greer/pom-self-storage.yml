@@ -1,11 +1,11 @@
 id: 702167156
-type: way
+type: node
 latitude: 34.93926
 longitude: -82.25618
 postcode: "29650"
 city: Greer
-street: "South Buncombe Road"
-housenumber: 207
+street: South Buncombe Road
+housenumber: "207"
 phone: ""
 opening_hours: ""
-website: "https://www.pomselfstorage.com/"
+website: https://www.pomselfstorage.com/

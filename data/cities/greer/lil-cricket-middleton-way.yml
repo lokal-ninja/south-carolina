@@ -1,11 +1,11 @@
 id: 1205362058
-type: way
+type: node
 latitude: 34.94242
 longitude: -82.24767
 postcode: "29650"
 city: Greer
-street: "Middleton Way"
-housenumber: 100
+street: Middleton Way
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

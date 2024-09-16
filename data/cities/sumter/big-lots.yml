@@ -4,8 +4,8 @@ latitude: 33.95449
 longitude: -80.37446
 postcode: "29150"
 city: Sumter
-street: "Broad Street"
-housenumber: 1121
-phone: "+1 803-778-2688"
-opening_hours: "Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/sc/sumter/1121-broad-st"
+street: Broad Street
+housenumber: "1121"
+phone: +1 803-778-2688
+opening_hours: Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/sc/sumter/1121-broad-st

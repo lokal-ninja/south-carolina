@@ -1,11 +1,11 @@
 id: 514637309
-type: way
+type: node
 latitude: 34.94488
 longitude: -81.94296
 postcode: "29301"
 city: Spartanburg
-street: "West Main Street"
-housenumber: 489
+street: West Main Street
+housenumber: "489"
 phone: ""
 opening_hours: ""
 website: ""

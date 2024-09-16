@@ -4,8 +4,8 @@ latitude: 34.94925
 longitude: -81.93263
 postcode: "29306"
 city: Spartanburg
-street: "West Main Street"
-housenumber: 131
+street: West Main Street
+housenumber: "131"
 phone: ""
-opening_hours: "Mo-Sa 11:00-19:00"
-website: "https://www.hubcityspartanburgers.com/"
+opening_hours: Mo-Sa 11:00-19:00
+website: https://www.hubcityspartanburgers.com/

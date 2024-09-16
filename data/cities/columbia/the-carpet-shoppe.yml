@@ -1,11 +1,11 @@
 id: 508720821
-type: way
+type: node
 latitude: 34.11961
 longitude: -80.886
 postcode: "29223"
 city: Columbia
-street: "Sparkleberry Lane Extension"
-housenumber: 1061
-phone: "+1-803-788-6090"
+street: Sparkleberry Lane Extension
+housenumber: "1061"
+phone: +1-803-788-6090
 opening_hours: ""
-website: "http://thecarpetshoppeofcolumbia.com"
+website: http://thecarpetshoppeofcolumbia.com

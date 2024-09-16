@@ -1,11 +1,11 @@
 id: 544008123
-type: way
+type: node
 latitude: 33.9932
 longitude: -81.22803
 postcode: "29072"
 city: Lexington
-street: "Sunset Boulevard"
-housenumber: 
+street: Sunset Boulevard
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

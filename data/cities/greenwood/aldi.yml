@@ -1,11 +1,11 @@
 id: 891197464
-type: way
+type: node
 latitude: 34.21731
 longitude: -82.18191
 postcode: "29649"
 city: Greenwood
-street: "Montague Avenue"
-housenumber: 1322
-phone: "+1 877-476-1036"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/sc/greenwood/1322-montague-ave"
+street: Montague Avenue
+housenumber: "1322"
+phone: +1 877-476-1036
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/sc/greenwood/1322-montague-ave

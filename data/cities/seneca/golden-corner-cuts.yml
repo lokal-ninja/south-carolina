@@ -1,11 +1,11 @@
 id: 674319168
-type: way
+type: node
 latitude: 34.68628
 longitude: -82.95302
 postcode: "29678"
 city: Seneca
-street: "North Townville Street"
-housenumber: 210
+street: North Townville Street
+housenumber: "210"
 phone: ""
 opening_hours: ""
 website: ""

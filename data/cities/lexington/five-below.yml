@@ -4,8 +4,8 @@ latitude: 33.99994
 longitude: -81.21881
 postcode: "29072"
 city: Lexington
-street: "Sunset Boulevard"
-housenumber: 5454
-phone: "+1 803 723 2313"
+street: Sunset Boulevard
+housenumber: "5454"
+phone: +1 803 723 2313
 opening_hours: ""
-website: "https://locations.fivebelow.com/sc/lexington"
+website: https://locations.fivebelow.com/sc/lexington

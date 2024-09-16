@@ -1,11 +1,11 @@
 id: 675610931
-type: way
+type: node
 latitude: 35.03662
 longitude: -81.97319
 postcode: "29316"
 city: Boiling Springs
-street: "Valley Falls Road"
-housenumber: 8915
-phone: "+1 864-754-4199"
-opening_hours: "Mo-Sa 08:00-20:00; Su 12:00-17:00"
+street: Valley Falls Road
+housenumber: "8915"
+phone: +1 864-754-4199
+opening_hours: Mo-Sa 08:00-20:00; Su 12:00-17:00
 website: ""

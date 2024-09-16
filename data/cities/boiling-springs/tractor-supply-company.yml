@@ -1,11 +1,11 @@
 id: 1030516458
-type: way
+type: node
 latitude: 35.05941
 longitude: -81.9976
 postcode: "29316"
 city: Boiling Springs
-street: "Highway 9"
-housenumber: 4441
-phone: "+1 864-599-9749"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
-website: "https://www.tractorsupply.com/tsc/store_Boilingsprings-SC-29316_2516"
+street: Highway 9
+housenumber: "4441"
+phone: +1 864-599-9749
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
+website: https://www.tractorsupply.com/tsc/store_Boilingsprings-SC-29316_2516

@@ -1,11 +1,11 @@
 id: 337903034
-type: way
+type: node
 latitude: 34.92038
 longitude: -82.30032
 postcode: "29687"
 city: Taylors
-street: "East Main Street"
-housenumber: 1
+street: East Main Street
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.maincollectivemarket.com/"
+website: https://www.maincollectivemarket.com/

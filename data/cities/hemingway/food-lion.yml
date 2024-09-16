@@ -1,11 +1,11 @@
 id: 1053972781
-type: way
+type: node
 latitude: 33.75024
 longitude: -79.44687
 postcode: "29554"
 city: Hemingway
-street: "South Main Street"
-housenumber: 304
+street: South Main Street
+housenumber: "304"
 phone: ""
 opening_hours: ""
 website: ""

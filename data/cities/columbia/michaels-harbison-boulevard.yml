@@ -1,11 +1,11 @@
 id: 438102676
-type: way
+type: node
 latitude: 34.06946
 longitude: -81.15983
 postcode: "29212"
 city: Columbia
-street: "Harbison Boulevard"
-housenumber: 244
-phone: "+1 803-407-7813"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/sc/columbia/2113"
+street: Harbison Boulevard
+housenumber: "244"
+phone: +1 803-407-7813
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/sc/columbia/2113

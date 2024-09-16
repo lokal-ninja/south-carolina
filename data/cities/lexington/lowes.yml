@@ -1,11 +1,11 @@
 id: 325763899
-type: way
+type: node
 latitude: 34.0027
 longitude: -81.21375
 postcode: "29072"
 city: Lexington
-street: "Sunset Boulevard"
-housenumber: 5412
-phone: "+1 803-358-2000"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/sc-lexington/1066"
+street: Sunset Boulevard
+housenumber: "5412"
+phone: +1 803-358-2000
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/sc-lexington/1066

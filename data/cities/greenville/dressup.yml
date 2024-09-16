@@ -4,8 +4,8 @@ latitude: 34.85185
 longitude: -82.39876
 postcode: "29601"
 city: Greenville
-street: "North Main Street"
-housenumber: 103
+street: North Main Street
+housenumber: "103"
 phone: ""
 opening_hours: ""
-website: "https://shopdressup.com/"
+website: https://shopdressup.com/

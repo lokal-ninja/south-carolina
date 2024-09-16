@@ -1,11 +1,11 @@
 id: 521687758
-type: way
+type: node
 latitude: 34.93716
 longitude: -82.13939
 postcode: "29334"
 city: Duncan
-street: "School Street"
-housenumber: 409
+street: School Street
+housenumber: "409"
 phone: ""
 opening_hours: ""
 website: ""

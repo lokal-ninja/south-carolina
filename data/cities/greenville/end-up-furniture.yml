@@ -1,11 +1,11 @@
 id: 307820090
-type: way
+type: node
 latitude: 34.81982
 longitude: -82.28162
 postcode: "29607"
 city: Greenville
-street: "Hendrix Drive"
-housenumber: 10
+street: Hendrix Drive
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

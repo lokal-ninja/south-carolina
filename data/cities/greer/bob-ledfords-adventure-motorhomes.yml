@@ -1,11 +1,11 @@
 id: 551566083
-type: way
+type: node
 latitude: 34.87546
 longitude: -82.22162
 postcode: "29651"
 city: Greer
-street: "Bob Ledford Drive"
-housenumber: 198
-phone: "+1-864-848-0098"
+street: Bob Ledford Drive
+housenumber: "198"
+phone: +1-864-848-0098
 opening_hours: ""
-website: "https://www.adventuremotorhomes.net/locations/greer"
+website: https://www.adventuremotorhomes.net/locations/greer

@@ -4,8 +4,9 @@ latitude: 33.55164
 longitude: -79.04754
 postcode: "29576"
 city: Murrells Inlet
-street: "4516 Hwy 17"
-housenumber: 
-phone: "843-651-4520"
-opening_hours: "Su closed; Mo 09:00-16:00; Tu 09:00-16:00; We 09:00-16:00; Th 09:00-16:00; Fr 09:00-16:00; Sa 09:00-12:00"
-website: "https://callasflorist.com"
+street: 4516 Hwy 17
+housenumber: ""
+phone: 843-651-4520
+opening_hours: Su closed; Mo 09:00-16:00; Tu 09:00-16:00; We 09:00-16:00; Th 09:00-16:00;
+    Fr 09:00-16:00; Sa 09:00-12:00
+website: https://callasflorist.com

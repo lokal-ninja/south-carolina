@@ -1,11 +1,11 @@
 id: 931407869
-type: way
+type: node
 latitude: 33.85204
 longitude: -78.65439
 postcode: "29582"
 city: North Myrtle Beach
-street: "Sea Mt. Highway"
-housenumber: 2100
+street: Sea Mt. Highway
+housenumber: "2100"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1028834637
-type: way
+type: node
 latitude: 32.43567
 longitude: -80.67934
 postcode: "29902"
 city: Beaufort
-street: "Bladen Street"
-housenumber: 705
+street: Bladen Street
+housenumber: "705"
 phone: ""
 opening_hours: ""
-website: "https://www.beaufortmassagetherapy.com/"
+website: https://www.beaufortmassagetherapy.com/

@@ -1,11 +1,11 @@
 id: 911725252
-type: way
+type: node
 latitude: 33.55845
 longitude: -79.03253
 postcode: "29576"
 city: Murrells Inlet
-street: "Highway 17"
-housenumber: 4042
+street: Highway 17
+housenumber: "4042"
 phone: ""
 opening_hours: ""
 website: ""

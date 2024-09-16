@@ -1,11 +1,11 @@
 id: 49806512
-type: way
+type: node
 latitude: 34.84242
 longitude: -82.36026
 postcode: "29607"
 city: Greenville
-street: "Laurens Road"
-housenumber: 1535
+street: Laurens Road
+housenumber: "1535"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/sc/greenville/1535-laurens-rd.html"
+website: https://www.autozone.com/locations/sc/greenville/1535-laurens-rd.html

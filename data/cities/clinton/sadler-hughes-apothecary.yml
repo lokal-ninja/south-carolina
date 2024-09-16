@@ -1,11 +1,11 @@
 id: 964961478
-type: way
+type: node
 latitude: 34.45785
 longitude: -81.87794
 postcode: "29325"
 city: Clinton
-street: "Jacobs Highway"
-housenumber: 102
+street: Jacobs Highway
+housenumber: "102"
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-16:00"
-website: "https://sadlerhughes.com/"
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-16:00
+website: https://sadlerhughes.com/

@@ -1,11 +1,11 @@
 id: 1221575978
-type: way
+type: node
 latitude: 34.66168
 longitude: -83.09222
 postcode: "29693"
 city: Westminster
-street: "East Main Street"
-housenumber: 610
+street: East Main Street
+housenumber: "610"
 phone: ""
 opening_hours: ""
 website: ""

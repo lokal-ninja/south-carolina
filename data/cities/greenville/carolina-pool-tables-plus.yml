@@ -1,11 +1,11 @@
 id: 340930098
-type: way
+type: node
 latitude: 34.90776
 longitude: -82.32765
 postcode: "29687"
 city: Greenville
-street: "Wade Hampton Boulevard"
-housenumber: 3044
+street: Wade Hampton Boulevard
+housenumber: "3044"
 phone: ""
 opening_hours: ""
 website: ""

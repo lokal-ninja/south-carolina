@@ -1,11 +1,11 @@
 id: 927157332
-type: way
+type: node
 latitude: 32.87785
 longitude: -81.12096
 postcode: "29924"
 city: Hampton
-street: "Elm Street West"
-housenumber: 1500
-phone: "+1-803-943-9468"
+street: Elm Street West
+housenumber: "1500"
+phone: +1-803-943-9468
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/sc/hampton/1500-elm-st-west"
+website: https://stores.advanceautoparts.com/sc/hampton/1500-elm-st-west

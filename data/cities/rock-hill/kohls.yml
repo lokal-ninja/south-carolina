@@ -1,11 +1,11 @@
 id: 184500011
-type: way
+type: node
 latitude: 34.94434
 longitude: -80.95847
 postcode: "29730"
 city: Rock Hill
-street: "Meeting Boulevard"
-housenumber: 1522
-phone: "+1 803-329-0700"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/sc/rockhill-1138.shtml"
+street: Meeting Boulevard
+housenumber: "1522"
+phone: +1 803-329-0700
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/sc/rockhill-1138.shtml

@@ -1,11 +1,11 @@
 id: 528450362
-type: way
+type: node
 latitude: 34.79833
 longitude: -82.37604
 postcode: "29605"
 city: Greenville
-street: "Chalmers Road"
-housenumber: 100
-phone: "+1 844-476-1078"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/sc/greenville/100-chalmers-road"
+street: Chalmers Road
+housenumber: "100"
+phone: +1 844-476-1078
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/sc/greenville/100-chalmers-road

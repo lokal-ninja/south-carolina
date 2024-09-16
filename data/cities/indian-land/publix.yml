@@ -1,11 +1,11 @@
 id: 546867201
-type: way
+type: node
 latitude: 34.95634
 longitude: -80.85026
-postcode: "29707-6532"
+postcode: 29707-6532
 city: Indian Land
-street: "Charlotte Highway"
-housenumber: 8360
-phone: "+1 803-548-9000"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1412"
+street: Charlotte Highway
+housenumber: "8360"
+phone: +1 803-548-9000
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1412

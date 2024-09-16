@@ -1,11 +1,11 @@
 id: 307063025
-type: way
+type: node
 latitude: 34.84982
 longitude: -82.37295
 postcode: "29601"
 city: Greenville
-street: "Laurens Road"
-housenumber: 803
+street: Laurens Road
+housenumber: "803"
 phone: ""
-opening_hours: "Mo-Su 09:00-17:00"
-website: "http://www.vbisc.com"
+opening_hours: Mo-Su 09:00-17:00
+website: http://www.vbisc.com

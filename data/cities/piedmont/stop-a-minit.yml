@@ -1,11 +1,11 @@
 id: 704336654
-type: way
+type: node
 latitude: 34.70592
 longitude: -82.4533
 postcode: "29673"
 city: Piedmont
-street: "South Piedmont Highway"
-housenumber: 1
+street: South Piedmont Highway
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

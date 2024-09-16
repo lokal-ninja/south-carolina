@@ -1,11 +1,11 @@
 id: 161565833
-type: way
+type: node
 latitude: 34.93165
 longitude: -81.89609
 postcode: "29302"
 city: Spartanburg
-street: "Union Street"
-housenumber: 1321
+street: Union Street
+housenumber: "1321"
 phone: ""
 opening_hours: ""
-website: "https://www.bikeworx.net/"
+website: https://www.bikeworx.net/

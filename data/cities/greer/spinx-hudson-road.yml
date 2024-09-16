@@ -1,11 +1,11 @@
 id: 1008889597
-type: way
+type: node
 latitude: 34.89297
 longitude: -82.29055
 postcode: "29650"
 city: Greer
-street: "Hudson Road"
-housenumber: 2403
+street: Hudson Road
+housenumber: "2403"
 phone: ""
 opening_hours: ""
 website: ""

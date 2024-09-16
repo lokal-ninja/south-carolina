@@ -1,11 +1,11 @@
 id: 687406817
-type: way
+type: node
 latitude: 35.01909
 longitude: -81.80321
-postcode: "29330-9251"
+postcode: 29330-9251
 city: Cowpens
-street: "North Main Street"
-housenumber: 5401
-phone: "+1 864-727-6001"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://www.dollartree.com/locations/sc/cowpens/8826/"
+street: North Main Street
+housenumber: "5401"
+phone: +1 864-727-6001
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://www.dollartree.com/locations/sc/cowpens/8826/

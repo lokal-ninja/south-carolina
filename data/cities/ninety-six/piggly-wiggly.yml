@@ -1,11 +1,11 @@
 id: 553130618
-type: way
+type: node
 latitude: 34.17827
 longitude: -82.02358
 postcode: "29666"
 city: Ninety Six
-street: "North Cambridge Street"
-housenumber: 204
-phone: "+1 864-543-2429"
-opening_hours: "Mo-Sa 07:30-19:00"
+street: North Cambridge Street
+housenumber: "204"
+phone: +1 864-543-2429
+opening_hours: Mo-Sa 07:30-19:00
 website: ""

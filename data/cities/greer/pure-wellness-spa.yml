@@ -1,11 +1,11 @@
 id: 550913212
-type: way
+type: node
 latitude: 34.93853
 longitude: -82.22481
 postcode: "29651"
 city: Greer
-street: "Cannon Street"
-housenumber: 108
+street: Cannon Street
+housenumber: "108"
 phone: ""
 opening_hours: ""
 website: ""

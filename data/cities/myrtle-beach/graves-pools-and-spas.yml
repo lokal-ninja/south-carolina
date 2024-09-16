@@ -1,11 +1,11 @@
 id: 356606083
-type: way
+type: node
 latitude: 33.69264
 longitude: -79.01202
 postcode: "29588"
 city: Myrtle Beach
-street: "Leisure Lane"
-housenumber: 132
-phone: "(843) 903-7665"
+street: Leisure Lane
+housenumber: "132"
+phone: (843) 903-7665
 opening_hours: ""
-website: "https://www.gravespoolsandspas.com/"
+website: https://www.gravespoolsandspas.com/

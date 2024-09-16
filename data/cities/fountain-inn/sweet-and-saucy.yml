@@ -1,11 +1,11 @@
 id: 298204788
-type: way
+type: node
 latitude: 34.69393
 longitude: -82.20031
 postcode: "29644"
 city: Fountain Inn
-street: "North Main Street"
-housenumber: 115
+street: North Main Street
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

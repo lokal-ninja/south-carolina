@@ -1,11 +1,11 @@
 id: 856968527
-type: way
+type: node
 latitude: 35.05072
 longitude: -81.98854
 postcode: "29316"
 city: Boiling Springs
-street: "Highway 9"
-housenumber: 4031
-phone: "+1 844-476-1094"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/sc/boiling-springs/4031-sc-highway-9"
+street: Highway 9
+housenumber: "4031"
+phone: +1 844-476-1094
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/sc/boiling-springs/4031-sc-highway-9

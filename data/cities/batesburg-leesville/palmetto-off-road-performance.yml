@@ -1,11 +1,11 @@
 id: 853820444
-type: way
+type: node
 latitude: 33.90751
 longitude: -81.54926
 postcode: "29006"
 city: Batesburg-Leesville
-street: "West Church Street"
-housenumber: 519
+street: West Church Street
+housenumber: "519"
 phone: "+18649932507"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.facebook.com/PalmettoOffRoad/"
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.facebook.com/PalmettoOffRoad/

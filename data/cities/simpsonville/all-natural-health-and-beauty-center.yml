@@ -1,11 +1,11 @@
 id: 1231890312
-type: way
+type: node
 latitude: 34.7394
 longitude: -82.25567
 postcode: "29681"
 city: Simpsonville
-street: "East College Street"
-housenumber: 101
-phone: "+1 864-963-2882"
+street: East College Street
+housenumber: "101"
+phone: +1 864-963-2882
 opening_hours: ""
-website: "https://naturalfarmacy.net/"
+website: https://naturalfarmacy.net/

@@ -1,11 +1,11 @@
 id: 571055209
-type: way
+type: node
 latitude: 34.92216
 longitude: -81.99028
 postcode: "29301"
 city: Spartanburg
-street: "Reidville Road"
-housenumber: 1980
+street: Reidville Road
+housenumber: "1980"
 phone: ""
 opening_hours: ""
-website: "http://www.abbottfarmsonline.com/home/"
+website: http://www.abbottfarmsonline.com/home/

@@ -1,11 +1,11 @@
 id: 941153933
-type: way
+type: node
 latitude: 32.95125
 longitude: -80.16456
 postcode: "29485"
 city: Summerville
-street: "Dorchester Road"
-housenumber: 10015
-phone: "+1 844-466-1041"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/sc/summerville/10015-dorchester-rd"
+street: Dorchester Road
+housenumber: "10015"
+phone: +1 844-466-1041
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/sc/summerville/10015-dorchester-rd

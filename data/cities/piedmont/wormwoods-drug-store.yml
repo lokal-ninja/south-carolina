@@ -1,11 +1,11 @@
 id: 721130889
-type: way
+type: node
 latitude: 34.74058
 longitude: -82.44396
 postcode: "29673"
 city: Piedmont
-street: "Moody Road"
-housenumber: 303
-phone: "1-864-483-9681"
+street: Moody Road
+housenumber: "303"
+phone: 1-864-483-9681
 opening_hours: ""
-website: "https://www.wormwoodsdrugstore.com"
+website: https://www.wormwoodsdrugstore.com

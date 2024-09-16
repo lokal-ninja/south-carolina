@@ -1,11 +1,11 @@
 id: 1221575979
-type: way
+type: node
 latitude: 34.66334
 longitude: -83.09405
 postcode: "29693"
 city: Westminster
-street: "East Windsor Street"
-housenumber: 400
+street: East Windsor Street
+housenumber: "400"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1051875523
-type: way
+type: node
 latitude: 34.8624
 longitude: -82.27031
 postcode: "29615"
 city: Greenville
-street: "Milestone Plaza"
-housenumber: 7
+street: Milestone Plaza
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.shopbottles.com/"
+website: https://www.shopbottles.com/

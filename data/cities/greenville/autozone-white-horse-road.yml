@@ -1,11 +1,11 @@
 id: 1005302867
-type: way
+type: node
 latitude: 34.85447
 longitude: -82.45372
 postcode: "29611"
 city: Greenville
-street: "White Horse Road"
-housenumber: 6120
+street: White Horse Road
+housenumber: "6120"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/sc/greenville/6120-white-horse-rd.html"
+website: https://www.autozone.com/locations/sc/greenville/6120-white-horse-rd.html

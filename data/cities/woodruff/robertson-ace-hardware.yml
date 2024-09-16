@@ -1,11 +1,11 @@
 id: 601384427
-type: way
+type: node
 latitude: 34.74665
 longitude: -82.04476
 postcode: "29388"
 city: Woodruff
-street: "North Main Street"
-housenumber: 578
-phone: "+1 864-476-5580"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-17:00; Su 13:00-18:00"
+street: North Main Street
+housenumber: "578"
+phone: +1 864-476-5580
+opening_hours: Mo-Fr 07:30-19:00; Sa 08:00-17:00; Su 13:00-18:00
 website: ""

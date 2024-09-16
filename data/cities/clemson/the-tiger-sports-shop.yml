@@ -1,11 +1,11 @@
 id: 27660589
-type: way
+type: node
 latitude: 34.69052
 longitude: -82.83317
 postcode: "29631"
 city: Clemson
-street: "Tiger Boulevard"
-housenumber: 1102
+street: Tiger Boulevard
+housenumber: "1102"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 301810441
-type: way
+type: node
 latitude: 34.83599
 longitude: -82.34623
 postcode: "29607"
 city: Greenville
-street: "Haywood Road"
-housenumber: 115
+street: Haywood Road
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

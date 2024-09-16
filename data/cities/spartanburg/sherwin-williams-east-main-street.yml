@@ -1,11 +1,11 @@
 id: 673522140
-type: way
+type: node
 latitude: 34.97193
 longitude: -81.88587
 postcode: "29307"
 city: Spartanburg
-street: "East Main Street"
-housenumber: 2060
+street: East Main Street
+housenumber: "2060"
 phone: ""
 opening_hours: ""
 website: ""

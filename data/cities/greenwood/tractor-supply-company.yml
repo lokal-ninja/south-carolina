@@ -1,11 +1,11 @@
 id: 891201099
-type: way
+type: node
 latitude: 34.21043
 longitude: -82.18527
 postcode: "29649"
 city: Greenwood
-street: "Towers Drive"
-housenumber: 109
-phone: "+1 864-942-0880"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-19:00"
+street: Towers Drive
+housenumber: "109"
+phone: +1 864-942-0880
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-19:00
 website: ""

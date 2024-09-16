@@ -1,11 +1,11 @@
 id: 1028918874
-type: way
+type: node
 latitude: 32.43451
 longitude: -80.66968
 postcode: "29902"
 city: Beaufort
-street: "Carteret Street"
-housenumber: 603
+street: Carteret Street
+housenumber: "603"
 phone: ""
 opening_hours: ""
 website: ""

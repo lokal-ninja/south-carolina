@@ -5,7 +5,8 @@ longitude: -82.36449
 postcode: "29614"
 city: Greenville
 street: ""
-housenumber: 
-phone: "+1 864 770 1300"
-opening_hours: "Jan-May: Mo-Fr 07:30-19:00; Jan-May: Sa 09:00-13:00; Aug-Dec: Mo-Fr 07:30-19:00; Aug-Dec: Sa 09:00-13:00; May-Aug: Mo-Fr 08:00-18:00"
-website: "https://www.belliscopycenter.com/"
+housenumber: ""
+phone: +1 864 770 1300
+opening_hours: 'Jan-May: Mo-Fr 07:30-19:00; Jan-May: Sa 09:00-13:00; Aug-Dec: Mo-Fr
+    07:30-19:00; Aug-Dec: Sa 09:00-13:00; May-Aug: Mo-Fr 08:00-18:00'
+website: https://www.belliscopycenter.com/

@@ -1,11 +1,11 @@
 id: 541810508
-type: way
+type: node
 latitude: 34.91759
 longitude: -82.11237
 postcode: "29334"
 city: Duncan
-street: "East Main Street"
-housenumber: 1300
+street: East Main Street
+housenumber: "1300"
 phone: ""
 opening_hours: ""
 website: ""

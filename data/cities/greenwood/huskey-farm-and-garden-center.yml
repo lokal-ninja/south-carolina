@@ -1,11 +1,11 @@
 id: 886784243
-type: way
+type: node
 latitude: 34.18824
 longitude: -82.16438
 postcode: "29646"
 city: Greenwood
-street: "Oak Avenue"
-housenumber: 302
+street: Oak Avenue
+housenumber: "302"
 phone: ""
 opening_hours: ""
 website: ""

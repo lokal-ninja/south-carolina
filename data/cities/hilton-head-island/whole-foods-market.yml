@@ -1,11 +1,11 @@
 id: 481219262
-type: way
+type: node
 latitude: 32.18729
 longitude: -80.7167
 postcode: "29928"
 city: Hilton Head Island
-street: "Shelter Cove Lane"
-housenumber: 50
-phone: "+1 843-842-0700"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/hiltonheadisland"
+street: Shelter Cove Lane
+housenumber: "50"
+phone: +1 843-842-0700
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.wholefoodsmarket.com/stores/hiltonheadisland

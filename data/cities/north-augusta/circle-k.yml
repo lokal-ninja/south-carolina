@@ -1,11 +1,11 @@
 id: 1304148645
-type: way
+type: node
 latitude: 33.50914
 longitude: -81.97167
 postcode: "29841"
 city: North Augusta
-street: "West Martintown Road"
-housenumber: 421
-phone: "+1-803-442-7109"
-opening_hours: "24/7"
+street: West Martintown Road
+housenumber: "421"
+phone: +1-803-442-7109
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 609765409
-type: way
+type: node
 latitude: 34.00005
 longitude: -79.20239
 postcode: "29511"
 city: Aynor
-street: "Elm Street"
-housenumber: 722
+street: Elm Street
+housenumber: "722"
 phone: ""
 opening_hours: ""
 website: ""

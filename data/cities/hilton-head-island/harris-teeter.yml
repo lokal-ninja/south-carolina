@@ -1,11 +1,11 @@
 id: 426022518
-type: way
+type: node
 latitude: 32.15314
 longitude: -80.76815
 postcode: "29928"
 city: Hilton Head Island
-street: "Office Park Road"
-housenumber: 33
-phone: "+1 843-785-6185"
-opening_hours: "07:00-22:00"
-website: "https://www.harristeeter.com/stores/grocery/sc/hilton-head/park-plaza/097/00423"
+street: Office Park Road
+housenumber: "33"
+phone: +1 843-785-6185
+opening_hours: 07:00-22:00
+website: https://www.harristeeter.com/stores/grocery/sc/hilton-head/park-plaza/097/00423

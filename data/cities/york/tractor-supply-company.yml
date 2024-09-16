@@ -1,11 +1,11 @@
 id: 551180114
-type: way
+type: node
 latitude: 34.98428
 longitude: -81.22161
 postcode: "29745"
 city: York
-street: "East Liberty Street"
-housenumber: 802
-phone: "+1 803-684-2919"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: East Liberty Street
+housenumber: "802"
+phone: +1 803-684-2919
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

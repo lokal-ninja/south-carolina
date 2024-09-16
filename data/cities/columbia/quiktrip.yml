@@ -1,11 +1,11 @@
 id: 1124250260
-type: way
+type: node
 latitude: 34.08474
 longitude: -80.93896
 postcode: "29223"
 city: Columbia
-street: "Two Notch Road"
-housenumber: 8205
-phone: "+1-803-862-4000"
-opening_hours: "24/7"
-website: "https://locations.quiktrip.com/sc/columbia/8205-two-notch-rd"
+street: Two Notch Road
+housenumber: "8205"
+phone: +1-803-862-4000
+opening_hours: 24/7
+website: https://locations.quiktrip.com/sc/columbia/8205-two-notch-rd

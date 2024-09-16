@@ -1,11 +1,11 @@
 id: 366008784
-type: way
+type: node
 latitude: 34.84553
 longitude: -82.36614
 postcode: "29607"
 city: Greenville
-street: "Laurens Road"
-housenumber: 1309
+street: Laurens Road
+housenumber: "1309"
 phone: ""
 opening_hours: ""
 website: ""

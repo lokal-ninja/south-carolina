@@ -1,11 +1,11 @@
 id: 1105068419
-type: way
+type: node
 latitude: 34.3104
 longitude: -81.57635
 postcode: "29108"
 city: Newberry
-street: "SC Highway 34"
-housenumber: 11949
+street: SC Highway 34
+housenumber: "11949"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 503869906
-type: way
+type: node
 latitude: 34.28404
 longitude: -81.59033
 postcode: "29108"
 city: Newberry
-street: "Main Street"
-housenumber: 2911
-phone: "+1 803-405-7061"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/sc-newberry/2520"
+street: Main Street
+housenumber: "2911"
+phone: +1 803-405-7061
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/sc-newberry/2520

@@ -1,11 +1,11 @@
 id: 304379986
-type: way
+type: node
 latitude: 34.90771
 longitude: -82.33257
 postcode: "29687"
 city: Taylors
-street: "Wade Hampton Boulevard"
-housenumber: 3027
-phone: "+1 864-292-8155"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1244/taylors-sc/whats-new"
+street: Wade Hampton Boulevard
+housenumber: "3027"
+phone: +1 864-292-8155
+opening_hours: 24/7
+website: https://www.walmart.com/store/1244/taylors-sc/whats-new

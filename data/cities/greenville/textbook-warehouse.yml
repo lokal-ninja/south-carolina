@@ -1,11 +1,11 @@
 id: 624234346
-type: way
+type: node
 latitude: 34.8307
 longitude: -82.36933
 postcode: "29607"
 city: Greenville
-street: "South Pleasantburg Drive"
-housenumber: 489
-phone: "+1 864-235-3353"
-opening_hours: "Mo-Th 08:30-17:00; Fr 08:30-15:30"
-website: "https://greenvillesctextbooks.com/"
+street: South Pleasantburg Drive
+housenumber: "489"
+phone: +1 864-235-3353
+opening_hours: Mo-Th 08:30-17:00; Fr 08:30-15:30
+website: https://greenvillesctextbooks.com/

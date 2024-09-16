@@ -1,11 +1,11 @@
 id: 49292194
-type: way
+type: node
 latitude: 34.8908
 longitude: -82.38248
 postcode: "29609"
 city: Greenville
-street: "North Pleasantburg Drive"
-housenumber: 2490
-phone: "+1 864-232-0510"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/n-greenville-sc/sc/greenville/29609/1104"
+street: North Pleasantburg Drive
+housenumber: "2490"
+phone: +1 864-232-0510
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/n-greenville-sc/sc/greenville/29609/1104

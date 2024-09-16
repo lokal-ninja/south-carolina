@@ -1,11 +1,11 @@
 id: 1154159446
-type: way
+type: node
 latitude: 32.85057
 longitude: -81.08222
 postcode: "29944"
 city: Varnville
-street: "West Carolina Avenue"
-housenumber: 115
-phone: "+1-803-903-2880"
+street: West Carolina Avenue
+housenumber: "115"
+phone: +1-803-903-2880
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/sc/varnville/12876"
+website: https://www.dollargeneral.com/store-directory/sc/varnville/12876

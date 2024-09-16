@@ -1,11 +1,11 @@
 id: 427855682
-type: way
+type: node
 latitude: 34.09078
 longitude: -80.92754
 postcode: "29223"
 city: Columbia
-street: "Two Notch Road"
-housenumber: 9001
-phone: "+1-803-419-3664"
-opening_hours: "Mo-Su 07:00-24:00; Dec 25 09:00-18:00"
-website: "https://www.walgreens.com/locator/walgreens-9001+two+notch+rd-columbia-sc-29223/id=12478"
+street: Two Notch Road
+housenumber: "9001"
+phone: +1-803-419-3664
+opening_hours: Mo-Su 07:00-24:00; Dec 25 09:00-18:00
+website: https://www.walgreens.com/locator/walgreens-9001+two+notch+rd-columbia-sc-29223/id=12478

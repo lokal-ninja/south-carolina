@@ -1,11 +1,11 @@
 id: 56257396
-type: way
+type: node
 latitude: 34.82066
 longitude: -82.29449
 postcode: "29607"
 city: Greenville
-street: "Park Woodruff Drive"
-housenumber: 35
+street: Park Woodruff Drive
+housenumber: "35"
 phone: ""
 opening_hours: ""
-website: "https://www.athome.com/"
+website: https://www.athome.com/

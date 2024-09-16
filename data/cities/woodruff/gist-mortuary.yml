@@ -1,11 +1,11 @@
 id: 677134493
-type: way
+type: node
 latitude: 34.73747
 longitude: -82.02787
 postcode: "29388"
 city: Woodruff
-street: "Workman Avenue"
-housenumber: 519
-phone: "864-476-3411"
+street: Workman Avenue
+housenumber: "519"
+phone: 864-476-3411
 opening_hours: ""
-website: "https://wjgist.com/"
+website: https://wjgist.com/

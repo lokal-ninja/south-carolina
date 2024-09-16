@@ -1,11 +1,11 @@
 id: 444342954
-type: way
+type: node
 latitude: 35.02448
 longitude: -82.48935
 postcode: "29661"
 city: Marietta
-street: "Bates Bridge Road"
-housenumber: 204
+street: Bates Bridge Road
+housenumber: "204"
 phone: ""
 opening_hours: ""
-website: "http://www.mybeechwoodfarms.com/"
+website: http://www.mybeechwoodfarms.com/

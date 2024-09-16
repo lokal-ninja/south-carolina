@@ -1,11 +1,11 @@
 id: 532021941
-type: way
+type: node
 latitude: 33.23784
 longitude: -81.39165
 postcode: "29812"
 city: Barnwell
-street: "Dunbarton Boulevard"
-housenumber: 11391
-phone: "+1 803-259-2000"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.walmart.com/store/795/barnwell-sc/whats-new"
+street: Dunbarton Boulevard
+housenumber: "11391"
+phone: +1 803-259-2000
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.walmart.com/store/795/barnwell-sc/whats-new

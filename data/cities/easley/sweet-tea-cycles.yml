@@ -1,11 +1,11 @@
 id: 578605292
-type: way
+type: node
 latitude: 34.83564
 longitude: -82.61739
 postcode: "29640"
 city: Easley
-street: "Fleetwood Drive"
-housenumber: 516
+street: Fleetwood Drive
+housenumber: "516"
 phone: ""
 opening_hours: ""
 website: ""

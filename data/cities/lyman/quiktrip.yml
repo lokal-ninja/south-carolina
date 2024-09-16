@@ -1,11 +1,11 @@
 id: 576948937
-type: way
+type: node
 latitude: 34.95487
 longitude: -82.12895
 postcode: "29365"
 city: Lyman
-street: "Greenville Highway"
-housenumber: 12203
+street: Greenville Highway
+housenumber: "12203"
 phone: ""
 opening_hours: ""
 website: ""

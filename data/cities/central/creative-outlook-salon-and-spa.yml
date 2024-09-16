@@ -1,11 +1,11 @@
 id: 1277901696
-type: way
+type: node
 latitude: 34.72188
 longitude: -82.78435
 postcode: "29630"
 city: Central
-street: "West Main Street"
-housenumber: 511
+street: West Main Street
+housenumber: "511"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 571421695
-type: way
+type: node
 latitude: 34.83315
 longitude: -82.36804
 postcode: "29607"
 city: Greenville
-street: "South Pleasantburg Drive"
-housenumber: 387
+street: South Pleasantburg Drive
+housenumber: "387"
 phone: ""
 opening_hours: ""
-website: "https://firstclassbarbersgvillesc.com/"
+website: https://firstclassbarbersgvillesc.com/

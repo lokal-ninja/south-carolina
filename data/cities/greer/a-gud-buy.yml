@@ -1,11 +1,11 @@
 id: 515872623
-type: way
+type: node
 latitude: 34.8833
 longitude: -82.14956
 postcode: "29651"
 city: Greer
-street: "Highway 101"
-housenumber: 2017
+street: Highway 101
+housenumber: "2017"
 phone: ""
 opening_hours: ""
 website: ""

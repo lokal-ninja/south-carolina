@@ -4,8 +4,8 @@ latitude: 34.95014
 longitude: -81.93373
 postcode: "29306"
 city: Spartanburg
-street: "Magnolia Street"
-housenumber: 134
+street: Magnolia Street
+housenumber: "134"
 phone: "+18642168120"
 opening_hours: ""
-website: "https://www.carabellaboutique.com/"
+website: https://www.carabellaboutique.com/

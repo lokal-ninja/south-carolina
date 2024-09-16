@@ -1,11 +1,11 @@
 id: 810865590
-type: way
+type: node
 latitude: 32.43214
 longitude: -80.67123
 postcode: "29902"
 city: Beaufort
-street: "Scott Street"
-housenumber: 304
+street: Scott Street
+housenumber: "304"
 phone: ""
 opening_hours: ""
-website: "http://bangssalonbeaufort.com/"
+website: http://bangssalonbeaufort.com/

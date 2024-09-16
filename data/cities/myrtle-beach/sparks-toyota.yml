@@ -1,11 +1,11 @@
 id: 43571361
-type: way
+type: node
 latitude: 33.76153
 longitude: -78.97356
 postcode: "29579"
 city: Myrtle Beach
-street: "US-501"
-housenumber: 4855
-phone: "+1-843-236-2161"
+street: US-501
+housenumber: "4855"
+phone: +1-843-236-2161
 opening_hours: ""
-website: "https://www.sparkstoyota.com/"
+website: https://www.sparkstoyota.com/

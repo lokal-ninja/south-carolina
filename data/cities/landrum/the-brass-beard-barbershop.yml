@@ -1,11 +1,11 @@
 id: 241508065
-type: way
+type: node
 latitude: 35.17514
 longitude: -82.18784
 postcode: ""
 city: Landrum
-street: "East Rutherford Street"
-housenumber: 202
+street: East Rutherford Street
+housenumber: "202"
 phone: ""
 opening_hours: ""
-website: "https://www.brassbeardbarbershop.com/"
+website: https://www.brassbeardbarbershop.com/

@@ -2,10 +2,10 @@ id: 2959559595
 type: node
 latitude: 34.22727
 longitude: -80.67757
-postcode: "29078-9345"
+postcode: 29078-9345
 city: Lugoff
-street: "Highway 1 South"
-housenumber: 886
-phone: "+1 803-438-1007"
-opening_hours: "Mo-Sa 07:30-18:00; Su 11:30-16:30"
+street: Highway 1 South
+housenumber: "886"
+phone: +1 803-438-1007
+opening_hours: Mo-Sa 07:30-18:00; Su 11:30-16:30
 website: ""

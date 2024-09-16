@@ -1,11 +1,11 @@
 id: 1200024340
-type: way
+type: node
 latitude: 34.51025
 longitude: -82.75904
 postcode: "29626"
 city: Anderson
-street: "Highway 24"
-housenumber: 4393
+street: Highway 24
+housenumber: "4393"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/sc/anderson/4393-highway-24.html"
+website: https://www.autozone.com/locations/sc/anderson/4393-highway-24.html

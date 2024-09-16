@@ -1,11 +1,11 @@
 id: 301418681
-type: way
+type: node
 latitude: 34.73096
 longitude: -82.25394
 postcode: "29681"
 city: Simpsonville
-street: "Southeast Main Street"
-housenumber: 405
+street: Southeast Main Street
+housenumber: "405"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/sc/simpsonville/autoparts-2229.html"
+website: https://locations.oreillyauto.com/sc/simpsonville/autoparts-2229.html

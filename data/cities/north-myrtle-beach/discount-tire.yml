@@ -1,11 +1,11 @@
 id: 354351928
-type: way
+type: node
 latitude: 33.83557
 longitude: -78.67236
 postcode: "29582"
 city: North Myrtle Beach
-street: "US Highway 17 North"
-housenumber: 801
+street: US Highway 17 North
+housenumber: "801"
 phone: "+18434917005"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
 website: ""

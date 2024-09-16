@@ -1,11 +1,11 @@
 id: 541157880
-type: way
+type: node
 latitude: 33.51217
 longitude: -81.7127
 postcode: "29803"
 city: Aiken
-street: "Whiskey Road"
-housenumber: 2300
+street: Whiskey Road
+housenumber: "2300"
 phone: ""
 opening_hours: ""
 website: ""

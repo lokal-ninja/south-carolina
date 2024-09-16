@@ -1,11 +1,11 @@
 id: 598219233
-type: way
+type: node
 latitude: 33.5643
 longitude: -81.7825
 postcode: "29801"
 city: Aiken
-street: "Jefferson Davis Highway"
-housenumber: 220
-phone: "+1 803-761-6908"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/aiken-sc-sams-club/4879"
+street: Jefferson Davis Highway
+housenumber: "220"
+phone: +1 803-761-6908
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/aiken-sc-sams-club/4879

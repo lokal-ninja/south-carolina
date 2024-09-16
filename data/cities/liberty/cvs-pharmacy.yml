@@ -1,11 +1,11 @@
 id: 676159816
-type: way
+type: node
 latitude: 34.78808
 longitude: -82.69491
 postcode: "29657"
 city: Liberty
-street: "West Main Street"
-housenumber: 118
+street: West Main Street
+housenumber: "118"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/liberty-sc-pharmacies/118-w-main-st-liberty-sc-29657/storeid=5598"
+website: https://www.cvs.com/store-locator/liberty-sc-pharmacies/118-w-main-st-liberty-sc-29657/storeid=5598

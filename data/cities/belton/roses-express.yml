@@ -1,11 +1,11 @@
 id: 622166576
-type: way
+type: node
 latitude: 34.52389
 longitude: -82.49316
 postcode: "29627"
 city: Belton
-street: "River Street"
-housenumber: 116
+street: River Street
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

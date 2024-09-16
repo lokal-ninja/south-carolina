@@ -1,11 +1,11 @@
 id: 30193105
-type: way
+type: node
 latitude: 33.00525
 longitude: -80.04465
 postcode: "29445"
 city: Goose Creek
-street: "Saint James Avenue"
-housenumber: 207
+street: Saint James Avenue
+housenumber: "207"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 571047769
-type: way
+type: node
 latitude: 34.78594
 longitude: -82.37579
 postcode: "29605"
 city: Greenville
-street: "Augusta Road"
-housenumber: 4701
+street: Augusta Road
+housenumber: "4701"
 phone: ""
 opening_hours: ""
 website: ""

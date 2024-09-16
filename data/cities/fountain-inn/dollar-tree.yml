@@ -1,11 +1,11 @@
 id: 1052175118
-type: way
+type: node
 latitude: 34.68781
 longitude: -82.19691
 postcode: "29644"
 city: Fountain Inn
-street: "McCarter Road"
-housenumber: 230
+street: McCarter Road
+housenumber: "230"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-21:00"
-website: "https://www.dollartree.com/locations/sc/fountain-inn/8777/"
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-21:00
+website: https://www.dollartree.com/locations/sc/fountain-inn/8777/

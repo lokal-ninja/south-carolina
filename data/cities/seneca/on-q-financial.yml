@@ -1,11 +1,11 @@
 id: 674319221
-type: way
+type: node
 latitude: 34.68533
 longitude: -82.95535
 postcode: "29678"
 city: Seneca
-street: "West North 1st Street"
-housenumber: 107
+street: West North 1st Street
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

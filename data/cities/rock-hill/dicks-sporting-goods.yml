@@ -1,11 +1,11 @@
 id: 250017825
-type: way
+type: node
 latitude: 34.94308
 longitude: -80.97666
 postcode: "29730"
 city: Rock Hill
-street: "Dave Lyle Boulevard"
-housenumber: 2321
-phone: "+1 803-879-7968"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/sc/rock-hill/1518/"
+street: Dave Lyle Boulevard
+housenumber: "2321"
+phone: +1 803-879-7968
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/sc/rock-hill/1518/

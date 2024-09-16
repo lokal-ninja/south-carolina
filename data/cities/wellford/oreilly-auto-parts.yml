@@ -1,11 +1,11 @@
 id: 576948894
-type: way
+type: node
 latitude: 34.95552
 longitude: -82.11477
 postcode: "29385"
 city: Wellford
-street: "Spartanburg Highway"
-housenumber: 313
+street: Spartanburg Highway
+housenumber: "313"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/sc/wellford/autoparts-2232.html"
+website: https://locations.oreillyauto.com/sc/wellford/autoparts-2232.html

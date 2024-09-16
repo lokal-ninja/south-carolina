@@ -1,11 +1,11 @@
 id: 200972736
-type: way
+type: node
 latitude: 34.93765
 longitude: -82.26787
 postcode: "29650"
 city: Greer
-street: "West Wade Hampton Boulevard"
-housenumber: 1385
-phone: "+1 864-848-6083"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/greer/sc/greer/29650/1126"
+street: West Wade Hampton Boulevard
+housenumber: "1385"
+phone: +1 864-848-6083
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/greer/sc/greer/29650/1126

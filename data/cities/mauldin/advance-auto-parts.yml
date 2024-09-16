@@ -1,11 +1,11 @@
 id: 69092271
-type: way
+type: node
 latitude: 34.78303
 longitude: -82.31155
 postcode: "29662"
 city: Mauldin
-street: "North Main Street"
-housenumber: 302
-phone: "864- 297-7431"
+street: North Main Street
+housenumber: "302"
+phone: 864- 297-7431
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/sc/mauldin/302-n-main-st"
+website: https://stores.advanceautoparts.com/sc/mauldin/302-n-main-st

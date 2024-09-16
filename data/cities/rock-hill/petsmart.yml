@@ -1,11 +1,11 @@
 id: 216523202
-type: way
+type: node
 latitude: 34.97762
 longitude: -80.98248
 postcode: "29730"
 city: Rock Hill
-street: "Hospitality Drive"
-housenumber: 1110
-phone: "+1 803-817-6610"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/sc/rock-hill-store0405.html"
+street: Hospitality Drive
+housenumber: "1110"
+phone: +1 803-817-6610
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/sc/rock-hill-store0405.html

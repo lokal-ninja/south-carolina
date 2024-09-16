@@ -1,11 +1,11 @@
 id: 223069772
-type: way
+type: node
 latitude: 34.54677
 longitude: -82.67231
 postcode: "29621"
 city: Anderson
-street: "Clemson Boulevard"
-housenumber: 3423
-phone: "+1 864-375-1411"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/sc/anderson/office-depot-379"
+street: Clemson Boulevard
+housenumber: "3423"
+phone: +1 864-375-1411
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/sc/anderson/office-depot-379

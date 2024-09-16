@@ -1,11 +1,11 @@
 id: 339641957
-type: way
+type: node
 latitude: 35.09095
 longitude: -81.66684
 postcode: "29341"
 city: Gaffney
-street: "West Floyd Baker Boulevard"
-housenumber: 1601
-phone: "+1 864-206-7932"
-opening_hours: "Mo-Sa 06:00-21:00; Su 09:00-19:00"
-website: "http://stores.lowes.com/lowes/cgi/site?site=2358"
+street: West Floyd Baker Boulevard
+housenumber: "1601"
+phone: +1 864-206-7932
+opening_hours: Mo-Sa 06:00-21:00; Su 09:00-19:00
+website: http://stores.lowes.com/lowes/cgi/site?site=2358

@@ -1,11 +1,11 @@
 id: 1087113862
-type: way
+type: node
 latitude: 35.00161
 longitude: -82.00745
 postcode: "29303"
 city: Spartanburg
-street: "Springfield Road"
-housenumber: 896
+street: Springfield Road
+housenumber: "896"
 phone: ""
 opening_hours: ""
 website: ""

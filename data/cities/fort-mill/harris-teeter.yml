@@ -1,11 +1,11 @@
 id: 543832941
-type: way
+type: node
 latitude: 35.05826
 longitude: -80.93559
 postcode: "29715"
 city: Fort Mill
-street: "Mercantile Place"
-housenumber: 500
-phone: "+1 803-547-0585"
-opening_hours: "24/7"
-website: "https://www.harristeeter.com/stores/grocery/sc/fort-mill/springfield-town-center/097/00370"
+street: Mercantile Place
+housenumber: "500"
+phone: +1 803-547-0585
+opening_hours: 24/7
+website: https://www.harristeeter.com/stores/grocery/sc/fort-mill/springfield-town-center/097/00370

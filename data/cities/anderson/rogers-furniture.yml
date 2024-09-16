@@ -1,11 +1,11 @@
 id: 1010753361
-type: way
+type: node
 latitude: 34.50255
 longitude: -82.6482
 postcode: "29624"
 city: Anderson
-street: "South McDuffie Street"
-housenumber: 207
+street: South McDuffie Street
+housenumber: "207"
 phone: ""
 opening_hours: ""
-website: "http://www.rogersfurnituresc.com/"
+website: http://www.rogersfurnituresc.com/

@@ -1,11 +1,11 @@
 id: 886792545
-type: way
+type: node
 latitude: 34.18482
 longitude: -82.15886
 postcode: "29646"
 city: Greenwood
-street: "Circular Avenue"
-housenumber: 120
+street: Circular Avenue
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

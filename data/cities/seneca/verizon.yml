@@ -1,11 +1,11 @@
 id: 1221581239
-type: way
+type: node
 latitude: 34.69253
 longitude: -82.98203
 postcode: "29678"
 city: Seneca
-street: "Sandifer Boulevard"
-housenumber: 1227
+street: Sandifer Boulevard
+housenumber: "1227"
 phone: ""
 opening_hours: ""
 website: ""

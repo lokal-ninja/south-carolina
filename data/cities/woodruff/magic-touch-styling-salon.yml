@@ -1,11 +1,11 @@
 id: 619806768
-type: way
+type: node
 latitude: 34.74432
 longitude: -82.04263
 postcode: "29388"
 city: Woodruff
-street: "North Main Street"
-housenumber: 430
+street: North Main Street
+housenumber: "430"
 phone: ""
 opening_hours: ""
 website: ""

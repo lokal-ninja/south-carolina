@@ -1,11 +1,11 @@
 id: 656080869
-type: way
+type: node
 latitude: 32.80238
 longitude: -80.11057
 postcode: "29455"
 city: Johns Island
-street: "Savannah Highway"
-housenumber: 3621
+street: Savannah Highway
+housenumber: "3621"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-3621+savannah+hwy-johns+island-sc-29455/id=12635"
+website: https://www.walgreens.com/locator/walgreens-3621+savannah+hwy-johns+island-sc-29455/id=12635

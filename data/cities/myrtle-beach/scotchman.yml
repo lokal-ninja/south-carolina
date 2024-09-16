@@ -1,11 +1,11 @@
 id: 264248059
-type: way
+type: node
 latitude: 33.63285
 longitude: -78.96337
 postcode: "29575"
 city: Myrtle Beach
-street: "Dick Pond Road"
-housenumber: 1272
-phone: "+1-843-293-5330"
-opening_hours: "24/7"
+street: Dick Pond Road
+housenumber: "1272"
+phone: +1-843-293-5330
+opening_hours: 24/7
 website: ""

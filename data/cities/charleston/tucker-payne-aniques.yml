@@ -1,11 +1,11 @@
 id: 445269874
-type: way
+type: node
 latitude: 32.7786
 longitude: -79.93346
 postcode: "29401"
 city: Charleston
-street: "King Street"
-housenumber: 169
+street: King Street
+housenumber: "169"
 phone: ""
 opening_hours: ""
-website: "https://tuckerpayneantiques.com"
+website: https://tuckerpayneantiques.com

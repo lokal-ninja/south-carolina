@@ -1,11 +1,11 @@
 id: 438102674
-type: way
+type: node
 latitude: 34.06907
 longitude: -81.15959
 postcode: "29212"
 city: Columbia
-street: "Harbison Boulevard"
-housenumber: 246
-phone: "+1 803-781-6339"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/sc/columbia-store0399.html"
+street: Harbison Boulevard
+housenumber: "246"
+phone: +1 803-781-6339
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/sc/columbia-store0399.html

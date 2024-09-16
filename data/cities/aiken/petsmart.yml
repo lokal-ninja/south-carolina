@@ -1,11 +1,11 @@
 id: 540840074
-type: way
+type: node
 latitude: 33.50546
 longitude: -81.71238
 postcode: "29803"
 city: Aiken
-street: "Whiskey Road"
-housenumber: 2527
-phone: "+1 803-643-8626"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/sc/aiken-store1236.html"
+street: Whiskey Road
+housenumber: "2527"
+phone: +1 803-643-8626
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/sc/aiken-store1236.html

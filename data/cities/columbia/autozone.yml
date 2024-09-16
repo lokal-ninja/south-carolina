@@ -1,11 +1,11 @@
 id: 507681609
-type: way
+type: node
 latitude: 34.14106
 longitude: -80.9401
 postcode: "29229"
 city: Columbia
-street: "Ricky Lane"
-housenumber: 211
+street: Ricky Lane
+housenumber: "211"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/sc/columbia/211-ricky-ln.html"
+website: https://www.autozone.com/locations/sc/columbia/211-ricky-ln.html

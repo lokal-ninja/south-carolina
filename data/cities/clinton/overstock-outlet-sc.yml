@@ -1,11 +1,11 @@
 id: 558399928
-type: way
+type: node
 latitude: 34.47387
 longitude: -81.88324
 postcode: "29325"
 city: Clinton
-street: "Laurens Street"
-housenumber: 100
+street: Laurens Street
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

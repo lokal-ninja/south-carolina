@@ -1,11 +1,11 @@
 id: 544008125
-type: way
+type: node
 latitude: 33.99462
 longitude: -81.22751
 postcode: "29072"
 city: Lexington
-street: "Sunset Boulevard"
-housenumber: 5608
-phone: "+1 803 957 5222"
+street: Sunset Boulevard
+housenumber: "5608"
+phone: +1 803 957 5222
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/lexington-sc-pharmacies/5608-sunset-blvd-lexington-sc-29072/storeid=7334"
+website: https://www.cvs.com/store-locator/lexington-sc-pharmacies/5608-sunset-blvd-lexington-sc-29072/storeid=7334

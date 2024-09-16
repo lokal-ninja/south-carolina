@@ -4,8 +4,8 @@ latitude: 34.05395
 longitude: -81.15911
 postcode: "29212"
 city: Columbia
-street: "Saint Andrews Road"
-housenumber: 6030
+street: Saint Andrews Road
+housenumber: "6030"
 phone: ""
-opening_hours: "by appointment"
-website: "https://ucbridal.com/"
+opening_hours: '"by appointment"'
+website: https://ucbridal.com/

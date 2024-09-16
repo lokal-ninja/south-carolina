@@ -1,11 +1,11 @@
 id: 49301960
-type: way
+type: node
 latitude: 34.88804
 longitude: -82.40322
 postcode: "29609"
 city: Greenville
-street: "Poinsett Highway"
-housenumber: 1500
+street: Poinsett Highway
+housenumber: "1500"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 607665345
-type: way
+type: node
 latitude: 35.03277
 longitude: -82.40293
 postcode: "29690"
 city: Travelers Rest
-street: "Mush Creek Road"
-housenumber: 254
+street: Mush Creek Road
+housenumber: "254"
 phone: ""
 opening_hours: ""
-website: "https://wellbornwinery.com"
+website: https://wellbornwinery.com

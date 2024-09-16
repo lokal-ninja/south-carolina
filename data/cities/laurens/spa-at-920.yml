@@ -1,11 +1,11 @@
 id: 492856141
-type: way
+type: node
 latitude: 34.49335
 longitude: -82.03149
 postcode: "29360"
 city: Laurens
-street: "West Main Street"
-housenumber: 920
+street: West Main Street
+housenumber: "920"
 phone: ""
 opening_hours: ""
 website: ""

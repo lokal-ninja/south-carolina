@@ -1,11 +1,11 @@
 id: 674319180
-type: way
+type: node
 latitude: 34.68495
 longitude: -82.94801
 postcode: "29678"
 city: Seneca
-street: "North Cherry Street"
-housenumber: 102
+street: North Cherry Street
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

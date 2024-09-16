@@ -1,11 +1,11 @@
 id: 615266698
-type: way
+type: node
 latitude: 33.58394
 longitude: -79.01284
 postcode: "29576"
 city: Murrells Inlet
-street: "South Highway 17"
-housenumber: 2939
-phone: "+1 843-235-7101"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/sc/murrells-inlet/garden-city-beach/011/00025"
+street: South Highway 17
+housenumber: "2939"
+phone: +1 843-235-7101
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/sc/murrells-inlet/garden-city-beach/011/00025

@@ -1,11 +1,11 @@
 id: 1078914741
-type: way
+type: node
 latitude: 33.86711
 longitude: -78.63604
 postcode: "29566"
 city: Little River
-street: "US Highway 17"
-housenumber: 860
-phone: "+1-843-249-0099"
-opening_hours: "24/7"
+street: US Highway 17
+housenumber: "860"
+phone: +1-843-249-0099
+opening_hours: 24/7
 website: ""

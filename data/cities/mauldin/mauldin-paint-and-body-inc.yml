@@ -1,11 +1,11 @@
 id: 313323169
-type: way
+type: node
 latitude: 34.79049
 longitude: -82.31441
 postcode: "29662"
 city: Mauldin
-street: "North Main Street"
-housenumber: 621
+street: North Main Street
+housenumber: "621"
 phone: ""
 opening_hours: ""
 website: ""

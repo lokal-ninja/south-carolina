@@ -1,11 +1,11 @@
 id: 434566566
-type: way
+type: node
 latitude: 35.04822
 longitude: -81.98535
 postcode: "29316"
 city: Boiling Springs
-street: "Highway 9"
-housenumber: 3901
+street: Highway 9
+housenumber: "3901"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/sc/boiling-springs/3901-highway-9.html"
+website: https://www.autozone.com/locations/sc/boiling-springs/3901-highway-9.html

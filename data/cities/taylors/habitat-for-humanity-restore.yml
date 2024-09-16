@@ -1,11 +1,11 @@
 id: 307000396
-type: way
+type: node
 latitude: 34.90924
 longitude: -82.32974
 postcode: "29687"
 city: Taylors
-street: "Wade Hampton Boulevard"
-housenumber: 3033
+street: Wade Hampton Boulevard
+housenumber: "3033"
 phone: ""
 opening_hours: ""
 website: ""

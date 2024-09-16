@@ -1,11 +1,11 @@
 id: 334446603
-type: way
+type: node
 latitude: 34.70552
 longitude: -82.26077
 postcode: "29680"
 city: Simpsonville
-street: "Fairview Road"
-housenumber: 694
-phone: "+1 864-963-7251"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/simpsonville/1870"
+street: Fairview Road
+housenumber: "694"
+phone: +1 864-963-7251
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/simpsonville/1870

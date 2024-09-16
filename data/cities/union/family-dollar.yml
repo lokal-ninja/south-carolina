@@ -1,11 +1,11 @@
 id: 853552002
-type: way
+type: node
 latitude: 34.71529
 longitude: -81.61962
 postcode: "29379"
 city: Union
-street: "East Main Street"
-housenumber: 400
+street: East Main Street
+housenumber: "400"
 phone: ""
 opening_hours: ""
 website: ""

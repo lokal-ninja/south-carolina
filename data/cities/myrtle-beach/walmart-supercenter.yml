@@ -1,11 +1,11 @@
 id: 43793035
-type: way
+type: node
 latitude: 33.70386
 longitude: -78.91265
 postcode: "29577"
 city: Myrtle Beach
-street: "Seaboard Street"
-housenumber: 541
-phone: "+1 843-445-7781"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2712/myrtle-beach-sc/whats-new"
+street: Seaboard Street
+housenumber: "541"
+phone: +1 843-445-7781
+opening_hours: 24/7
+website: https://www.walmart.com/store/2712/myrtle-beach-sc/whats-new

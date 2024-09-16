@@ -1,11 +1,11 @@
 id: 367132967
-type: way
+type: node
 latitude: 34.78171
 longitude: -82.31189
 postcode: "29662"
 city: Mauldin
-street: "North Main Street"
-housenumber: 205
+street: North Main Street
+housenumber: "205"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/sc/mauldin/autoparts-4917.html"
+website: https://locations.oreillyauto.com/sc/mauldin/autoparts-4917.html

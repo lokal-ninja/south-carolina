@@ -1,11 +1,11 @@
 id: 558399939
-type: way
+type: node
 latitude: 34.47682
 longitude: -81.88163
 postcode: "29325"
 city: Clinton
-street: "North Broad Street"
-housenumber: 401
+street: North Broad Street
+housenumber: "401"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:45"
+opening_hours: Mo-Su 06:00-22:45
 website: ""

@@ -1,11 +1,11 @@
 id: 991562122
-type: way
+type: node
 latitude: 34.88081
 longitude: -82.45388
 postcode: "29617"
 city: Greenville
-street: "West Parker Road"
-housenumber: 2304
+street: West Parker Road
+housenumber: "2304"
 phone: ""
 opening_hours: ""
-website: "https://yeagervisioncare.com/"
+website: https://yeagervisioncare.com/

@@ -1,11 +1,11 @@
 id: 673765007
-type: way
+type: node
 latitude: 34.96924
 longitude: -81.93163
 postcode: "29303"
 city: Spartanburg
-street: "Mccravy Drive"
-housenumber: 402
+street: Mccravy Drive
+housenumber: "402"
 phone: ""
 opening_hours: ""
 website: ""

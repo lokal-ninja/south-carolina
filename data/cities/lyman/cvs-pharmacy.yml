@@ -1,11 +1,11 @@
 id: 546246922
-type: way
+type: node
 latitude: 34.95523
 longitude: -82.12755
 postcode: "29365"
 city: Lyman
-street: "Locust Street"
-housenumber: 101
+street: Locust Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/lyman-sc-pharmacies/101-locust-street-lyman-sc-29365/storeid=7505"
+website: https://www.cvs.com/store-locator/lyman-sc-pharmacies/101-locust-street-lyman-sc-29365/storeid=7505

@@ -4,8 +4,8 @@ latitude: 34.8445
 longitude: -82.40482
 postcode: "29601"
 city: Greenville
-street: "South Main Street"
-housenumber: 718
+street: South Main Street
+housenumber: "718"
 phone: ""
 opening_hours: ""
-website: "https://custardboutique.com/"
+website: https://custardboutique.com/

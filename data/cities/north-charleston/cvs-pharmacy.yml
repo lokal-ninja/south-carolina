@@ -1,11 +1,11 @@
 id: 998034520
-type: way
+type: node
 latitude: 32.97451
 longitude: -80.06233
 postcode: "29406"
 city: North Charleston
-street: "University Boulevard"
-housenumber: 8995
+street: University Boulevard
+housenumber: "8995"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/north-charleston-sc-pharmacies/8995-university-blvd-north-charleston-sc-29406/storeid=626"
+website: https://www.cvs.com/store-locator/north-charleston-sc-pharmacies/8995-university-blvd-north-charleston-sc-29406/storeid=626

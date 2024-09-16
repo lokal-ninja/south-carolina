@@ -1,11 +1,11 @@
 id: 686323423
-type: way
+type: node
 latitude: 35.13768
 longitude: -82.10332
 postcode: "29322"
 city: Campobello
-street: "Highway 11"
-housenumber: 8999
+street: Highway 11
+housenumber: "8999"
 phone: ""
 opening_hours: ""
 website: ""

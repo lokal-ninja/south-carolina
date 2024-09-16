@@ -1,11 +1,11 @@
 id: 301418685
-type: way
+type: node
 latitude: 34.73667
 longitude: -82.25572
 postcode: "29681"
 city: Simpsonville
-street: "South Main Street"
-housenumber: 126
+street: South Main Street
+housenumber: "126"
 phone: ""
 opening_hours: ""
 website: ""

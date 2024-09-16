@@ -1,11 +1,11 @@
 id: 936505603
-type: way
+type: node
 latitude: 34.5012
 longitude: -82.01617
 postcode: "29360"
 city: Laurens
-street: "Caroline Street"
-housenumber: 202
+street: Caroline Street
+housenumber: "202"
 phone: ""
 opening_hours: ""
 website: ""

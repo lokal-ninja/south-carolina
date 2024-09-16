@@ -1,11 +1,11 @@
 id: 293797573
-type: way
+type: node
 latitude: 34.87204
 longitude: -82.25504
 postcode: "29650"
 city: Greer
-street: "The Parkway"
-housenumber: 461
+street: The Parkway
+housenumber: "461"
 phone: ""
 opening_hours: ""
 website: ""

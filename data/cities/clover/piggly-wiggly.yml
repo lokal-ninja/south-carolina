@@ -1,11 +1,11 @@
 id: 550502832
-type: way
+type: node
 latitude: 35.11028
 longitude: -81.22917
 postcode: "29710"
 city: Clover
-street: "South Main Street"
-housenumber: 136
-phone: "+1 803-222-3400"
+street: South Main Street
+housenumber: "136"
+phone: +1 803-222-3400
 opening_hours: ""
-website: "https://www.thepig.net/"
+website: https://www.thepig.net/

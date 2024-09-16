@@ -1,11 +1,11 @@
 id: 1058413507
-type: way
+type: node
 latitude: 33.79573
 longitude: -78.75074
 postcode: "29572"
 city: North Myrtle Beach
-street: "North Kings Highway"
-housenumber: 10495
+street: North Kings Highway
+housenumber: "10495"
 phone: ""
 opening_hours: ""
-website: "https://briarcliffervresort.com/"
+website: https://briarcliffervresort.com/

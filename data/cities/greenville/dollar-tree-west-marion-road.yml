@@ -1,11 +1,11 @@
 id: 1298227517
-type: way
+type: node
 latitude: 34.85722
 longitude: -82.45679
 postcode: "29611"
 city: Greenville
-street: "West Marion Road"
-housenumber: 594
+street: West Marion Road
+housenumber: "594"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/sc/greenville/1149/"
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/sc/greenville/1149/

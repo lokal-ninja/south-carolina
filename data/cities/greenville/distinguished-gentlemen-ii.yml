@@ -1,11 +1,11 @@
 id: 543006867
-type: way
+type: node
 latitude: 34.84653
 longitude: -82.40833
 postcode: "29601"
 city: Greenville
-street: "Westfield Street"
-housenumber: 488
+street: Westfield Street
+housenumber: "488"
 phone: ""
 opening_hours: ""
 website: ""

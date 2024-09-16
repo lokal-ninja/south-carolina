@@ -1,11 +1,11 @@
 id: 1115013030
-type: way
+type: node
 latitude: 34.69917
 longitude: -82.93989
 postcode: "29678"
 city: Seneca
-street: "Bypass 123"
-housenumber: 109
+street: Bypass 123
+housenumber: "109"
 phone: ""
 opening_hours: ""
 website: ""

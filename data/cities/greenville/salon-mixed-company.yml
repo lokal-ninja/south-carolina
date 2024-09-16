@@ -1,11 +1,11 @@
 id: 41937667
-type: way
+type: node
 latitude: 34.85847
 longitude: -82.38539
 postcode: "29601"
 city: Greenville
-street: "East Stone Avenue"
-housenumber: 602
+street: East Stone Avenue
+housenumber: "602"
 phone: ""
 opening_hours: ""
 website: ""

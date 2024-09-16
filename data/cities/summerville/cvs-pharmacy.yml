@@ -1,11 +1,11 @@
 id: 998025259
-type: way
+type: node
 latitude: 32.96837
 longitude: -80.16781
 postcode: "29485"
 city: Summerville
-street: "Old Trolley Road"
-housenumber: 1515
+street: Old Trolley Road
+housenumber: "1515"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/summerville-sc-pharmacies/1515-old-trolley-rd-summerville-sc-29485/storeid=563"
+website: https://www.cvs.com/store-locator/summerville-sc-pharmacies/1515-old-trolley-rd-summerville-sc-29485/storeid=563

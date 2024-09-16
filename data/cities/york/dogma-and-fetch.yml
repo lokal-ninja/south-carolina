@@ -1,11 +1,11 @@
 id: 240097886
-type: way
+type: node
 latitude: 34.99492
 longitude: -81.24129
 postcode: ""
 city: York
-street: "North Congress Street"
-housenumber: 24
-phone: "+1 803-628-1414"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://www.dogmaandfetch.com/"
+street: North Congress Street
+housenumber: "24"
+phone: +1 803-628-1414
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://www.dogmaandfetch.com/

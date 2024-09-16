@@ -1,11 +1,11 @@
 id: 704356983
-type: way
+type: node
 latitude: 34.70569
 longitude: -82.48922
 postcode: "29673"
 city: Piedmont
-street: "Prosperity Boulevard"
-housenumber: 100
+street: Prosperity Boulevard
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

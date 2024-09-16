@@ -1,11 +1,11 @@
 id: 641071810
-type: way
+type: node
 latitude: 35.11761
 longitude: -81.07738
 postcode: "29710"
 city: Lake Wylie
-street: "Channel Road"
-housenumber: 415
+street: Channel Road
+housenumber: "415"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/sc/lakewylie/autoparts-5204.html"
+website: https://locations.oreillyauto.com/sc/lakewylie/autoparts-5204.html

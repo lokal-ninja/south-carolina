@@ -1,11 +1,11 @@
 id: 703985922
-type: way
+type: node
 latitude: 32.25959
 longitude: -80.85511
 postcode: "29910"
 city: Bluffton
-street: "Bluffton Road"
-housenumber: 4
-phone: "+1 843-815-5159"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/6395/bluffton-sc/whats-new"
+street: Bluffton Road
+housenumber: "4"
+phone: +1 843-815-5159
+opening_hours: 24/7
+website: https://www.walmart.com/store/6395/bluffton-sc/whats-new

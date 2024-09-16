@@ -1,11 +1,11 @@
 id: 819839198
-type: way
+type: node
 latitude: 34.70515
 longitude: -82.24201
 postcode: "29681"
 city: Simpsonville
-street: "Harrison Bridge Road"
-housenumber: 200
+street: Harrison Bridge Road
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

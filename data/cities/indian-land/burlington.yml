@@ -1,11 +1,11 @@
 id: 1150992067
-type: way
+type: node
 latitude: 34.94128
 longitude: -80.83497
 postcode: "29707"
 city: Indian Land
-street: "Charlotte Highway"
-housenumber: 7822
-phone: "+1 864-580-4070"
-opening_hours: "Mo-Sa 09:00-23:00; Su 09:00-22:00"
-website: "https://stores.burlington.com/sc/indian-land/1085"
+street: Charlotte Highway
+housenumber: "7822"
+phone: +1 864-580-4070
+opening_hours: Mo-Sa 09:00-23:00; Su 09:00-22:00
+website: https://stores.burlington.com/sc/indian-land/1085

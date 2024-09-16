@@ -1,11 +1,11 @@
 id: 1070561642
-type: way
+type: node
 latitude: 34.6592
 longitude: -82.93416
 postcode: "29678"
 city: Seneca
-street: "South Walnut Street"
-housenumber: 1470
+street: South Walnut Street
+housenumber: "1470"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 553048963
-type: way
+type: node
 latitude: 34.98444
 longitude: -82.42276
 postcode: "29690"
 city: Travelers Rest
-street: "Blue Ridge Drive"
-housenumber: 14
-phone: "+1 864 421 3524"
+street: Blue Ridge Drive
+housenumber: "14"
+phone: +1 864 421 3524
 opening_hours: ""
-website: "https://blueridgecreamery.net/"
+website: https://blueridgecreamery.net/

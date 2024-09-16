@@ -1,11 +1,11 @@
 id: 48927935
-type: way
+type: node
 latitude: 33.72026
 longitude: -78.92847
 postcode: "29579"
 city: Myrtle Beach
-street: "Waccamaw Boulevard"
-housenumber: 3354
-phone: "+1-843-732-2021"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-14:00"
+street: Waccamaw Boulevard
+housenumber: "3354"
+phone: +1-843-732-2021
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-14:00
 website: ""

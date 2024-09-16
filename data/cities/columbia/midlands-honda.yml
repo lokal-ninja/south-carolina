@@ -1,11 +1,11 @@
 id: 1079147063
-type: way
+type: node
 latitude: 34.13401
 longitude: -80.96224
 postcode: "29203"
 city: Columbia
-street: "Killians Commons Parkway"
-housenumber: 124
-phone: "+1-803-291-4995"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su off"
-website: "https://www.midlandshonda.com"
+street: Killians Commons Parkway
+housenumber: "124"
+phone: +1-803-291-4995
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su off
+website: https://www.midlandshonda.com

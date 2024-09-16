@@ -1,11 +1,11 @@
 id: 30199816
-type: way
+type: node
 latitude: 32.94205
 longitude: -80.04328
 postcode: "29406"
 city: North Charleston
-street: "Northwoods Boulevard"
-housenumber: 2150
-phone: "+1 (843) 797-3062"
+street: Northwoods Boulevard
+housenumber: "2150"
+phone: +1 (843) 797-3062
 opening_hours: ""
-website: "https://www.shopnorthwoodsmall.com/"
+website: https://www.shopnorthwoodsmall.com/

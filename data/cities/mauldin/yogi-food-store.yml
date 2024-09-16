@@ -1,11 +1,11 @@
 id: 75101016
-type: way
+type: node
 latitude: 34.78153
 longitude: -82.31075
 postcode: "29662"
 city: Mauldin
-street: "North Main Street"
-housenumber: 206
-phone: "864-297-0891"
+street: North Main Street
+housenumber: "206"
+phone: 864-297-0891
 opening_hours: ""
 website: ""

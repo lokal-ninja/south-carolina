@@ -1,11 +1,11 @@
 id: 571047731
-type: way
+type: node
 latitude: 34.78005
 longitude: -82.3948
 postcode: "29605"
 city: Greenville
-street: "White Horse Road"
-housenumber: 824
+street: White Horse Road
+housenumber: "824"
 phone: ""
 opening_hours: ""
-website: "http://greenvillemeats.net/"
+website: http://greenvillemeats.net/

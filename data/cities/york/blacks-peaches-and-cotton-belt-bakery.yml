@@ -1,11 +1,11 @@
 id: 1188782686
-type: way
+type: node
 latitude: 35.02318
 longitude: -81.27829
 postcode: "29745"
 city: York
-street: "Black Hwy"
-housenumber: 1800
-phone: "803-684-2333"
+street: Black Hwy
+housenumber: "1800"
+phone: 803-684-2333
 opening_hours: ""
 website: ""

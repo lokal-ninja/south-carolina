@@ -1,11 +1,11 @@
 id: 577818785
-type: way
+type: node
 latitude: 34.88716
 longitude: -82.06754
 postcode: "29334"
 city: Duncan
-street: "East Main Street"
-housenumber: 1605
+street: East Main Street
+housenumber: "1605"
 phone: ""
-opening_hours: "24/7"
-website: "https://kangarooexpress.com/"
+opening_hours: 24/7
+website: https://kangarooexpress.com/

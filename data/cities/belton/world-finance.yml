@@ -1,11 +1,11 @@
 id: 830550411
-type: way
+type: node
 latitude: 34.51542
 longitude: -82.51215
 postcode: "29627"
 city: Belton
-street: "Anderson Street"
-housenumber: 765
+street: Anderson Street
+housenumber: "765"
 phone: ""
 opening_hours: ""
-website: "https://www.loansbyworld.com/branches/branch-220"
+website: https://www.loansbyworld.com/branches/branch-220

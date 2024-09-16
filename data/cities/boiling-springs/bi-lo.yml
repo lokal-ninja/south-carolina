@@ -1,11 +1,11 @@
 id: 385070020
-type: way
+type: node
 latitude: 35.04775
 longitude: -81.98215
 postcode: "29316"
 city: Boiling Springs
-street: "Boiling Springs Road"
-housenumber: 3720
+street: Boiling Springs Road
+housenumber: "3720"
 phone: ""
 opening_hours: ""
 website: ""

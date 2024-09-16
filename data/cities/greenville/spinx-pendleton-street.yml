@@ -1,11 +1,11 @@
 id: 575563472
-type: way
+type: node
 latitude: 34.84428
 longitude: -82.42082
 postcode: "29601"
 city: Greenville
-street: "Pendleton Street"
-housenumber: 1103
+street: Pendleton Street
+housenumber: "1103"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 702430432
-type: way
+type: node
 latitude: 34.8902
 longitude: -82.15913
 postcode: "29334"
 city: Duncan
-street: "Freeman Farm Road"
-housenumber: 16
+street: Freeman Farm Road
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

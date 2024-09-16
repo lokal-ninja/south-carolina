@@ -1,11 +1,11 @@
 id: 549588129
-type: way
+type: node
 latitude: 34.83701
 longitude: -82.31483
 postcode: "29607"
 city: Greenville
-street: "Woodruff Road"
-housenumber: 1005
+street: Woodruff Road
+housenumber: "1005"
 phone: ""
 opening_hours: ""
-website: "https://www.cbac.com"
+website: https://www.cbac.com

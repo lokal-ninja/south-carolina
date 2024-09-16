@@ -1,11 +1,11 @@
 id: 1194873493
-type: way
+type: node
 latitude: 34.74508
 longitude: -82.35619
 postcode: "29605"
 city: Greenville
-street: "Fork Shoals Road"
-housenumber: 1304
+street: Fork Shoals Road
+housenumber: "1304"
 phone: ""
 opening_hours: ""
-website: "https://www.myspinx.com/1304-fork-shoals-road/"
+website: https://www.myspinx.com/1304-fork-shoals-road/

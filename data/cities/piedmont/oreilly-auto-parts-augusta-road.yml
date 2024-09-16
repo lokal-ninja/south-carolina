@@ -1,11 +1,11 @@
 id: 815117403
-type: way
+type: node
 latitude: 34.72911
 longitude: -82.38873
 postcode: "29673"
 city: Piedmont
-street: "Augusta Road"
-housenumber: 7465
+street: Augusta Road
+housenumber: "7465"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/sc/piedmont/autoparts-6300.html"
+website: https://locations.oreillyauto.com/sc/piedmont/autoparts-6300.html

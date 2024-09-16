@@ -1,11 +1,11 @@
 id: 830550447
-type: way
+type: node
 latitude: 34.52098
 longitude: -82.5029
 postcode: "29627"
 city: Belton
-street: "Anderson Street"
-housenumber: 702
+street: Anderson Street
+housenumber: "702"
 phone: ""
 opening_hours: ""
 website: ""

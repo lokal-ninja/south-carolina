@@ -1,11 +1,11 @@
 id: 739481520
-type: way
+type: node
 latitude: 35.10502
 longitude: -81.61552
 postcode: "29340"
 city: Gaffney
-street: "Shelby Highway"
-housenumber: 244
+street: Shelby Highway
+housenumber: "244"
 phone: ""
 opening_hours: ""
 website: ""

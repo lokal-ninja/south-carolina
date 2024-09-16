@@ -1,11 +1,11 @@
 id: 512989254
-type: way
+type: node
 latitude: 34.06779
 longitude: -81.16262
-postcode: "29212-2204"
+postcode: 29212-2204
 city: Columbia
-street: "Harbison Boulevard"
-housenumber: 150
-phone: "+1 803-407-0449"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/656"
+street: Harbison Boulevard
+housenumber: "150"
+phone: +1 803-407-0449
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/656

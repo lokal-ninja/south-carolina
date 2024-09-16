@@ -1,11 +1,11 @@
 id: 150907584
-type: way
+type: node
 latitude: 34.12999
 longitude: -80.87677
 postcode: "29229"
 city: Columbia
-street: "Forum Drive"
-housenumber: 210
-phone: "+1-803-419-2181"
-opening_hours: "Mo-Sa 11:00-19:00; Su 12:00-18:00"
-website: "https://storelocations.ae.com/us/sc/columbia/210-forum-drive.html"
+street: Forum Drive
+housenumber: "210"
+phone: +1-803-419-2181
+opening_hours: Mo-Sa 11:00-19:00; Su 12:00-18:00
+website: https://storelocations.ae.com/us/sc/columbia/210-forum-drive.html

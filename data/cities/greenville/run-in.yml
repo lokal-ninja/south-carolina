@@ -1,11 +1,11 @@
 id: 571151627
-type: way
+type: node
 latitude: 34.85025
 longitude: -82.38357
 postcode: "29607"
 city: Greenville
-street: "East Washington Street"
-housenumber: 1301
-phone: "+1 864 370 9721"
+street: East Washington Street
+housenumber: "1301"
+phone: +1 864 370 9721
 opening_hours: ""
-website: "https://www.runin.com/"
+website: https://www.runin.com/

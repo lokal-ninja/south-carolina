@@ -1,11 +1,11 @@
 id: 1202969121
-type: way
+type: node
 latitude: 34.75427
 longitude: -82.04154
 postcode: "29388"
 city: Woodruff
-street: "Highway 221"
-housenumber: 10297
+street: Highway 221
+housenumber: "10297"
 phone: ""
 opening_hours: ""
-website: "https://countrymeatcenter.com/"
+website: https://countrymeatcenter.com/

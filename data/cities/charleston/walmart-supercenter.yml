@@ -1,11 +1,11 @@
 id: 550973119
-type: way
+type: node
 latitude: 32.8212
 longitude: -80.08242
-postcode: "29414-9156"
+postcode: 29414-9156
 city: Charleston
-street: "West Ashley Circle"
-housenumber: 3951
-phone: "+1 843-763-5554"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1748-charleston-sc"
+street: West Ashley Circle
+housenumber: "3951"
+phone: +1 843-763-5554
+opening_hours: 24/7
+website: https://www.walmart.com/store/1748-charleston-sc

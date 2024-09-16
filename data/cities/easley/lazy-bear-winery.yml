@@ -1,11 +1,11 @@
 id: 1187899829
-type: way
+type: node
 latitude: 34.90946
 longitude: -82.57341
 postcode: "29640"
 city: Easley
-street: "Hester Store Road"
-housenumber: 644
+street: Hester Store Road
+housenumber: "644"
 phone: ""
 opening_hours: ""
-website: "https://www.lazybearwinery.com/"
+website: https://www.lazybearwinery.com/

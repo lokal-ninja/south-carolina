@@ -1,11 +1,11 @@
 id: 888869565
-type: way
+type: node
 latitude: 34.88188
 longitude: -82.71061
 postcode: "29671"
 city: Pickens
-street: "South Catherine Street"
-housenumber: 202
+street: South Catherine Street
+housenumber: "202"
 phone: ""
 opening_hours: ""
 website: ""

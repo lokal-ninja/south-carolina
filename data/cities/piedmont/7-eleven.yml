@@ -1,11 +1,11 @@
 id: 666478039
-type: way
+type: node
 latitude: 34.69721
 longitude: -82.39639
 postcode: "29673"
 city: Piedmont
-street: "Augusta Road"
-housenumber: 7803
+street: Augusta Road
+housenumber: "7803"
 phone: ""
 opening_hours: ""
 website: ""

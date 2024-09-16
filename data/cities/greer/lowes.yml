@@ -1,11 +1,11 @@
 id: 521075280
-type: way
+type: node
 latitude: 34.94042
 longitude: -82.2664
 postcode: "29650"
 city: Greer
-street: "West Wade Hampton Boulevard"
-housenumber: 1370
-phone: "+1 864-879-8448"
-opening_hours: "Mo-Fr 06:00-21:00; Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/SC-Greer/0667"
+street: West Wade Hampton Boulevard
+housenumber: "1370"
+phone: +1 864-879-8448
+opening_hours: Mo-Fr 06:00-21:00; Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/SC-Greer/0667

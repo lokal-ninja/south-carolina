@@ -1,11 +1,11 @@
 id: 675315860
-type: way
+type: node
 latitude: 35.01675
 longitude: -81.96021
 postcode: "29316"
 city: Boiling Springs
-street: "Boiling Springs Road"
-housenumber: 1888
+street: Boiling Springs Road
+housenumber: "1888"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/boiling-springs-sc-pharmacies/1888-boiling-springs-road-boiling-springs-sc-29316/storeid=7567"
+website: https://www.cvs.com/store-locator/boiling-springs-sc-pharmacies/1888-boiling-springs-road-boiling-springs-sc-29316/storeid=7567

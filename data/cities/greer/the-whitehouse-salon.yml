@@ -1,11 +1,11 @@
 id: 404713836
-type: way
+type: node
 latitude: 34.9362
 longitude: -82.22768
 postcode: "29650"
 city: Greer
-street: "School Street"
-housenumber: 200
+street: School Street
+housenumber: "200"
 phone: ""
 opening_hours: ""
-website: "https://thewhitehousesalon.com/"
+website: https://thewhitehousesalon.com/

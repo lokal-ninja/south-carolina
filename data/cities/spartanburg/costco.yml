@@ -1,11 +1,11 @@
 id: 73549684
-type: way
+type: node
 latitude: 34.93964
 longitude: -81.99828
 postcode: "29301"
 city: Spartanburg
-street: "West Blackstock Road"
-housenumber: 211
-phone: "+1 864-515-4942"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/spartanburg-sc-1008.html"
+street: West Blackstock Road
+housenumber: "211"
+phone: +1 864-515-4942
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/spartanburg-sc-1008.html

@@ -1,11 +1,11 @@
 id: 323620675
-type: way
+type: node
 latitude: 33.99892
 longitude: -81.01709
 postcode: "29205"
 city: Columbia
-street: "Saluda Avenue"
-housenumber: 724
+street: Saluda Avenue
+housenumber: "724"
 phone: ""
 opening_hours: ""
 website: ""

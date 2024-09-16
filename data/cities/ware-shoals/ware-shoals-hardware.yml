@@ -1,11 +1,11 @@
 id: 1056024814
-type: way
+type: node
 latitude: 34.3992
 longitude: -82.24508
 postcode: "29692"
 city: Ware Shoals
-street: "Mill Street"
-housenumber: 11
+street: Mill Street
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.wareshoalshardware.com/"
+website: https://www.wareshoalshardware.com/

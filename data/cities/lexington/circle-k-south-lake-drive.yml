@@ -1,11 +1,11 @@
 id: 688988834
-type: way
+type: node
 latitude: 33.96246
 longitude: -81.23095
 postcode: "29072"
 city: Lexington
-street: "South Lake Drive"
-housenumber: 889
-phone: "+1 803 821 9057"
+street: South Lake Drive
+housenumber: "889"
+phone: +1 803 821 9057
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1234834134
-type: way
+type: node
 latitude: 33.3187
 longitude: -80.41158
 postcode: "29059"
 city: Holly Hill
-street: "Gardner Boulevard"
-housenumber: 621
-phone: "+1 803-482-2560"
+street: Gardner Boulevard
+housenumber: "621"
+phone: +1 803-482-2560
 opening_hours: ""
 website: ""

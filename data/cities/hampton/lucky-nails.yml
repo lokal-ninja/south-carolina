@@ -1,11 +1,11 @@
 id: 1112303532
-type: way
+type: node
 latitude: 32.85969
 longitude: -81.09608
 postcode: "29924"
 city: Hampton
-street: "Elm Street East"
-housenumber: 905
+street: Elm Street East
+housenumber: "905"
 phone: ""
 opening_hours: ""
 website: ""

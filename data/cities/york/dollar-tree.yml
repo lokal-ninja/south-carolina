@@ -1,11 +1,11 @@
 id: 992320473
-type: way
+type: node
 latitude: 34.98423
 longitude: -81.2146
 postcode: "29745"
 city: York
-street: "East Liberty Street"
-housenumber: 956
+street: East Liberty Street
+housenumber: "956"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/sc/york/989/"
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/sc/york/989/

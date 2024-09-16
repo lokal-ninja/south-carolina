@@ -1,11 +1,11 @@
 id: 987198347
-type: way
+type: node
 latitude: 34.89702
 longitude: -82.71015
 postcode: "29671"
 city: Pickens
-street: "Ann Street"
-housenumber: 640
+street: Ann Street
+housenumber: "640"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/sc/pickens/15508"
+website: https://www.dollargeneral.com/store-directory/sc/pickens/15508

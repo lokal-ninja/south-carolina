@@ -1,11 +1,11 @@
 id: 685339440
-type: way
+type: node
 latitude: 35.13156
 longitude: -81.86256
 postcode: "29323"
 city: Chesnee
-street: "South Alabama Avenue"
-housenumber: 815
+street: South Alabama Avenue
+housenumber: "815"
 phone: ""
 opening_hours: ""
-website: "https://www.eggersfuneralhome.com/"
+website: https://www.eggersfuneralhome.com/

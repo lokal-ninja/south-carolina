@@ -1,11 +1,11 @@
 id: 507681615
-type: way
+type: node
 latitude: 34.13991
 longitude: -80.94237
 postcode: "29229"
 city: Columbia
-street: "Sams Crossing Drive"
-housenumber: 1051
-phone: "+1 803-476-1320"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/sc-columbia/3026"
+street: Sams Crossing Drive
+housenumber: "1051"
+phone: +1 803-476-1320
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/sc-columbia/3026

@@ -1,11 +1,11 @@
 id: 184521302
-type: way
+type: node
 latitude: 34.93946
 longitude: -80.96142
 postcode: "29730"
 city: Rock Hill
-street: "Springdale Road"
-housenumber: 1350
-phone: "+1 803-324-3170"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/sc-rock-hill/0416"
+street: Springdale Road
+housenumber: "1350"
+phone: +1 803-324-3170
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/sc-rock-hill/0416
