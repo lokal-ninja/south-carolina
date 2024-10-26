@@ -1,5 +1,5 @@
 ---
-title: "Havoline xpress lube"
+title: "Havoline Xpress Lube"
 url: /clemson/havoline-xpress-lube/
 shop: car repair
 ---
