@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /columbia/target-harbison-boulevard/
+url: /columbia/target-garners-ferry-road/
 shop: department store
 ---
