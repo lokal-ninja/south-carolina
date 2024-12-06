@@ -1,6 +1,6 @@
 ---
 title: Hartsville
 url: /hartsville/
-latitude: 34.366
-longitude: -80.064
+latitude: 34.364
+longitude: -80.068
 ---
