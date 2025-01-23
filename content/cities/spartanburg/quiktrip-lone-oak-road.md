@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /greer/quiktrip-highway-101/
+url: /spartanburg/quiktrip-lone-oak-road/
 shop: convenience
 ---
