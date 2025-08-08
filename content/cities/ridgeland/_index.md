@@ -1,6 +1,6 @@
 ---
 title: Ridgeland
 url: /ridgeland/
-latitude: 32.319
-longitude: -80.941
+latitude: 32.479
+longitude: -80.974
 ---

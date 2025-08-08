@@ -1,5 +1,5 @@
 ---
-title: "Carolina Antique Maps and Prints"
+title: "Carolina Antique Maps & Prints"
 url: /charleston/carolina-antique-maps-and-prints/
-shop: collector
+shop: antiques
 ---

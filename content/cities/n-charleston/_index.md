@@ -1,6 +1,6 @@
 ---
-title: N. Charleston
+title: N.Charleston
 url: /n-charleston/
-latitude: 32.871
-longitude: -79.993
+latitude: 32.88
+longitude: -80.02
 ---
