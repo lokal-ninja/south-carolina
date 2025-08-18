@@ -1,6 +1,6 @@
 ---
 title: Turbeville
 url: /turbeville/
-latitude: 33.889
-longitude: -80.021
+latitude: 33.893
+longitude: -80.012
 ---
