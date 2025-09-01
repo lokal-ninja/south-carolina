@@ -1,5 +1,5 @@
 ---
-title: "M. Dumas and Sons"
+title: "M. Dumas & Sons"
 url: /charleston/m-dumas-and-sons/
-shop: clothes
+shop: shop
 ---

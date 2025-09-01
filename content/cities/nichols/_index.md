@@ -1,6 +1,6 @@
 ---
 title: Nichols
 url: /nichols/
-latitude: 34.231
-longitude: -79.145
+latitude: 34.234
+longitude: -79.148
 ---
