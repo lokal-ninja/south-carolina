@@ -7,5 +7,6 @@ city: Charleston
 street: Queen Street
 housenumber: "86"
 phone: +1-843-459-3212
-opening_hours: Mo,Th 09:00-20:00; Tu-We 10:00-20:00; Fr-Sa 09:00-21:00; Su 09:00-20:00
+opening_hours: Mo 09:00-20:00; Tu-We 10:00-20:00; Th 09:00-20:00; Fr-Sa 09:00-21:00;
+    Su 09:00-20:00
 website: https://www.noddycharleston.com

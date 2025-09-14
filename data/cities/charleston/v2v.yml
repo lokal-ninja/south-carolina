@@ -7,6 +7,5 @@ city: Charleston
 street: King Street
 housenumber: "295"
 phone: +1-843-723-5155
-opening_hours: Mo–Tu 10:00–18:00; We 10:00–18:00; Th–Fr 10:00–19:00; Sa 10:00–19:00;
-    Su 12:00–16:00
+opening_hours: Mo-We 10:00-18:00; Th-Sa 10:00-19:00; Su 12:00-16:00
 website: https://shopv2v.com/pages/locations
