@@ -1,5 +1,5 @@
 ---
-title: "Alkyon Arts and Antiques"
+title: "Alkyon Arts & Antiques"
 url: /charleston/alkyon-arts-and-antiques/
-shop: art
+shop: antiques
 ---

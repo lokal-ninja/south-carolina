@@ -7,5 +7,5 @@ city: Charleston
 street: King Street
 housenumber: "185"
 phone: +1-843-722-6730
-opening_hours: Mo,Th-Sa 11:00-17:00
+opening_hours: Mo 11:00-17:00; Th-Sa 11:00-17:00
 website: https://www.jventure.com
