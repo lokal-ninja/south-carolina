@@ -1,6 +1,6 @@
 ---
 title: Campobello
 url: /campobello/
-latitude: 35.116
-longitude: -82.15
+latitude: 35.132
+longitude: -82.043
 ---
