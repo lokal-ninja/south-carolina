@@ -1,6 +1,6 @@
 ---
 title: North Charleston
 url: /north-charleston/
-latitude: 32.933
-longitude: -80.035
+latitude: 32.901
+longitude: -79.987
 ---
