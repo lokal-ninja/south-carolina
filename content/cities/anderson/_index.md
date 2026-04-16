@@ -1,6 +1,6 @@
 ---
 title: Anderson
 url: /anderson/
-latitude: 34.598
-longitude: -82.614
+latitude: 34.511
+longitude: -82.762
 ---

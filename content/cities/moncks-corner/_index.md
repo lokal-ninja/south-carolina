@@ -1,6 +1,6 @@
 ---
 title: Moncks Corner
 url: /moncks-corner/
-latitude: 33.197
-longitude: -80.014
+latitude: 33.21
+longitude: -79.986
 ---
