@@ -1,5 +1,5 @@
 ---
-title: "Here Be Books & Games"
+title: "Here Be Books and Games"
 url: /summerville/here-be-books-and-games-ladson-road/
-shop: books
+shop: games
 ---

@@ -1,5 +1,0 @@
----
-title: "Restore Hyper Wellness"
-url: /mount-pleasant/restore-hyper-wellness-oakland-market-road/
-shop: beauty
----
