@@ -1,6 +1,6 @@
 ---
 title: Saint Matthews
 url: /saint-matthews/
-latitude: 33.661
-longitude: -80.778
+latitude: 33.658
+longitude: -80.78
 ---
