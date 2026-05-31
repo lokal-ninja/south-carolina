@@ -1,6 +1,6 @@
 ---
 title: Florence
 url: /florence/
-latitude: 34.191
-longitude: -79.833
+latitude: 34.193
+longitude: -79.822
 ---
