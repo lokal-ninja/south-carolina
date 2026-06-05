@@ -1,6 +1,6 @@
 ---
 title: Blythewood
 url: /blythewood/
-latitude: 34.184
-longitude: -80.964
+latitude: 34.213
+longitude: -80.977
 ---
