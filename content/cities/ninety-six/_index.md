@@ -1,6 +1,6 @@
 ---
 title: Ninety Six
 url: /ninety-six/
-latitude: 34.176
-longitude: -82.024
+latitude: 34.218
+longitude: -82.183
 ---
