@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
-url: /spartanburg/dollar-tree-east-main-street/
+url: /spartanburg/dollar-tree-fernwood-drive/
 shop: variety store
 ---
