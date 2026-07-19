@@ -1,6 +1,6 @@
 ---
 title: Leesville
 url: /leesville/
-latitude: 34.02
-longitude: -81.44
+latitude: 34.019
+longitude: -81.435
 ---
