@@ -1,6 +1,6 @@
 ---
 title: Conway
 url: /conway/
-latitude: 33.847
-longitude: -79.068
+latitude: 33.849
+longitude: -79.065
 ---

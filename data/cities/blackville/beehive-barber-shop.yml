@@ -7,5 +7,5 @@ city: Blackville
 street: Solomon Blatt Avenue
 housenumber: "20205"
 phone: +1 803 671 8795;+1 803 541 1916
-opening_hours: by_appointment
+opening_hours: '"by appointment"'
 website: ""

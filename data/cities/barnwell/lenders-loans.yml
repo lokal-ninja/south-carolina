@@ -8,5 +8,5 @@ street: Main Street
 housenumber: "169"
 phone: +1 803 541 4600
 opening_hours: Mo-Tu 09:00-17:30; We 09:00-17:00; Th 09:00-17:30; Fr 09:00-18:00;
-    Sa by_appointment
+    Sa "by appointment"
 website: https://lendersloans.com/
