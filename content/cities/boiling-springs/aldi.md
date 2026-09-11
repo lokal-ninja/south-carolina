@@ -1,5 +1,5 @@
 ---
-title: "ALDI"
+title: "Aldi"
 url: /boiling-springs/aldi/
 shop: supermarket
 ---

@@ -1,6 +1,6 @@
 ---
 title: Roebuck
 url: /roebuck/
-latitude: 34.858
-longitude: -81.946
+latitude: 34.846
+longitude: -81.969
 ---
