@@ -1,6 +1,6 @@
 ---
 title: Clover
 url: /clover/
-latitude: 35.111
-longitude: -81.043
+latitude: 35.115
+longitude: -81.051
 ---
